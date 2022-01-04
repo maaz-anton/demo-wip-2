@@ -6,3 +6,4 @@
 2022-01-04T14:15:30  fix: resolve memory leak
 2022-01-04T14:17:33  feat: implement pagination
 2022-01-04T16:45:14  refactor: simplify conditional logic
+2022-01-04T17:52:34  feat: add input sanitization
