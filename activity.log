@@ -3,3 +3,4 @@
 2022-01-04T12:42:44  refactor: extract helper function
 2022-01-04T13:32:47  chore: bump version
 2022-01-04T13:53:57  feat: improve error handling
+2022-01-04T14:15:30  fix: resolve memory leak
