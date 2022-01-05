@@ -9,3 +9,4 @@
 2022-01-04T17:52:34  feat: add input sanitization
 2022-01-05T10:56:32  test: improve test coverage
 2022-01-05T14:43:43  feat: add input sanitization
+2022-01-05T16:04:48  fix: correct type mismatch
