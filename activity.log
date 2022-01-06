@@ -11,3 +11,4 @@
 2022-01-05T14:43:43  feat: add input sanitization
 2022-01-05T16:04:48  fix: correct type mismatch
 2022-01-05T16:15:03  feat: add logging
+2022-01-05T19:41:27  refactor: consolidate duplicate logic
