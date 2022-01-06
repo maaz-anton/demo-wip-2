@@ -13,3 +13,4 @@
 2022-01-05T16:15:03  feat: add logging
 2022-01-05T19:41:27  refactor: consolidate duplicate logic
 2022-01-05T19:59:09  feat: add validation logic
+2022-01-06T08:40:21  refactor: extract helper function
