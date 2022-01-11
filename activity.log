@@ -36,3 +36,4 @@
 2022-01-11T12:03:43  chore: update config
 2022-01-11T13:52:14  refactor: consolidate duplicate logic
 2022-01-11T14:20:28  fix: handle null values correctly
+2022-01-11T14:28:51  refactor: clean up utility functions
