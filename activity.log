@@ -43,3 +43,4 @@
 2022-01-12T11:24:58  refactor: clean up utility functions
 2022-01-12T11:48:46  docs: update README
 2022-01-12T13:26:56  refactor: clean up utility functions
+2022-01-12T14:02:37  fix: correct API response parsing
