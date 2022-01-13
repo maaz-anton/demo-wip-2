@@ -59,3 +59,4 @@
 2022-01-13T15:04:32  refactor: consolidate duplicate logic
 2022-01-13T15:19:14  feat: add retry logic
 2022-01-13T15:20:23  chore: bump version
+2022-01-13T16:06:51  feat: add validation logic
