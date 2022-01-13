@@ -56,3 +56,4 @@
 2022-01-13T13:53:48  chore: bump version
 2022-01-13T14:37:25  style: format code
 2022-01-13T14:50:00  refactor: simplify conditional logic
+2022-01-13T15:04:32  refactor: consolidate duplicate logic
