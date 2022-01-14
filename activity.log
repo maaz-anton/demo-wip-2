@@ -64,3 +64,4 @@
 2022-01-14T09:07:00  chore: bump version
 2022-01-14T12:57:16  refactor: consolidate duplicate logic
 2022-01-14T14:59:25  fix: handle timeout gracefully
+2022-01-14T16:50:48  feat: implement pagination
