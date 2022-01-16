@@ -68,3 +68,4 @@
 2022-01-14T17:22:09  fix: handle null values correctly
 2022-01-14T18:40:19  refactor: clean up utility functions
 2022-01-14T19:16:07  chore: remove dead code
+2022-01-16T12:04:28  feat: add retry logic
