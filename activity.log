@@ -74,3 +74,4 @@
 2022-01-17T08:27:45  refactor: clean up utility functions
 2022-01-17T11:04:23  feat: implement pagination
 2022-01-17T15:01:53  fix: handle timeout gracefully
+2022-01-17T16:58:09  fix: correct type mismatch
