@@ -81,3 +81,4 @@
 2022-01-18T11:07:17  style: format code
 2022-01-18T13:24:05  fix: correct off-by-one error
 2022-01-18T14:37:08  feat: add validation logic
+2022-01-18T16:32:33  feat: implement pagination
