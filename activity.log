@@ -80,3 +80,4 @@
 2022-01-17T20:28:26  refactor: clean up utility functions
 2022-01-18T11:07:17  style: format code
 2022-01-18T13:24:05  fix: correct off-by-one error
+2022-01-18T14:37:08  feat: add validation logic
