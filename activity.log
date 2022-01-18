@@ -77,3 +77,4 @@
 2022-01-17T16:58:09  fix: correct type mismatch
 2022-01-17T20:12:22  docs: update README
 2022-01-17T20:25:59  fix: resolve race condition
+2022-01-17T20:28:26  refactor: clean up utility functions
