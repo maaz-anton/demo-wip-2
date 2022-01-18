@@ -75,3 +75,4 @@
 2022-01-17T11:04:23  feat: implement pagination
 2022-01-17T15:01:53  fix: handle timeout gracefully
 2022-01-17T16:58:09  fix: correct type mismatch
+2022-01-17T20:12:22  docs: update README
