@@ -91,3 +91,4 @@
 2022-01-19T12:10:27  fix: correct type mismatch
 2022-01-19T13:12:04  fix: correct off-by-one error
 2022-01-19T13:22:57  feat: add caching layer
+2022-01-19T13:24:08  feat: add metrics tracking
