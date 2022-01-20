@@ -98,3 +98,4 @@
 2022-01-19T16:40:31  fix: correct type mismatch
 2022-01-20T12:34:21  chore: update config
 2022-01-20T12:52:49  test: improve test coverage
+2022-01-20T16:19:14  fix: handle timeout gracefully
