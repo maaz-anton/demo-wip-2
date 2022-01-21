@@ -103,3 +103,4 @@
 2022-01-20T17:04:05  fix: resolve broken import
 2022-01-21T10:14:58  docs: update README
 2022-01-21T11:12:58  test: improve test coverage
+2022-01-21T13:08:59  fix: correct type mismatch
