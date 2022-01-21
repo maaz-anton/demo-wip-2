@@ -101,3 +101,4 @@
 2022-01-20T16:19:14  fix: handle timeout gracefully
 2022-01-20T16:35:01  chore: update dependencies
 2022-01-20T17:04:05  fix: resolve broken import
+2022-01-21T10:14:58  docs: update README
