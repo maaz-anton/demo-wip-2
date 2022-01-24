@@ -108,3 +108,4 @@
 2022-01-23T14:58:42  fix: handle timeout gracefully
 2022-01-24T11:10:14  chore: bump version
 2022-01-24T11:33:56  feat: add retry logic
+2022-01-24T13:13:47  fix: resolve memory leak
