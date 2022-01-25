@@ -122,3 +122,4 @@
 2022-01-25T12:41:47  fix: resolve race condition
 2022-01-25T12:59:41  refactor: consolidate duplicate logic
 2022-01-25T15:14:59  fix: resolve race condition
+2022-01-25T16:17:49  refactor: extract helper function
