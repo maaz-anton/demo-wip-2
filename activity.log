@@ -128,3 +128,4 @@
 2022-01-26T08:36:28  feat: add input sanitization
 2022-01-26T11:15:30  fix: resolve race condition
 2022-01-26T11:34:08  fix: correct type mismatch
+2022-01-26T11:47:30  fix: correct off-by-one error
