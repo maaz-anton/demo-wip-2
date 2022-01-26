@@ -131,3 +131,4 @@
 2022-01-26T11:47:30  fix: correct off-by-one error
 2022-01-26T12:11:11  feat: add caching layer
 2022-01-26T14:43:43  feat: add retry logic
+2022-01-26T16:23:18  refactor: simplify conditional logic
