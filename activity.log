@@ -140,3 +140,4 @@
 2022-01-27T13:41:11  feat: add input sanitization
 2022-01-27T14:10:43  fix: correct API response parsing
 2022-01-27T14:32:20  feat: add caching layer
+2022-01-27T16:22:48  test: improve test coverage
