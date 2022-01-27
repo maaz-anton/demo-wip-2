@@ -137,3 +137,4 @@
 2022-01-27T09:42:45  docs: update README
 2022-01-27T09:51:39  fix: correct off-by-one error
 2022-01-27T12:11:26  style: format code
+2022-01-27T13:41:11  feat: add input sanitization
