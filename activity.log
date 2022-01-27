@@ -142,3 +142,4 @@
 2022-01-27T14:32:20  feat: add caching layer
 2022-01-27T16:22:48  test: improve test coverage
 2022-01-27T16:49:11  fix: resolve edge case in data processing
+2022-01-27T17:24:12  fix: resolve memory leak
