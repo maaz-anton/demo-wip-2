@@ -154,3 +154,4 @@
 2022-01-28T15:22:55  docs: update README
 2022-01-28T18:21:17  fix: handle null values correctly
 2022-01-28T19:59:32  fix: resolve edge case in data processing
+2022-01-29T18:52:30  feat: improve error handling
