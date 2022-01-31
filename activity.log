@@ -162,3 +162,4 @@
 2022-01-31T12:09:10  feat: add metrics tracking
 2022-01-31T12:32:34  chore: remove dead code
 2022-01-31T12:41:40  refactor: extract helper function
+2022-01-31T13:29:57  feat: add logging
