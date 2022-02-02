@@ -176,3 +176,4 @@
 2022-02-02T11:21:16  fix: correct off-by-one error
 2022-02-02T11:45:09  chore: update dependencies
 2022-02-02T12:36:41  feat: add input sanitization
+2022-02-02T13:39:01  feat: add logging
