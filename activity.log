@@ -183,3 +183,4 @@
 2022-02-03T09:52:07  feat: improve error handling
 2022-02-03T10:34:15  feat: add caching layer
 2022-02-03T11:12:25  fix: resolve memory leak
+2022-02-03T12:23:20  style: format code
