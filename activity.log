@@ -182,3 +182,4 @@
 2022-02-02T19:14:52  fix: correct API response parsing
 2022-02-03T09:52:07  feat: improve error handling
 2022-02-03T10:34:15  feat: add caching layer
+2022-02-03T11:12:25  fix: resolve memory leak
