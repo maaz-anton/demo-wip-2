@@ -191,3 +191,4 @@
 2022-02-03T15:58:17  feat: add validation logic
 2022-02-03T16:29:45  feat: add metrics tracking
 2022-02-03T16:31:12  fix: resolve memory leak
+2022-02-03T18:34:25  docs: update README
