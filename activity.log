@@ -180,3 +180,4 @@
 2022-02-02T15:30:23  docs: update inline comments
 2022-02-02T16:51:09  refactor: consolidate duplicate logic
 2022-02-02T19:14:52  fix: correct API response parsing
+2022-02-03T09:52:07  feat: improve error handling
