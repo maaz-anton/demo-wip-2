@@ -190,3 +190,4 @@
 2022-02-03T14:17:08  style: format code
 2022-02-03T15:58:17  feat: add validation logic
 2022-02-03T16:29:45  feat: add metrics tracking
+2022-02-03T16:31:12  fix: resolve memory leak
