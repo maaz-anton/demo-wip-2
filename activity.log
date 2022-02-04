@@ -194,3 +194,4 @@
 2022-02-03T18:34:25  docs: update README
 2022-02-03T19:03:24  fix: correct off-by-one error
 2022-02-03T21:04:15  fix: correct API response parsing
+2022-02-04T13:08:19  feat: add caching layer
