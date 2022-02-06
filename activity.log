@@ -199,3 +199,4 @@
 2022-02-04T16:09:29  feat: add logging
 2022-02-04T16:41:11  feat: add caching layer
 2022-02-05T15:37:41  fix: correct off-by-one error
+2022-02-05T20:54:24  feat: implement pagination
