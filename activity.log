@@ -208,3 +208,4 @@
 2022-02-07T13:32:52  fix: resolve broken import
 2022-02-07T13:33:42  fix: handle null values correctly
 2022-02-07T14:16:36  feat: improve error handling
+2022-02-07T14:38:15  docs: update README
