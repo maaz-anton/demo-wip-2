@@ -216,3 +216,4 @@
 2022-02-08T12:43:14  chore: remove dead code
 2022-02-08T14:03:02  feat: add input sanitization
 2022-02-08T16:20:00  refactor: simplify conditional logic
+2022-02-08T17:32:08  fix: correct type mismatch
