@@ -214,3 +214,4 @@
 2022-02-08T11:54:10  feat: add caching layer
 2022-02-08T12:40:20  chore: update config
 2022-02-08T12:43:14  chore: remove dead code
+2022-02-08T14:03:02  feat: add input sanitization
