@@ -220,3 +220,4 @@
 2022-02-08T20:01:49  feat: add input sanitization
 2022-02-09T10:53:33  style: format code
 2022-02-09T11:10:19  feat: implement pagination
+2022-02-09T12:46:19  refactor: clean up utility functions
