@@ -225,3 +225,4 @@
 2022-02-09T15:26:06  chore: bump version
 2022-02-09T15:59:03  style: format code
 2022-02-09T16:08:38  chore: bump version
+2022-02-09T16:41:14  test: add unit tests for core module
