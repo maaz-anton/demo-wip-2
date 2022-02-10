@@ -238,3 +238,4 @@
 2022-02-10T14:30:11  refactor: simplify conditional logic
 2022-02-10T15:04:46  chore: remove dead code
 2022-02-10T15:47:59  fix: resolve broken import
+2022-02-10T16:11:24  fix: resolve race condition
