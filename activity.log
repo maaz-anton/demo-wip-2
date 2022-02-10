@@ -236,3 +236,4 @@
 2022-02-10T13:36:01  fix: handle null values correctly
 2022-02-10T13:57:38  refactor: simplify conditional logic
 2022-02-10T14:30:11  refactor: simplify conditional logic
+2022-02-10T15:04:46  chore: remove dead code
