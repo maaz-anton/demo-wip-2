@@ -259,3 +259,4 @@
 2022-02-15T16:49:08  fix: resolve broken import
 2022-02-15T17:50:53  refactor: extract helper function
 2022-02-15T17:56:50  feat: add input sanitization
+2022-02-15T18:08:55  style: format code
