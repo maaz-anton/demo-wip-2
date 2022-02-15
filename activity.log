@@ -257,3 +257,4 @@
 2022-02-15T16:33:11  feat: add caching layer
 2022-02-15T16:39:44  docs: update inline comments
 2022-02-15T16:49:08  fix: resolve broken import
+2022-02-15T17:50:53  refactor: extract helper function
