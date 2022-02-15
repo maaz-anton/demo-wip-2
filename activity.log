@@ -254,3 +254,4 @@
 2022-02-14T17:54:08  test: improve test coverage
 2022-02-14T19:46:22  chore: remove dead code
 2022-02-15T09:57:23  fix: correct type mismatch
+2022-02-15T16:33:11  feat: add caching layer
