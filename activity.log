@@ -267,3 +267,4 @@
 2022-02-16T16:38:02  feat: add caching layer
 2022-02-16T18:02:02  fix: handle timeout gracefully
 2022-02-16T18:18:37  chore: bump version
+2022-02-16T18:45:00  refactor: simplify conditional logic
