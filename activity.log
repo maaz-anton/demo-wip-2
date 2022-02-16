@@ -265,3 +265,4 @@
 2022-02-16T15:42:37  refactor: clean up utility functions
 2022-02-16T16:28:52  fix: correct off-by-one error
 2022-02-16T16:38:02  feat: add caching layer
+2022-02-16T18:02:02  fix: handle timeout gracefully
