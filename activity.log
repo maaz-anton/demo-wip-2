@@ -269,3 +269,4 @@
 2022-02-16T18:18:37  chore: bump version
 2022-02-16T18:45:00  refactor: simplify conditional logic
 2022-02-16T18:58:15  docs: update inline comments
+2022-02-17T10:58:56  feat: add validation logic
