@@ -287,3 +287,4 @@
 2022-02-22T15:20:38  chore: remove dead code
 2022-02-22T17:07:55  test: add unit tests for core module
 2022-02-22T20:53:53  fix: correct API response parsing
+2022-02-23T09:31:39  refactor: consolidate duplicate logic
