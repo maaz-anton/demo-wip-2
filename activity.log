@@ -294,3 +294,4 @@
 2022-02-23T14:58:09  docs: update inline comments
 2022-02-23T16:08:50  test: add unit tests for core module
 2022-02-23T16:49:32  fix: correct off-by-one error
+2022-02-23T18:20:44  refactor: simplify conditional logic
