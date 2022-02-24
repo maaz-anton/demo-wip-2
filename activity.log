@@ -297,3 +297,4 @@
 2022-02-23T18:20:44  refactor: simplify conditional logic
 2022-02-23T18:32:55  chore: update dependencies
 2022-02-23T19:23:10  fix: handle null values correctly
+2022-02-24T09:11:40  feat: improve error handling
