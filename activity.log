@@ -305,3 +305,4 @@
 2022-02-24T13:51:11  test: add unit tests for core module
 2022-02-24T14:05:02  feat: add input sanitization
 2022-02-24T14:14:07  fix: resolve race condition
+2022-02-24T18:54:11  refactor: clean up utility functions
