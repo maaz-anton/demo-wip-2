@@ -308,3 +308,4 @@
 2022-02-24T18:54:11  refactor: clean up utility functions
 2022-02-24T19:19:30  fix: handle null values correctly
 2022-02-24T20:03:59  chore: bump version
+2022-02-25T12:49:41  fix: handle null values correctly
