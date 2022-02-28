@@ -312,3 +312,4 @@
 2022-02-25T15:26:08  feat: add retry logic
 2022-02-25T17:48:36  docs: update inline comments
 2022-02-28T08:25:19  refactor: simplify conditional logic
+2022-02-28T10:38:15  test: improve test coverage
