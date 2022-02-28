@@ -316,3 +316,4 @@
 2022-02-28T11:18:52  fix: correct off-by-one error
 2022-02-28T12:49:46  fix: resolve memory leak
 2022-02-28T13:10:32  chore: remove dead code
+2022-02-28T16:07:34  fix: resolve race condition
