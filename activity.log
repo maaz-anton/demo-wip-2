@@ -319,3 +319,4 @@
 2022-02-28T16:07:34  fix: resolve race condition
 2022-02-28T19:44:28  chore: update config
 2022-03-01T11:05:34  fix: correct type mismatch
+2022-03-01T13:03:14  fix: resolve memory leak
