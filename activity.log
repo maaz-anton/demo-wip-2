@@ -342,3 +342,4 @@
 2022-03-03T17:23:46  fix: correct type mismatch
 2022-03-04T13:36:28  style: format code
 2022-03-04T14:20:40  chore: remove dead code
+2022-03-04T14:53:19  feat: improve error handling
