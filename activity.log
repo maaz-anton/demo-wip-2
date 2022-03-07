@@ -347,3 +347,4 @@
 2022-03-04T19:40:24  fix: handle null values correctly
 2022-03-05T11:33:19  fix: resolve race condition
 2022-03-07T10:09:35  feat: add input sanitization
+2022-03-07T12:56:21  chore: bump version
