@@ -359,3 +359,4 @@
 2022-03-08T19:53:54  fix: correct API response parsing
 2022-03-09T09:15:14  feat: add metrics tracking
 2022-03-09T10:54:58  fix: correct API response parsing
+2022-03-09T11:06:46  fix: resolve memory leak
