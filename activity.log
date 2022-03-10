@@ -376,3 +376,4 @@
 2022-03-10T15:24:30  chore: update dependencies
 2022-03-10T15:46:29  fix: handle null values correctly
 2022-03-10T15:55:05  refactor: extract helper function
+2022-03-10T16:52:46  chore: bump version
