@@ -383,3 +383,4 @@
 2022-03-11T11:00:18  refactor: clean up utility functions
 2022-03-11T12:16:35  chore: bump version
 2022-03-11T12:36:49  feat: add retry logic
+2022-03-11T12:39:42  fix: handle timeout gracefully
