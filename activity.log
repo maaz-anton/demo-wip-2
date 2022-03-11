@@ -382,3 +382,4 @@
 2022-03-10T20:52:05  docs: update inline comments
 2022-03-11T11:00:18  refactor: clean up utility functions
 2022-03-11T12:16:35  chore: bump version
+2022-03-11T12:36:49  feat: add retry logic
