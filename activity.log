@@ -388,3 +388,4 @@
 2022-03-11T15:54:45  style: format code
 2022-03-11T18:43:05  feat: improve error handling
 2022-03-13T16:21:58  feat: add logging
+2022-03-14T11:13:46  fix: correct off-by-one error
