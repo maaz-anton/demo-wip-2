@@ -397,3 +397,4 @@
 2022-03-14T18:23:44  fix: resolve memory leak
 2022-03-14T22:02:18  fix: handle timeout gracefully
 2022-03-15T11:08:39  feat: add retry logic
+2022-03-15T11:17:12  feat: improve error handling
