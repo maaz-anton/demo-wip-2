@@ -424,3 +424,4 @@
 2022-03-18T16:12:15  refactor: extract helper function
 2022-03-18T18:07:22  chore: update dependencies
 2022-03-18T19:14:28  chore: remove dead code
+2022-03-18T20:04:33  fix: correct type mismatch
