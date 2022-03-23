@@ -443,3 +443,4 @@
 2022-03-23T13:20:03  test: add unit tests for core module
 2022-03-23T15:26:30  test: improve test coverage
 2022-03-23T15:28:13  refactor: simplify conditional logic
+2022-03-23T15:47:25  docs: update README
