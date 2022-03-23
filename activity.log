@@ -439,3 +439,4 @@
 2022-03-22T19:07:30  test: add unit tests for core module
 2022-03-23T12:17:39  feat: add logging
 2022-03-23T12:31:11  feat: add retry logic
+2022-03-23T12:39:01  style: format code
