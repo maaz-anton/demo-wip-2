@@ -452,3 +452,4 @@
 2022-03-24T12:03:48  refactor: clean up utility functions
 2022-03-24T12:39:19  chore: update config
 2022-03-24T12:51:47  refactor: extract helper function
+2022-03-24T13:04:08  feat: add input sanitization
