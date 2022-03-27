@@ -469,3 +469,4 @@
 2022-03-25T15:47:15  feat: add logging
 2022-03-25T17:10:25  feat: add retry logic
 2022-03-26T13:31:43  fix: correct off-by-one error
+2022-03-27T13:58:24  chore: remove dead code
