@@ -480,3 +480,4 @@
 2022-03-29T13:39:46  feat: add retry logic
 2022-03-29T14:55:25  fix: resolve race condition
 2022-03-29T15:25:18  chore: update dependencies
+2022-03-29T16:04:56  fix: handle timeout gracefully
