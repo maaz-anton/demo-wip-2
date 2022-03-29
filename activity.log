@@ -475,3 +475,4 @@
 2022-03-28T14:51:30  feat: add metrics tracking
 2022-03-28T18:51:40  fix: correct API response parsing
 2022-03-29T10:00:47  fix: handle null values correctly
+2022-03-29T12:44:22  feat: add caching layer
