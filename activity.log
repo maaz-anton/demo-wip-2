@@ -482,3 +482,4 @@
 2022-03-29T15:25:18  chore: update dependencies
 2022-03-29T16:04:56  fix: handle timeout gracefully
 2022-03-29T16:49:12  feat: add caching layer
+2022-03-29T17:03:40  fix: correct type mismatch
