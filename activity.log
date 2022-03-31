@@ -496,3 +496,4 @@
 2022-03-30T17:31:39  fix: handle null values correctly
 2022-03-30T17:40:07  test: improve test coverage
 2022-03-30T17:46:13  chore: remove dead code
+2022-03-30T21:37:56  fix: handle null values correctly
