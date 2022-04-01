@@ -505,3 +505,4 @@
 2022-04-01T09:23:31  fix: correct type mismatch
 2022-04-01T09:38:22  refactor: extract helper function
 2022-04-01T12:38:59  chore: update dependencies
+2022-04-01T13:20:04  test: add unit tests for core module
