@@ -550,3 +550,4 @@
 2022-04-07T20:34:51  fix: resolve memory leak
 2022-04-07T21:27:22  refactor: simplify conditional logic
 2022-04-08T10:23:21  fix: resolve memory leak
+2022-04-08T12:59:22  chore: remove dead code
