@@ -554,3 +554,4 @@
 2022-04-08T13:08:46  feat: add retry logic
 2022-04-08T14:17:26  chore: bump version
 2022-04-08T14:59:30  chore: bump version
+2022-04-08T18:19:02  fix: handle timeout gracefully
