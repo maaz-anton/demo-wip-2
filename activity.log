@@ -564,3 +564,4 @@
 2022-04-11T12:25:46  feat: add input sanitization
 2022-04-11T15:06:53  refactor: clean up utility functions
 2022-04-11T15:08:34  docs: update inline comments
+2022-04-11T16:40:37  feat: improve error handling
