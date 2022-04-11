@@ -566,3 +566,4 @@
 2022-04-11T15:08:34  docs: update inline comments
 2022-04-11T16:40:37  feat: improve error handling
 2022-04-11T17:04:08  refactor: consolidate duplicate logic
+2022-04-11T17:05:47  fix: correct API response parsing
