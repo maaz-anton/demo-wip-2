@@ -572,3 +572,4 @@
 2022-04-12T10:50:47  fix: handle timeout gracefully
 2022-04-12T10:59:36  fix: correct API response parsing
 2022-04-12T11:41:13  fix: correct API response parsing
+2022-04-12T14:10:20  feat: add input sanitization
