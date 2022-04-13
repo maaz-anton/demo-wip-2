@@ -579,3 +579,4 @@
 2022-04-12T22:12:06  fix: correct API response parsing
 2022-04-13T10:15:48  feat: add input sanitization
 2022-04-13T11:48:08  fix: resolve memory leak
+2022-04-13T13:09:29  feat: add retry logic
