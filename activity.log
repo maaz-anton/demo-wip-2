@@ -588,3 +588,4 @@
 2022-04-13T19:05:35  feat: add logging
 2022-04-14T08:26:40  feat: add caching layer
 2022-04-14T12:15:49  refactor: consolidate duplicate logic
+2022-04-14T13:23:35  fix: resolve race condition
