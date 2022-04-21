@@ -610,3 +610,4 @@
 2022-04-21T13:16:11  test: add unit tests for core module
 2022-04-21T14:14:36  style: format code
 2022-04-21T15:45:01  fix: resolve race condition
+2022-04-21T16:06:51  feat: add metrics tracking
