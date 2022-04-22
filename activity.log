@@ -620,3 +620,4 @@
 2022-04-22T13:46:28  chore: bump version
 2022-04-22T13:48:27  refactor: clean up utility functions
 2022-04-22T15:12:02  fix: correct type mismatch
+2022-04-22T15:33:46  feat: implement pagination
