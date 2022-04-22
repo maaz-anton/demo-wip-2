@@ -618,3 +618,4 @@
 2022-04-22T11:27:06  docs: update inline comments
 2022-04-22T11:47:18  feat: add logging
 2022-04-22T13:46:28  chore: bump version
+2022-04-22T13:48:27  refactor: clean up utility functions
