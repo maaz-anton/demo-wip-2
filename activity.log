@@ -635,3 +635,4 @@
 2022-04-25T15:04:03  feat: add caching layer
 2022-04-25T16:18:50  chore: remove dead code
 2022-04-25T16:52:31  feat: add metrics tracking
+2022-04-25T17:30:26  fix: handle timeout gracefully
