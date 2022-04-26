@@ -642,3 +642,4 @@
 2022-04-26T13:57:12  refactor: simplify conditional logic
 2022-04-26T14:24:25  feat: add input sanitization
 2022-04-26T16:00:27  refactor: simplify conditional logic
+2022-04-26T17:48:36  refactor: consolidate duplicate logic
