@@ -644,3 +644,4 @@
 2022-04-26T16:00:27  refactor: simplify conditional logic
 2022-04-26T17:48:36  refactor: consolidate duplicate logic
 2022-04-26T19:08:14  refactor: clean up utility functions
+2022-04-26T19:20:13  fix: correct off-by-one error
