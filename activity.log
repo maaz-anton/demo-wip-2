@@ -652,3 +652,4 @@
 2022-04-27T10:11:27  chore: remove dead code
 2022-04-27T11:46:31  style: format code
 2022-04-27T14:42:53  chore: update config
+2022-04-27T14:46:52  feat: add caching layer
