@@ -656,3 +656,4 @@
 2022-04-27T14:53:28  test: add unit tests for core module
 2022-04-27T15:45:53  fix: correct API response parsing
 2022-04-27T15:52:35  feat: add caching layer
+2022-04-27T18:54:15  chore: update config
