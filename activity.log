@@ -653,3 +653,4 @@
 2022-04-27T11:46:31  style: format code
 2022-04-27T14:42:53  chore: update config
 2022-04-27T14:46:52  feat: add caching layer
+2022-04-27T14:53:28  test: add unit tests for core module
