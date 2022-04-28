@@ -667,3 +667,4 @@
 2022-04-28T14:37:35  fix: correct type mismatch
 2022-04-28T14:53:35  refactor: extract helper function
 2022-04-28T15:56:10  chore: update config
+2022-04-28T16:52:44  feat: improve error handling
