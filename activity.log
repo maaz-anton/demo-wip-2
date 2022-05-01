@@ -673,3 +673,4 @@
 2022-04-28T18:50:17  feat: implement pagination
 2022-04-29T15:54:24  feat: add metrics tracking
 2022-04-29T16:43:31  feat: add input sanitization
+2022-04-30T20:37:48  feat: add logging
