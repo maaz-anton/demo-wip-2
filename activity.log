@@ -677,3 +677,4 @@
 2022-05-02T08:13:53  feat: add logging
 2022-05-02T10:33:13  chore: remove dead code
 2022-05-02T15:01:16  fix: correct off-by-one error
+2022-05-02T15:07:45  fix: correct type mismatch
