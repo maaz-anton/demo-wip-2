@@ -679,3 +679,4 @@
 2022-05-02T15:01:16  fix: correct off-by-one error
 2022-05-02T15:07:45  fix: correct type mismatch
 2022-05-02T16:46:19  refactor: clean up utility functions
+2022-05-02T20:53:46  feat: add caching layer
