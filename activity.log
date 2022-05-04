@@ -691,3 +691,4 @@
 2022-05-04T12:00:43  chore: remove dead code
 2022-05-04T15:42:06  feat: add metrics tracking
 2022-05-04T15:47:07  test: add unit tests for core module
+2022-05-04T16:38:36  test: improve test coverage
