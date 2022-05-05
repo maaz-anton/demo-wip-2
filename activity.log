@@ -700,3 +700,4 @@
 2022-05-05T14:40:20  fix: resolve race condition
 2022-05-05T15:15:49  feat: add logging
 2022-05-05T16:29:30  fix: resolve race condition
+2022-05-05T18:55:25  refactor: clean up utility functions
