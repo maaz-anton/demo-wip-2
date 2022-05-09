@@ -709,3 +709,4 @@
 2022-05-06T22:19:22  docs: update README
 2022-05-09T10:28:33  feat: implement pagination
 2022-05-09T10:34:02  chore: bump version
+2022-05-09T11:08:50  fix: handle null values correctly
