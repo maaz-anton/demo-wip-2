@@ -715,3 +715,4 @@
 2022-05-09T16:38:18  feat: add input sanitization
 2022-05-09T19:22:21  feat: add logging
 2022-05-10T09:37:29  chore: update config
+2022-05-10T09:49:58  refactor: simplify conditional logic
