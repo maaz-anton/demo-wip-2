@@ -718,3 +718,4 @@
 2022-05-10T09:49:58  refactor: simplify conditional logic
 2022-05-10T14:18:11  chore: bump version
 2022-05-10T18:11:57  refactor: clean up utility functions
+2022-05-10T20:18:58  test: add unit tests for core module
