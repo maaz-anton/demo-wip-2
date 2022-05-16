@@ -740,3 +740,4 @@
 2022-05-13T15:55:28  chore: bump version
 2022-05-14T13:03:56  docs: update inline comments
 2022-05-16T12:27:00  test: improve test coverage
+2022-05-16T12:45:24  fix: correct type mismatch
