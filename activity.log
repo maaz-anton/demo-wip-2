@@ -746,3 +746,4 @@
 2022-05-16T21:49:27  feat: add input sanitization
 2022-05-17T13:22:52  feat: add input sanitization
 2022-05-17T14:24:07  docs: update inline comments
+2022-05-17T14:27:14  refactor: clean up utility functions
