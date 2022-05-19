@@ -756,3 +756,4 @@
 2022-05-18T19:49:09  fix: correct API response parsing
 2022-05-18T20:20:09  test: improve test coverage
 2022-05-19T11:41:42  chore: update dependencies
+2022-05-19T12:43:34  feat: improve error handling
