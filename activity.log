@@ -766,3 +766,4 @@
 2022-05-19T21:20:30  feat: add logging
 2022-05-20T12:52:22  refactor: clean up utility functions
 2022-05-20T13:33:09  feat: add validation logic
+2022-05-20T14:13:42  refactor: extract helper function
