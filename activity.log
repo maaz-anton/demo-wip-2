@@ -782,3 +782,4 @@
 2022-05-23T14:06:32  test: improve test coverage
 2022-05-24T09:41:53  docs: update README
 2022-05-24T10:17:43  fix: correct off-by-one error
+2022-05-24T11:49:16  fix: resolve memory leak
