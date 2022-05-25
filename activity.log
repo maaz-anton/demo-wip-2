@@ -796,3 +796,4 @@
 2022-05-25T12:00:26  feat: add caching layer
 2022-05-25T14:19:43  test: improve test coverage
 2022-05-25T15:06:54  feat: improve error handling
+2022-05-25T16:52:36  test: add unit tests for core module
