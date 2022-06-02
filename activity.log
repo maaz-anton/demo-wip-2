@@ -826,3 +826,4 @@
 2022-06-01T15:49:57  fix: correct type mismatch
 2022-06-01T18:55:16  docs: update README
 2022-06-02T14:16:27  test: improve test coverage
+2022-06-02T15:03:24  feat: add metrics tracking
