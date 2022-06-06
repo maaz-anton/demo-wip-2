@@ -842,3 +842,4 @@
 2022-06-06T15:43:58  style: format code
 2022-06-06T17:09:02  fix: resolve memory leak
 2022-06-06T17:32:46  feat: add logging
+2022-06-06T17:35:16  refactor: clean up utility functions
