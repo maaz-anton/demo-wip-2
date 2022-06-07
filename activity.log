@@ -854,3 +854,4 @@
 2022-06-07T17:13:30  refactor: clean up utility functions
 2022-06-07T17:13:48  feat: add logging
 2022-06-07T18:41:02  test: improve test coverage
+2022-06-07T19:37:35  fix: correct API response parsing
