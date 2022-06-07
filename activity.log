@@ -852,3 +852,4 @@
 2022-06-07T15:33:35  feat: add caching layer
 2022-06-07T16:21:35  fix: handle null values correctly
 2022-06-07T17:13:30  refactor: clean up utility functions
+2022-06-07T17:13:48  feat: add logging
