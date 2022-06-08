@@ -860,3 +860,4 @@
 2022-06-08T11:12:17  feat: implement pagination
 2022-06-08T11:12:42  feat: add caching layer
 2022-06-08T12:48:59  feat: add validation logic
+2022-06-08T12:54:30  feat: add input sanitization
