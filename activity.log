@@ -870,3 +870,4 @@
 2022-06-08T19:29:13  fix: handle null values correctly
 2022-06-08T19:37:29  feat: add retry logic
 2022-06-09T10:21:05  fix: correct type mismatch
+2022-06-09T11:41:56  refactor: clean up utility functions
