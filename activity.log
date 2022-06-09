@@ -872,3 +872,4 @@
 2022-06-09T10:21:05  fix: correct type mismatch
 2022-06-09T11:41:56  refactor: clean up utility functions
 2022-06-09T11:43:11  docs: update README
+2022-06-09T12:15:02  feat: add logging
