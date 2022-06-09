@@ -874,3 +874,4 @@
 2022-06-09T11:43:11  docs: update README
 2022-06-09T12:15:02  feat: add logging
 2022-06-09T13:53:18  fix: correct type mismatch
+2022-06-09T13:59:28  fix: handle timeout gracefully
