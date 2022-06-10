@@ -881,3 +881,4 @@
 2022-06-09T16:15:43  chore: update config
 2022-06-09T18:03:34  refactor: simplify conditional logic
 2022-06-09T19:32:34  fix: resolve race condition
+2022-06-09T20:10:11  fix: resolve memory leak
