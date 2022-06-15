@@ -900,3 +900,4 @@
 2022-06-14T16:46:43  feat: add metrics tracking
 2022-06-15T12:02:36  chore: remove dead code
 2022-06-15T14:23:46  chore: bump version
+2022-06-15T14:39:10  feat: add logging
