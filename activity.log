@@ -901,3 +901,4 @@
 2022-06-15T12:02:36  chore: remove dead code
 2022-06-15T14:23:46  chore: bump version
 2022-06-15T14:39:10  feat: add logging
+2022-06-15T15:59:04  refactor: extract helper function
