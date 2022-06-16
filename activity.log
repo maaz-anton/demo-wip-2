@@ -910,3 +910,4 @@
 2022-06-16T13:02:08  feat: add retry logic
 2022-06-16T13:03:26  chore: bump version
 2022-06-16T14:25:54  test: improve test coverage
+2022-06-16T18:12:32  fix: handle null values correctly
