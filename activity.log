@@ -911,3 +911,4 @@
 2022-06-16T13:03:26  chore: bump version
 2022-06-16T14:25:54  test: improve test coverage
 2022-06-16T18:12:32  fix: handle null values correctly
+2022-06-17T12:59:00  fix: handle null values correctly
