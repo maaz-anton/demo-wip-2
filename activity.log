@@ -927,3 +927,4 @@
 2022-06-21T13:00:08  fix: resolve memory leak
 2022-06-21T14:39:17  chore: remove dead code
 2022-06-21T16:49:28  feat: add caching layer
+2022-06-21T17:06:17  fix: resolve memory leak
