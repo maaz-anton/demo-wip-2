@@ -938,3 +938,4 @@
 2022-06-22T14:48:40  docs: update README
 2022-06-22T18:26:22  chore: update config
 2022-06-22T20:37:06  refactor: clean up utility functions
+2022-06-23T11:57:09  chore: remove dead code
