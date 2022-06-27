@@ -959,3 +959,4 @@
 2022-06-27T11:54:35  test: improve test coverage
 2022-06-27T13:33:11  docs: update inline comments
 2022-06-27T15:59:01  fix: correct off-by-one error
+2022-06-27T16:07:47  test: add unit tests for core module
