@@ -962,3 +962,4 @@
 2022-06-27T16:07:47  test: add unit tests for core module
 2022-06-27T17:42:05  fix: correct type mismatch
 2022-06-28T09:57:56  fix: correct API response parsing
+2022-06-28T10:00:33  chore: bump version
