@@ -961,3 +961,4 @@
 2022-06-27T15:59:01  fix: correct off-by-one error
 2022-06-27T16:07:47  test: add unit tests for core module
 2022-06-27T17:42:05  fix: correct type mismatch
+2022-06-28T09:57:56  fix: correct API response parsing
