@@ -968,3 +968,4 @@
 2022-06-28T13:06:38  feat: implement pagination
 2022-06-28T13:25:27  fix: handle null values correctly
 2022-06-28T13:46:48  fix: handle null values correctly
+2022-06-28T13:49:29  fix: resolve memory leak
