@@ -970,3 +970,4 @@
 2022-06-28T13:46:48  fix: handle null values correctly
 2022-06-28T13:49:29  fix: resolve memory leak
 2022-06-28T14:57:23  fix: resolve memory leak
+2022-06-29T11:02:52  fix: resolve memory leak
