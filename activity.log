@@ -977,3 +977,4 @@
 2022-06-29T17:52:36  feat: add input sanitization
 2022-06-29T18:29:34  chore: update config
 2022-06-29T18:56:40  fix: correct type mismatch
+2022-06-29T21:27:46  refactor: simplify conditional logic
