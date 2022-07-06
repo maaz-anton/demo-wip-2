@@ -988,3 +988,4 @@
 2022-07-04T13:26:28  chore: update config
 2022-07-04T14:00:21  docs: update inline comments
 2022-07-05T10:23:50  feat: add caching layer
+2022-07-06T10:23:21  fix: correct type mismatch
