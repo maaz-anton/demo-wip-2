@@ -996,3 +996,4 @@
 2022-07-08T10:39:05  docs: update README
 2022-07-08T11:34:24  feat: add retry logic
 2022-07-08T12:05:19  style: format code
+2022-07-08T12:27:37  refactor: extract helper function
