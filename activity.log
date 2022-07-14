@@ -1021,3 +1021,4 @@
 2022-07-13T13:24:56  fix: resolve race condition
 2022-07-13T13:54:21  fix: handle timeout gracefully
 2022-07-13T18:13:40  chore: bump version
+2022-07-13T22:35:45  feat: add caching layer
