@@ -1049,3 +1049,4 @@
 2022-07-19T13:03:25  refactor: consolidate duplicate logic
 2022-07-19T14:44:53  chore: update dependencies
 2022-07-19T17:08:06  style: format code
+2022-07-19T17:46:21  fix: correct off-by-one error
