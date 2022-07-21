@@ -1058,3 +1058,4 @@
 2022-07-20T17:26:48  fix: correct type mismatch
 2022-07-20T17:47:52  docs: update README
 2022-07-20T22:18:57  chore: bump version
+2022-07-21T09:08:42  fix: resolve memory leak
