@@ -1061,3 +1061,4 @@
 2022-07-21T09:08:42  fix: resolve memory leak
 2022-07-21T11:24:23  test: improve test coverage
 2022-07-21T13:12:33  fix: resolve memory leak
+2022-07-21T14:36:47  fix: correct API response parsing
