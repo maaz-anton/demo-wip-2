@@ -1079,3 +1079,4 @@
 2022-07-23T14:33:47  chore: remove dead code
 2022-07-23T18:41:09  feat: add logging
 2022-07-24T19:13:59  chore: update config
+2022-07-25T09:38:10  feat: add caching layer
