@@ -1103,3 +1103,4 @@
 2022-07-27T12:33:12  fix: resolve broken import
 2022-07-27T13:35:43  feat: add caching layer
 2022-07-27T13:56:41  chore: update dependencies
+2022-07-27T15:14:24  fix: handle timeout gracefully
