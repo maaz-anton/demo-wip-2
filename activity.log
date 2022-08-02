@@ -1129,3 +1129,4 @@
 2022-08-02T12:58:20  feat: add caching layer
 2022-08-02T13:01:24  feat: add validation logic
 2022-08-02T13:05:48  fix: handle null values correctly
+2022-08-02T15:21:22  docs: update README
