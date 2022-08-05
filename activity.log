@@ -1148,3 +1148,4 @@
 2022-08-04T15:39:38  feat: add metrics tracking
 2022-08-04T17:23:08  chore: bump version
 2022-08-05T11:35:22  refactor: extract helper function
+2022-08-05T11:46:06  feat: add logging
