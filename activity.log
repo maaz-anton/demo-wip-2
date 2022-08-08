@@ -1158,3 +1158,4 @@
 2022-08-08T10:45:32  feat: improve error handling
 2022-08-08T10:51:07  test: improve test coverage
 2022-08-08T12:48:04  fix: resolve race condition
+2022-08-08T14:07:13  refactor: extract helper function
