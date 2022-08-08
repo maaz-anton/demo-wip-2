@@ -1161,3 +1161,4 @@
 2022-08-08T14:07:13  refactor: extract helper function
 2022-08-08T14:20:30  docs: update README
 2022-08-08T15:33:26  docs: update inline comments
+2022-08-08T16:42:03  fix: handle null values correctly
