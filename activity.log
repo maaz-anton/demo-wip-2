@@ -1169,3 +1169,4 @@
 2022-08-09T17:29:27  feat: add input sanitization
 2022-08-09T19:21:15  docs: update inline comments
 2022-08-09T21:46:39  chore: bump version
+2022-08-10T11:36:14  fix: correct off-by-one error
