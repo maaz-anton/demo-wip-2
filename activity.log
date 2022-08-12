@@ -1182,3 +1182,4 @@
 2022-08-11T14:39:05  feat: add logging
 2022-08-12T10:37:01  fix: resolve broken import
 2022-08-12T12:07:58  fix: resolve broken import
+2022-08-12T12:56:23  refactor: simplify conditional logic
