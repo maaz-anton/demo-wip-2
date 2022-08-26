@@ -1268,3 +1268,4 @@
 2022-08-25T20:11:21  refactor: clean up utility functions
 2022-08-26T12:27:21  fix: correct type mismatch
 2022-08-26T12:46:41  feat: add logging
+2022-08-26T17:56:03  chore: remove dead code
