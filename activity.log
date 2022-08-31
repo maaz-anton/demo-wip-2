@@ -1280,3 +1280,4 @@
 2022-08-31T14:29:27  test: add unit tests for core module
 2022-08-31T14:44:27  feat: add logging
 2022-08-31T15:56:11  test: add unit tests for core module
+2022-08-31T16:32:03  feat: add retry logic
