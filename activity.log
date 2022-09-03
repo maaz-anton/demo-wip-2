@@ -1289,3 +1289,4 @@
 2022-09-02T13:42:39  fix: correct type mismatch
 2022-09-02T18:58:21  fix: resolve memory leak
 2022-09-03T15:58:21  chore: bump version
+2022-09-03T16:52:08  style: format code
