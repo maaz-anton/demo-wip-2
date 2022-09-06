@@ -1305,3 +1305,4 @@
 2022-09-06T15:07:25  docs: update README
 2022-09-06T15:32:25  feat: add input sanitization
 2022-09-06T15:58:14  fix: correct type mismatch
+2022-09-06T17:39:11  feat: add validation logic
