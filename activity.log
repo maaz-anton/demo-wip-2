@@ -1307,3 +1307,4 @@
 2022-09-06T15:58:14  fix: correct type mismatch
 2022-09-06T17:39:11  feat: add validation logic
 2022-09-06T18:20:56  fix: resolve race condition
+2022-09-06T21:39:45  test: add unit tests for core module
