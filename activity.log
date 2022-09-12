@@ -1335,3 +1335,4 @@
 2022-09-12T14:28:22  refactor: clean up utility functions
 2022-09-12T15:13:22  test: add unit tests for core module
 2022-09-12T16:00:53  fix: handle timeout gracefully
+2022-09-12T16:41:40  feat: add retry logic
