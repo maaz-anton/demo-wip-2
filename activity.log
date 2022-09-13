@@ -1340,3 +1340,4 @@
 2022-09-12T18:20:36  fix: correct off-by-one error
 2022-09-13T09:57:10  docs: update inline comments
 2022-09-13T10:18:38  fix: correct type mismatch
+2022-09-13T11:26:36  refactor: extract helper function
