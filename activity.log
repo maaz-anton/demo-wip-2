@@ -1349,3 +1349,4 @@
 2022-09-13T19:00:03  feat: add metrics tracking
 2022-09-14T11:11:15  docs: update README
 2022-09-14T12:47:30  fix: correct off-by-one error
+2022-09-14T13:04:50  fix: resolve memory leak
