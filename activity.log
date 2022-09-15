@@ -1360,3 +1360,4 @@
 2022-09-15T15:36:37  feat: add input sanitization
 2022-09-15T15:44:40  refactor: clean up utility functions
 2022-09-15T16:12:08  chore: bump version
+2022-09-15T17:29:44  feat: add logging
