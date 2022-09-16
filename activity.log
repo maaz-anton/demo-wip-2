@@ -1367,3 +1367,4 @@
 2022-09-16T15:08:15  refactor: consolidate duplicate logic
 2022-09-16T16:45:01  feat: add retry logic
 2022-09-16T17:26:30  docs: update README
+2022-09-16T17:31:48  fix: handle null values correctly
