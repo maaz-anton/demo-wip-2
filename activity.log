@@ -1380,3 +1380,4 @@
 2022-09-19T17:42:14  fix: resolve memory leak
 2022-09-19T17:50:52  docs: update inline comments
 2022-09-20T11:20:19  feat: add retry logic
+2022-09-20T12:18:45  feat: add validation logic
