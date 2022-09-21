@@ -1389,3 +1389,4 @@
 2022-09-21T09:44:53  feat: implement pagination
 2022-09-21T11:47:54  fix: handle timeout gracefully
 2022-09-21T11:55:52  fix: correct off-by-one error
+2022-09-21T12:01:24  refactor: extract helper function
