@@ -1396,3 +1396,4 @@
 2022-09-21T14:22:15  feat: add logging
 2022-09-21T16:12:55  style: format code
 2022-09-21T16:48:00  feat: add logging
+2022-09-21T18:25:11  fix: resolve memory leak
