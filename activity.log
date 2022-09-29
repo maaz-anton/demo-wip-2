@@ -1436,3 +1436,4 @@
 2022-09-28T16:56:59  feat: add logging
 2022-09-29T11:11:12  fix: handle timeout gracefully
 2022-09-29T12:02:47  fix: correct API response parsing
+2022-09-29T13:27:07  feat: implement pagination
