@@ -1445,3 +1445,4 @@
 2022-09-30T09:31:28  chore: update config
 2022-09-30T09:56:50  test: add unit tests for core module
 2022-09-30T12:08:01  feat: add metrics tracking
+2022-09-30T12:12:14  feat: add validation logic
