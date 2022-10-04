@@ -1461,3 +1461,4 @@
 2022-10-04T11:57:25  feat: add validation logic
 2022-10-04T12:24:37  chore: update config
 2022-10-04T13:08:02  fix: correct type mismatch
+2022-10-04T13:09:13  refactor: simplify conditional logic
