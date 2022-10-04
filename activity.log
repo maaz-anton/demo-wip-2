@@ -1466,3 +1466,4 @@
 2022-10-04T13:45:11  fix: resolve broken import
 2022-10-04T16:24:32  docs: update README
 2022-10-04T18:34:35  chore: remove dead code
+2022-10-04T19:15:16  refactor: extract helper function
