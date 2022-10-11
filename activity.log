@@ -1508,3 +1508,4 @@
 2022-10-11T13:34:42  fix: resolve broken import
 2022-10-11T14:05:09  fix: handle null values correctly
 2022-10-11T14:27:56  docs: update README
+2022-10-11T14:32:21  refactor: consolidate duplicate logic
