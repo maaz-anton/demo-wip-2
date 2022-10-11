@@ -1512,3 +1512,4 @@
 2022-10-11T15:37:27  fix: correct type mismatch
 2022-10-11T16:17:58  feat: add retry logic
 2022-10-11T16:56:47  refactor: clean up utility functions
+2022-10-11T19:26:45  test: add unit tests for core module
