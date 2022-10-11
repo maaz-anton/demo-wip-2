@@ -1506,3 +1506,4 @@
 2022-10-11T12:12:33  fix: resolve broken import
 2022-10-11T13:09:20  test: improve test coverage
 2022-10-11T13:34:42  fix: resolve broken import
+2022-10-11T14:05:09  fix: handle null values correctly
