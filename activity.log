@@ -1515,3 +1515,4 @@
 2022-10-11T19:26:45  test: add unit tests for core module
 2022-10-11T19:49:55  feat: add logging
 2022-10-12T08:39:31  feat: add retry logic
+2022-10-12T09:14:51  fix: correct API response parsing
