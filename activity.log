@@ -1514,3 +1514,4 @@
 2022-10-11T16:56:47  refactor: clean up utility functions
 2022-10-11T19:26:45  test: add unit tests for core module
 2022-10-11T19:49:55  feat: add logging
+2022-10-12T08:39:31  feat: add retry logic
