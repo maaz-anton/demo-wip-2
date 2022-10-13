@@ -1537,3 +1537,4 @@
 2022-10-13T13:40:38  chore: bump version
 2022-10-13T14:24:55  fix: correct API response parsing
 2022-10-13T14:37:14  fix: correct type mismatch
+2022-10-13T15:31:19  fix: resolve memory leak
