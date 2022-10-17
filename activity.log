@@ -1548,3 +1548,4 @@
 2022-10-15T14:02:11  feat: add metrics tracking
 2022-10-17T10:31:41  test: improve test coverage
 2022-10-17T14:40:06  feat: add input sanitization
+2022-10-17T15:56:52  test: add unit tests for core module
