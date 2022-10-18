@@ -1550,3 +1550,4 @@
 2022-10-17T14:40:06  feat: add input sanitization
 2022-10-17T15:56:52  test: add unit tests for core module
 2022-10-17T16:04:58  feat: add retry logic
+2022-10-17T21:57:40  fix: handle null values correctly
