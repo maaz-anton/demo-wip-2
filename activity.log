@@ -1567,3 +1567,4 @@
 2022-10-20T11:48:50  docs: update README
 2022-10-20T13:03:41  feat: add retry logic
 2022-10-20T13:37:51  feat: add input sanitization
+2022-10-20T16:08:26  feat: add logging
