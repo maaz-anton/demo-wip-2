@@ -1570,3 +1570,4 @@
 2022-10-20T16:08:26  feat: add logging
 2022-10-20T16:38:46  test: improve test coverage
 2022-10-20T17:58:04  refactor: clean up utility functions
+2022-10-20T18:47:01  fix: resolve race condition
