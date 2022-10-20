@@ -1565,3 +1565,4 @@
 2022-10-19T20:39:25  feat: improve error handling
 2022-10-20T10:31:08  chore: remove dead code
 2022-10-20T11:48:50  docs: update README
+2022-10-20T13:03:41  feat: add retry logic
