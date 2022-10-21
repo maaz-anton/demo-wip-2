@@ -1572,3 +1572,4 @@
 2022-10-20T17:58:04  refactor: clean up utility functions
 2022-10-20T18:47:01  fix: resolve race condition
 2022-10-20T20:03:43  feat: implement pagination
+2022-10-21T11:42:52  fix: resolve memory leak
