@@ -1579,3 +1579,4 @@
 2022-10-21T14:39:06  fix: resolve memory leak
 2022-10-21T16:26:11  feat: add caching layer
 2022-10-21T18:07:15  feat: improve error handling
+2022-10-24T10:55:10  feat: implement pagination
