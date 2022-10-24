@@ -1583,3 +1583,4 @@
 2022-10-24T12:02:23  fix: handle null values correctly
 2022-10-24T13:01:59  chore: update dependencies
 2022-10-24T14:44:55  chore: update config
+2022-10-24T16:22:57  fix: correct off-by-one error
