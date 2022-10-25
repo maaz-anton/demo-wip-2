@@ -1587,3 +1587,4 @@
 2022-10-24T19:12:05  docs: update README
 2022-10-25T12:11:22  chore: update dependencies
 2022-10-25T12:24:51  docs: update inline comments
+2022-10-25T12:32:03  fix: correct type mismatch
