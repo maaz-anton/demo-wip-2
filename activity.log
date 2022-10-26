@@ -1598,3 +1598,4 @@
 2022-10-26T11:49:23  chore: update dependencies
 2022-10-26T13:14:58  chore: remove dead code
 2022-10-26T13:18:07  fix: correct type mismatch
+2022-10-26T14:55:05  test: add unit tests for core module
