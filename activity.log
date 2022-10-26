@@ -1593,3 +1593,4 @@
 2022-10-25T15:16:12  chore: update config
 2022-10-25T16:03:03  feat: improve error handling
 2022-10-25T16:44:53  style: format code
+2022-10-25T21:05:56  feat: implement pagination
