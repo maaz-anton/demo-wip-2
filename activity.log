@@ -1594,3 +1594,4 @@
 2022-10-25T16:03:03  feat: improve error handling
 2022-10-25T16:44:53  style: format code
 2022-10-25T21:05:56  feat: implement pagination
+2022-10-25T21:12:18  refactor: extract helper function
