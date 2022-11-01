@@ -1622,3 +1622,4 @@
 2022-11-01T14:10:23  feat: add caching layer
 2022-11-01T14:49:45  docs: update README
 2022-11-01T15:38:06  feat: add metrics tracking
+2022-11-01T17:22:12  feat: add retry logic
