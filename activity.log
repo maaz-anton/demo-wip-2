@@ -1670,3 +1670,4 @@
 2022-11-09T18:46:34  refactor: extract helper function
 2022-11-10T12:04:09  fix: correct off-by-one error
 2022-11-10T12:33:04  refactor: consolidate duplicate logic
+2022-11-10T12:36:04  fix: correct API response parsing
