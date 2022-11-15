@@ -1692,3 +1692,4 @@
 2022-11-14T14:18:08  fix: correct API response parsing
 2022-11-14T14:26:58  chore: remove dead code
 2022-11-14T18:32:52  fix: resolve race condition
+2022-11-14T19:56:10  refactor: extract helper function
