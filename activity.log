@@ -1709,3 +1709,4 @@
 2022-11-17T16:13:33  refactor: simplify conditional logic
 2022-11-17T16:34:54  feat: add logging
 2022-11-17T16:50:05  refactor: simplify conditional logic
+2022-11-17T17:32:15  fix: correct type mismatch
