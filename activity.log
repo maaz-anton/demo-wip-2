@@ -1704,3 +1704,4 @@
 2022-11-17T13:09:22  fix: resolve broken import
 2022-11-17T13:09:57  chore: bump version
 2022-11-17T13:29:55  feat: improve error handling
+2022-11-17T14:26:38  fix: resolve memory leak
