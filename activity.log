@@ -1716,3 +1716,4 @@
 2022-11-17T19:34:59  chore: update dependencies
 2022-11-17T20:15:54  feat: improve error handling
 2022-11-18T09:21:50  chore: update dependencies
+2022-11-18T11:32:56  test: add unit tests for core module
