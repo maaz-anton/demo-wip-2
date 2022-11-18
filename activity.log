@@ -1721,3 +1721,4 @@
 2022-11-18T13:58:16  chore: remove dead code
 2022-11-18T13:58:45  fix: handle timeout gracefully
 2022-11-18T14:35:33  fix: handle null values correctly
+2022-11-18T15:34:39  refactor: extract helper function
