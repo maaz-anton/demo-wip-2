@@ -1726,3 +1726,4 @@
 2022-11-18T21:35:24  refactor: clean up utility functions
 2022-11-19T14:43:16  fix: correct API response parsing
 2022-11-21T10:18:51  test: improve test coverage
+2022-11-21T12:24:26  fix: correct off-by-one error
