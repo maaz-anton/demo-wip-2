@@ -1746,3 +1746,4 @@
 2022-11-24T11:15:14  fix: resolve broken import
 2022-11-24T12:07:11  style: format code
 2022-11-24T13:16:48  feat: add logging
+2022-11-24T14:15:16  feat: add retry logic
