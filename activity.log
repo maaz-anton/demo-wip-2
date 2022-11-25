@@ -1751,3 +1751,4 @@
 2022-11-24T17:30:51  feat: add logging
 2022-11-24T18:24:11  refactor: extract helper function
 2022-11-24T18:36:51  chore: update config
+2022-11-24T19:04:11  fix: handle null values correctly
