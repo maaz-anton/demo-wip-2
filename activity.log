@@ -1762,3 +1762,4 @@
 2022-11-28T12:41:06  docs: update README
 2022-11-28T16:42:40  feat: implement pagination
 2022-11-28T18:01:43  test: improve test coverage
+2022-11-29T12:06:01  fix: correct off-by-one error
