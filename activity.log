@@ -1787,3 +1787,4 @@
 2022-12-02T15:31:40  test: improve test coverage
 2022-12-02T16:16:53  chore: remove dead code
 2022-12-02T16:33:03  refactor: consolidate duplicate logic
+2022-12-02T18:51:55  refactor: simplify conditional logic
