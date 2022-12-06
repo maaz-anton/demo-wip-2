@@ -1798,3 +1798,4 @@
 2022-12-05T17:32:56  feat: add input sanitization
 2022-12-06T12:12:08  docs: update README
 2022-12-06T12:48:20  refactor: clean up utility functions
+2022-12-06T14:35:17  fix: correct off-by-one error
