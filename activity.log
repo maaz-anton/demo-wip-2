@@ -1811,3 +1811,4 @@
 2022-12-07T13:17:39  chore: bump version
 2022-12-07T14:00:10  fix: correct off-by-one error
 2022-12-07T15:13:12  chore: bump version
+2022-12-07T15:33:55  feat: add input sanitization
