@@ -1817,3 +1817,4 @@
 2022-12-07T18:00:41  fix: correct API response parsing
 2022-12-07T19:29:43  chore: remove dead code
 2022-12-07T19:48:25  feat: add logging
+2022-12-07T20:20:53  test: add unit tests for core module
