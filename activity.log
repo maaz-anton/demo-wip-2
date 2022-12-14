@@ -1862,3 +1862,4 @@
 2022-12-13T20:02:44  fix: resolve broken import
 2022-12-14T08:10:50  chore: update config
 2022-12-14T10:24:43  feat: add validation logic
+2022-12-14T11:00:46  style: format code
