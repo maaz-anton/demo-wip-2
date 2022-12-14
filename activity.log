@@ -1864,3 +1864,4 @@
 2022-12-14T10:24:43  feat: add validation logic
 2022-12-14T11:00:46  style: format code
 2022-12-14T11:02:51  feat: add metrics tracking
+2022-12-14T11:34:18  fix: handle null values correctly
