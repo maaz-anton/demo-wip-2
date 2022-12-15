@@ -1874,3 +1874,4 @@
 2022-12-14T16:40:02  docs: update README
 2022-12-15T12:04:03  chore: update dependencies
 2022-12-15T12:16:34  fix: correct type mismatch
+2022-12-15T12:19:23  refactor: clean up utility functions
