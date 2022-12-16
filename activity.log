@@ -1880,3 +1880,4 @@
 2022-12-15T17:06:04  feat: implement pagination
 2022-12-15T19:14:18  fix: correct type mismatch
 2022-12-16T13:13:13  fix: handle null values correctly
+2022-12-16T14:14:18  test: add unit tests for core module
