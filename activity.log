@@ -1878,3 +1878,4 @@
 2022-12-15T13:33:18  refactor: clean up utility functions
 2022-12-15T16:15:52  feat: add caching layer
 2022-12-15T17:06:04  feat: implement pagination
+2022-12-15T19:14:18  fix: correct type mismatch
