@@ -1892,3 +1892,4 @@
 2022-12-19T12:15:32  style: format code
 2022-12-19T13:35:33  feat: improve error handling
 2022-12-19T13:36:39  test: add unit tests for core module
+2022-12-19T16:09:12  refactor: simplify conditional logic
