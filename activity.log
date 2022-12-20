@@ -1896,3 +1896,4 @@
 2022-12-19T17:37:42  feat: add validation logic
 2022-12-20T08:34:38  fix: handle null values correctly
 2022-12-20T11:40:38  fix: resolve race condition
+2022-12-20T12:27:00  fix: correct off-by-one error
