@@ -1924,3 +1924,4 @@
 2022-12-23T14:45:33  fix: correct API response parsing
 2022-12-23T20:09:43  fix: correct API response parsing
 2022-12-25T14:20:38  feat: improve error handling
+2022-12-26T10:20:57  docs: update README
