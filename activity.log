@@ -1934,3 +1934,4 @@
 2022-12-27T20:33:38  feat: add retry logic
 2022-12-27T20:33:50  test: add unit tests for core module
 2022-12-28T11:59:52  chore: bump version
+2022-12-28T13:00:43  fix: handle null values correctly
