@@ -1943,3 +1943,4 @@
 2022-12-28T20:50:58  feat: implement pagination
 2022-12-29T09:25:39  fix: correct API response parsing
 2022-12-29T10:06:36  chore: remove dead code
+2022-12-29T10:13:16  test: add unit tests for core module
