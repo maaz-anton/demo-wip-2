@@ -1941,3 +1941,4 @@
 2022-12-28T17:16:26  feat: implement pagination
 2022-12-28T17:19:39  docs: update README
 2022-12-28T20:50:58  feat: implement pagination
+2022-12-29T09:25:39  fix: correct API response parsing
