@@ -13,3 +13,4 @@
 2023-01-04T16:45:26  fix: resolve broken import
 2023-01-04T17:31:53  docs: update README
 2023-01-04T18:43:50  chore: update dependencies
+2023-01-04T20:54:56  test: add unit tests for core module
