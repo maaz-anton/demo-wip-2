@@ -34,3 +34,4 @@
 2023-01-09T10:01:02  docs: update README
 2023-01-09T11:33:30  feat: add logging
 2023-01-09T12:15:57  fix: resolve memory leak
+2023-01-09T13:40:06  chore: bump version
