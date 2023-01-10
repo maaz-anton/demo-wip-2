@@ -44,3 +44,4 @@
 2023-01-10T14:41:50  chore: bump version
 2023-01-10T15:55:14  chore: remove dead code
 2023-01-10T16:37:46  fix: resolve edge case in data processing
+2023-01-10T16:41:59  feat: implement pagination
