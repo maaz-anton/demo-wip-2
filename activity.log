@@ -68,3 +68,4 @@
 2023-01-12T13:44:12  chore: remove dead code
 2023-01-12T14:00:34  feat: implement pagination
 2023-01-12T14:29:31  refactor: consolidate duplicate logic
+2023-01-12T14:46:14  refactor: extract helper function
