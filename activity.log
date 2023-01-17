@@ -106,3 +106,4 @@
 2023-01-17T12:39:19  chore: update config
 2023-01-17T12:51:47  refactor: extract helper function
 2023-01-17T13:04:08  feat: add input sanitization
+2023-01-17T14:12:28  fix: correct API response parsing
