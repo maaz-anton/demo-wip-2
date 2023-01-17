@@ -101,3 +101,4 @@
 2023-01-17T10:20:44  fix: resolve race condition
 2023-01-17T10:36:43  feat: add logging
 2023-01-17T11:37:56  fix: correct type mismatch
+2023-01-17T11:56:22  refactor: clean up utility functions
