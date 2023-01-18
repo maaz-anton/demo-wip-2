@@ -117,3 +117,4 @@
 2023-01-18T10:21:26  test: add unit tests for core module
 2023-01-18T11:43:08  feat: implement pagination
 2023-01-18T12:08:21  fix: correct off-by-one error
+2023-01-18T12:51:27  chore: remove dead code
