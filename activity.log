@@ -143,3 +143,4 @@
 2023-01-19T17:46:13  chore: remove dead code
 2023-01-19T18:51:40  fix: correct API response parsing
 2023-01-19T18:53:22  style: format code
+2023-01-20T09:20:54  refactor: clean up utility functions
