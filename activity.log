@@ -155,3 +155,4 @@
 2023-01-23T11:56:51  feat: add retry logic
 2023-01-23T17:00:14  chore: update dependencies
 2023-01-23T17:40:07  test: improve test coverage
+2023-01-23T21:28:19  fix: handle null values correctly
