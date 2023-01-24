@@ -157,3 +157,4 @@
 2023-01-23T17:40:07  test: improve test coverage
 2023-01-23T21:28:19  fix: handle null values correctly
 2023-01-24T09:23:31  fix: correct type mismatch
+2023-01-24T09:38:22  refactor: extract helper function
