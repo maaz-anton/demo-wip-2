@@ -169,3 +169,4 @@
 2023-01-24T15:12:59  chore: remove dead code
 2023-01-24T16:10:18  docs: update README
 2023-01-24T16:21:57  test: add unit tests for core module
+2023-01-24T22:27:09  fix: resolve race condition
