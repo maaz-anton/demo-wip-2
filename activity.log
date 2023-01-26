@@ -189,3 +189,4 @@
 2023-01-26T12:14:07  feat: add caching layer
 2023-01-26T13:00:33  feat: add retry logic
 2023-01-26T13:16:34  style: format code
+2023-01-26T13:44:34  feat: add logging
