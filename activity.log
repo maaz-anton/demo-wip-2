@@ -187,3 +187,4 @@
 2023-01-26T11:23:45  fix: resolve memory leak
 2023-01-26T11:28:59  style: format code
 2023-01-26T12:14:07  feat: add caching layer
+2023-01-26T13:00:33  feat: add retry logic
