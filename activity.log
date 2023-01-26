@@ -180,3 +180,4 @@
 2023-01-25T16:28:16  feat: add logging
 2023-01-25T16:37:52  fix: correct off-by-one error
 2023-01-25T18:10:02  refactor: extract helper function
+2023-01-25T20:11:41  fix: handle null values correctly
