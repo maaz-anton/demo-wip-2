@@ -203,3 +203,4 @@
 2023-01-27T10:23:21  fix: resolve memory leak
 2023-01-27T12:59:22  chore: remove dead code
 2023-01-27T13:08:46  feat: add retry logic
+2023-01-27T14:17:26  chore: bump version
