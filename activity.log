@@ -205,3 +205,4 @@
 2023-01-27T13:08:46  feat: add retry logic
 2023-01-27T14:17:26  chore: bump version
 2023-01-27T14:59:30  chore: bump version
+2023-01-27T15:00:37  feat: add input sanitization
