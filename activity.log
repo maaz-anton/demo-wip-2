@@ -238,3 +238,4 @@
 2023-01-31T19:24:40  chore: bump version
 2023-01-31T22:12:06  fix: correct API response parsing
 2023-02-01T08:26:40  feat: add caching layer
+2023-02-01T11:48:08  fix: resolve memory leak
