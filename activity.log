@@ -279,3 +279,4 @@
 2023-02-06T11:47:18  feat: add logging
 2023-02-06T12:23:05  fix: handle timeout gracefully
 2023-02-06T13:36:05  test: add unit tests for core module
+2023-02-06T13:37:03  feat: add validation logic
