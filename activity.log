@@ -281,3 +281,4 @@
 2023-02-06T13:36:05  test: add unit tests for core module
 2023-02-06T13:37:03  feat: add validation logic
 2023-02-06T13:46:28  chore: bump version
+2023-02-06T18:32:48  feat: improve error handling
