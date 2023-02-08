@@ -309,3 +309,4 @@
 2023-02-08T14:46:52  feat: add caching layer
 2023-02-08T14:53:28  test: add unit tests for core module
 2023-02-08T15:45:53  fix: correct API response parsing
+2023-02-08T15:52:35  feat: add caching layer
