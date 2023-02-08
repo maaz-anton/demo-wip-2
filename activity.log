@@ -298,3 +298,4 @@
 2023-02-07T19:08:14  refactor: clean up utility functions
 2023-02-07T19:20:13  fix: correct off-by-one error
 2023-02-07T19:42:42  feat: add caching layer
+2023-02-08T08:06:35  fix: resolve memory leak
