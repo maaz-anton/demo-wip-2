@@ -307,3 +307,4 @@
 2023-02-08T12:46:48  fix: resolve edge case in data processing
 2023-02-08T14:42:53  chore: update config
 2023-02-08T14:46:52  feat: add caching layer
+2023-02-08T14:53:28  test: add unit tests for core module
