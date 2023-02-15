@@ -360,3 +360,4 @@
 2023-02-15T10:28:33  feat: implement pagination
 2023-02-15T10:34:02  chore: bump version
 2023-02-15T11:02:57  test: improve test coverage
+2023-02-15T11:08:50  fix: handle null values correctly
