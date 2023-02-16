@@ -379,3 +379,4 @@
 2023-02-16T15:39:03  feat: implement pagination
 2023-02-16T16:32:20  refactor: clean up utility functions
 2023-02-16T16:50:18  fix: resolve race condition
+2023-02-16T18:11:57  refactor: clean up utility functions
