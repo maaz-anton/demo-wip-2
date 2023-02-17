@@ -384,3 +384,4 @@
 2023-02-16T20:54:04  docs: update inline comments
 2023-02-17T09:11:46  chore: update config
 2023-02-17T11:10:54  fix: resolve edge case in data processing
+2023-02-17T11:32:43  fix: correct off-by-one error
