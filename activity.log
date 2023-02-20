@@ -394,3 +394,4 @@
 2023-02-20T13:03:56  docs: update inline comments
 2023-02-20T15:37:22  fix: resolve memory leak
 2023-02-20T15:55:28  chore: bump version
+2023-02-20T16:25:04  fix: resolve race condition
