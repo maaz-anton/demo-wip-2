@@ -413,3 +413,4 @@
 2023-02-22T19:49:09  fix: correct API response parsing
 2023-02-22T20:20:09  test: improve test coverage
 2023-02-22T21:20:30  feat: add logging
+2023-02-23T12:43:34  feat: improve error handling
