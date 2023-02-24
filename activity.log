@@ -432,3 +432,4 @@
 2023-02-24T08:30:18  refactor: clean up utility functions
 2023-02-24T12:46:45  feat: add caching layer
 2023-02-24T13:41:48  test: add unit tests for core module
+2023-02-24T14:06:32  test: improve test coverage
