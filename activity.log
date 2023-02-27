@@ -443,3 +443,4 @@
 2023-02-26T13:02:30  fix: handle timeout gracefully
 2023-02-26T13:24:36  feat: add retry logic
 2023-02-27T09:41:53  docs: update README
+2023-02-27T09:43:27  fix: handle null values correctly
