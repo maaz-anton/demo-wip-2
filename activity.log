@@ -458,3 +458,4 @@
 2023-02-28T14:24:22  fix: correct type mismatch
 2023-02-28T15:06:54  feat: improve error handling
 2023-02-28T16:34:20  fix: resolve race condition
+2023-02-28T16:52:36  test: add unit tests for core module
