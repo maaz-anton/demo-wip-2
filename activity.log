@@ -465,3 +465,4 @@
 2023-02-28T20:04:26  fix: resolve race condition
 2023-02-28T20:12:52  test: add unit tests for core module
 2023-02-28T21:14:47  docs: update inline comments
+2023-03-01T11:18:22  fix: correct off-by-one error
