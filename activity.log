@@ -497,3 +497,4 @@
 2023-03-03T17:26:06  feat: implement pagination
 2023-03-03T17:32:46  feat: add logging
 2023-03-03T17:35:16  refactor: clean up utility functions
+2023-03-03T22:12:32  fix: handle null values correctly
