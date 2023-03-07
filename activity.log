@@ -510,3 +510,4 @@
 2023-03-07T13:16:51  feat: add logging
 2023-03-07T13:45:50  docs: update inline comments
 2023-03-07T14:32:16  feat: improve error handling
+2023-03-07T14:41:46  chore: remove dead code
