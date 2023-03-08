@@ -517,3 +517,4 @@
 2023-03-07T18:41:02  test: improve test coverage
 2023-03-07T19:29:13  fix: handle null values correctly
 2023-03-07T19:37:29  feat: add retry logic
+2023-03-07T20:42:36  feat: improve error handling
