@@ -534,3 +534,4 @@
 2023-03-09T09:53:01  test: improve test coverage
 2023-03-09T10:04:35  feat: add retry logic
 2023-03-09T10:21:05  fix: correct type mismatch
+2023-03-09T10:32:39  fix: correct API response parsing
