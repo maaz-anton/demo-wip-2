@@ -553,3 +553,4 @@
 2023-03-10T12:02:36  chore: remove dead code
 2023-03-10T12:35:06  fix: resolve broken import
 2023-03-10T14:23:46  chore: bump version
+2023-03-10T14:39:10  feat: add logging
