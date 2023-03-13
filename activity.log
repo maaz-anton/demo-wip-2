@@ -559,3 +559,4 @@
 2023-03-10T18:38:10  docs: update README
 2023-03-13T12:14:34  fix: correct API response parsing
 2023-03-13T12:32:08  test: add unit tests for core module
+2023-03-13T13:02:08  feat: add retry logic
