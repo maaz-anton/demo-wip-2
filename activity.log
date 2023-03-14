@@ -566,3 +566,4 @@
 2023-03-13T18:12:32  fix: handle null values correctly
 2023-03-13T18:13:02  feat: add caching layer
 2023-03-13T21:45:50  fix: handle null values correctly
+2023-03-14T10:09:31  fix: handle timeout gracefully
