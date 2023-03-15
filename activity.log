@@ -587,3 +587,4 @@
 2023-03-15T11:57:09  chore: remove dead code
 2023-03-15T12:02:41  test: improve test coverage
 2023-03-15T12:14:09  fix: resolve broken import
+2023-03-15T12:44:59  fix: handle null values correctly
