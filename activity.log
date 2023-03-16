@@ -598,3 +598,4 @@
 2023-03-15T20:37:06  refactor: clean up utility functions
 2023-03-15T21:15:21  fix: handle null values correctly
 2023-03-16T11:37:17  fix: handle timeout gracefully
+2023-03-16T12:23:06  feat: add caching layer
