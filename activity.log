@@ -631,3 +631,4 @@
 2023-03-21T17:52:36  feat: add input sanitization
 2023-03-21T18:29:34  chore: update config
 2023-03-21T18:56:40  fix: correct type mismatch
+2023-03-21T21:27:46  refactor: simplify conditional logic
