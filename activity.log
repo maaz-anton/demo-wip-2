@@ -674,3 +674,4 @@
 2023-03-25T18:13:40  chore: bump version
 2023-03-26T13:54:21  fix: handle timeout gracefully
 2023-03-27T09:26:14  feat: add caching layer
+2023-03-27T10:49:34  feat: add validation logic
