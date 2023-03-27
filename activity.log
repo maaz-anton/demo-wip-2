@@ -681,3 +681,4 @@
 2023-03-27T16:38:23  refactor: clean up utility functions
 2023-03-27T17:23:15  feat: add retry logic
 2023-03-27T18:16:36  feat: add validation logic
+2023-03-27T18:20:49  fix: handle null values correctly
