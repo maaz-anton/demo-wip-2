@@ -697,3 +697,4 @@
 2023-03-28T17:57:44  fix: correct API response parsing
 2023-03-28T19:32:58  docs: update README
 2023-03-28T20:14:37  feat: implement pagination
+2023-03-28T20:16:48  fix: resolve memory leak
