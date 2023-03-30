@@ -720,3 +720,4 @@
 2023-03-30T14:10:52  fix: handle null values correctly
 2023-03-30T14:36:47  fix: correct API response parsing
 2023-03-30T15:13:21  fix: handle timeout gracefully
+2023-03-30T15:35:31  refactor: clean up utility functions
