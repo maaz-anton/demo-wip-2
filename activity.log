@@ -714,3 +714,4 @@
 2023-03-29T17:47:52  docs: update README
 2023-03-29T19:18:40  feat: implement pagination
 2023-03-29T22:18:57  chore: bump version
+2023-03-30T09:08:42  fix: resolve memory leak
