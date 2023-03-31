@@ -729,3 +729,4 @@
 2023-03-31T11:58:00  fix: correct API response parsing
 2023-03-31T12:42:54  test: improve test coverage
 2023-03-31T13:22:10  fix: resolve broken import
+2023-03-31T13:33:26  refactor: extract helper function
