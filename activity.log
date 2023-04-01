@@ -734,3 +734,4 @@
 2023-03-31T18:04:15  fix: resolve broken import
 2023-03-31T18:41:09  feat: add logging
 2023-03-31T19:13:59  chore: update config
+2023-04-01T11:26:16  test: add unit tests for core module
