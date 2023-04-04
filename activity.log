@@ -752,3 +752,4 @@
 2023-04-04T10:47:56  refactor: simplify conditional logic
 2023-04-04T10:58:49  fix: correct type mismatch
 2023-04-04T12:22:29  fix: resolve memory leak
+2023-04-04T12:23:05  fix: correct off-by-one error
