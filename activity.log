@@ -786,3 +786,4 @@
 2023-04-06T16:18:45  refactor: simplify conditional logic
 2023-04-06T17:28:43  fix: correct type mismatch
 2023-04-06T17:43:10  test: improve test coverage
+2023-04-06T17:51:51  refactor: consolidate duplicate logic
