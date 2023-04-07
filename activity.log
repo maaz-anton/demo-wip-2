@@ -795,3 +795,4 @@
 2023-04-07T13:15:44  chore: update config
 2023-04-07T14:50:32  feat: add metrics tracking
 2023-04-07T15:12:12  feat: add metrics tracking
+2023-04-07T15:26:03  refactor: consolidate duplicate logic
