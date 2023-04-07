@@ -796,3 +796,4 @@
 2023-04-07T14:50:32  feat: add metrics tracking
 2023-04-07T15:12:12  feat: add metrics tracking
 2023-04-07T15:26:03  refactor: consolidate duplicate logic
+2023-04-07T17:26:42  fix: resolve memory leak
