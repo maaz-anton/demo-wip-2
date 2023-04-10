@@ -801,3 +801,4 @@
 2023-04-09T13:57:05  style: format code
 2023-04-09T15:39:38  feat: add metrics tracking
 2023-04-09T17:23:08  chore: bump version
+2023-04-10T10:45:32  feat: improve error handling
