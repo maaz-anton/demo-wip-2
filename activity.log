@@ -816,3 +816,4 @@
 2023-04-11T11:36:14  fix: correct off-by-one error
 2023-04-11T12:12:03  feat: add retry logic
 2023-04-11T12:28:33  test: add unit tests for core module
+2023-04-11T12:48:04  fix: resolve race condition
