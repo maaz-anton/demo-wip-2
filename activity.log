@@ -812,3 +812,4 @@
 2023-04-10T15:33:26  docs: update inline comments
 2023-04-10T16:36:29  feat: add logging
 2023-04-10T16:42:03  fix: handle null values correctly
+2023-04-10T20:12:30  refactor: clean up utility functions
