@@ -813,3 +813,4 @@
 2023-04-10T16:36:29  feat: add logging
 2023-04-10T16:42:03  fix: handle null values correctly
 2023-04-10T20:12:30  refactor: clean up utility functions
+2023-04-11T11:36:14  fix: correct off-by-one error
