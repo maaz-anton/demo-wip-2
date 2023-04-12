@@ -827,3 +827,4 @@
 2023-04-11T17:29:27  feat: add input sanitization
 2023-04-11T19:21:15  docs: update inline comments
 2023-04-11T21:46:39  chore: bump version
+2023-04-12T10:24:38  fix: resolve memory leak
