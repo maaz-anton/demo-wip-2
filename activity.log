@@ -890,3 +890,4 @@
 2023-04-21T13:53:50  refactor: clean up utility functions
 2023-04-21T14:34:29  feat: improve error handling
 2023-04-21T15:02:53  feat: add validation logic
+2023-04-21T15:15:34  test: add unit tests for core module
