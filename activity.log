@@ -893,3 +893,4 @@
 2023-04-21T15:15:34  test: add unit tests for core module
 2023-04-21T15:33:29  refactor: consolidate duplicate logic
 2023-04-21T16:13:51  feat: add retry logic
+2023-04-22T16:20:04  refactor: clean up utility functions
