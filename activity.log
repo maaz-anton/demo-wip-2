@@ -907,3 +907,4 @@
 2023-04-24T18:12:44  fix: handle null values correctly
 2023-04-24T18:42:27  feat: add logging
 2023-04-24T20:34:48  docs: update README
+2023-04-24T20:45:14  test: improve test coverage
