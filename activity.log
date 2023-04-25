@@ -912,3 +912,4 @@
 2023-04-25T09:43:20  refactor: simplify conditional logic
 2023-04-25T09:59:34  refactor: simplify conditional logic
 2023-04-25T10:18:29  fix: handle timeout gracefully
+2023-04-25T11:54:27  refactor: extract helper function
