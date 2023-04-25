@@ -915,3 +915,4 @@
 2023-04-25T11:54:27  refactor: extract helper function
 2023-04-25T12:00:33  docs: update README
 2023-04-25T12:27:21  fix: correct type mismatch
+2023-04-25T12:46:41  feat: add logging
