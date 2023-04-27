@@ -934,3 +934,4 @@
 2023-04-26T14:44:27  feat: add logging
 2023-04-26T16:32:03  feat: add retry logic
 2023-04-26T18:11:07  feat: add retry logic
+2023-04-27T08:02:56  fix: resolve memory leak
