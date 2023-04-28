@@ -956,3 +956,4 @@
 2023-04-28T14:36:57  fix: correct type mismatch
 2023-04-28T14:49:30  fix: resolve edge case in data processing
 2023-04-28T15:07:25  docs: update README
+2023-04-28T15:32:25  feat: add input sanitization
