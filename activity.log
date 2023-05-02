@@ -970,3 +970,4 @@
 2023-05-01T18:20:56  fix: resolve race condition
 2023-05-02T10:44:36  test: add unit tests for core module
 2023-05-02T11:34:27  fix: resolve memory leak
+2023-05-02T12:09:14  fix: correct off-by-one error
