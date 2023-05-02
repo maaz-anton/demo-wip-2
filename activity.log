@@ -971,3 +971,4 @@
 2023-05-02T10:44:36  test: add unit tests for core module
 2023-05-02T11:34:27  fix: resolve memory leak
 2023-05-02T12:09:14  fix: correct off-by-one error
+2023-05-02T13:21:02  fix: handle null values correctly
