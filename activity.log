@@ -987,3 +987,4 @@
 2023-05-03T15:55:26  refactor: simplify conditional logic
 2023-05-03T17:17:14  refactor: simplify conditional logic
 2023-05-03T18:18:07  chore: bump version
+2023-05-03T18:20:36  fix: correct off-by-one error
