@@ -979,3 +979,4 @@
 2023-05-02T16:33:15  fix: resolve race condition
 2023-05-02T16:42:23  test: improve test coverage
 2023-05-02T18:27:52  chore: update config
+2023-05-03T09:32:30  fix: handle null values correctly
