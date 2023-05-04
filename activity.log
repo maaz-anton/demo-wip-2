@@ -991,3 +991,4 @@
 2023-05-04T10:18:38  fix: correct type mismatch
 2023-05-04T11:26:36  refactor: extract helper function
 2023-05-04T13:36:12  feat: add validation logic
+2023-05-04T14:28:22  refactor: clean up utility functions
