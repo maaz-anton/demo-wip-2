@@ -1021,3 +1021,4 @@
 2023-05-09T17:26:30  docs: update README
 2023-05-09T17:29:44  feat: add logging
 2023-05-09T17:31:48  fix: handle null values correctly
+2023-05-09T18:46:17  feat: add metrics tracking
