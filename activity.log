@@ -1077,3 +1077,4 @@
 2023-05-17T11:50:10  fix: correct type mismatch
 2023-05-17T12:54:24  chore: update dependencies
 2023-05-17T13:36:55  feat: add caching layer
+2023-05-17T14:02:26  refactor: extract helper function
