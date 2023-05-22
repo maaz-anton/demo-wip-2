@@ -1118,3 +1118,4 @@
 2023-05-22T13:45:11  fix: resolve broken import
 2023-05-22T16:24:32  docs: update README
 2023-05-22T18:19:59  fix: handle null values correctly
+2023-05-22T18:26:30  fix: resolve memory leak
