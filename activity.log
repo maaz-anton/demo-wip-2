@@ -1132,3 +1132,4 @@
 2023-05-23T13:24:15  feat: add retry logic
 2023-05-23T15:53:28  fix: handle null values correctly
 2023-05-24T11:36:24  docs: update README
+2023-05-24T11:46:17  fix: resolve race condition
