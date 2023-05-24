@@ -1138,3 +1138,4 @@
 2023-05-24T14:32:18  refactor: extract helper function
 2023-05-24T14:50:05  feat: add logging
 2023-05-24T15:07:33  refactor: clean up utility functions
+2023-05-24T15:10:57  fix: handle null values correctly
