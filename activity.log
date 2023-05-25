@@ -1146,3 +1146,4 @@
 2023-05-24T19:26:29  fix: resolve race condition
 2023-05-24T22:40:22  fix: resolve broken import
 2023-05-25T12:00:07  feat: add metrics tracking
+2023-05-25T13:14:55  docs: update README
