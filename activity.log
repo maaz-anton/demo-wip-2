@@ -1152,3 +1152,4 @@
 2023-05-25T15:31:09  fix: correct type mismatch
 2023-05-25T15:37:27  fix: correct type mismatch
 2023-05-25T16:06:50  chore: remove dead code
+2023-05-25T16:56:47  refactor: clean up utility functions
