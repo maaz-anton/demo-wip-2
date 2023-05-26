@@ -1159,3 +1159,4 @@
 2023-05-26T10:55:02  feat: add metrics tracking
 2023-05-26T13:34:42  fix: resolve broken import
 2023-05-26T14:27:56  docs: update README
+2023-05-26T19:49:55  feat: add logging
