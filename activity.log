@@ -1193,3 +1193,4 @@
 2023-06-01T13:31:07  feat: add input sanitization
 2023-06-01T13:37:29  feat: implement pagination
 2023-06-01T13:40:38  chore: bump version
+2023-06-01T14:10:19  fix: correct off-by-one error
