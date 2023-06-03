@@ -1204,3 +1204,4 @@
 2023-06-02T15:56:52  test: add unit tests for core module
 2023-06-02T16:04:58  feat: add retry logic
 2023-06-02T20:00:25  fix: resolve broken import
+2023-06-02T21:57:40  fix: handle null values correctly
