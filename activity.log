@@ -1228,3 +1228,4 @@
 2023-06-06T16:08:26  feat: add logging
 2023-06-06T16:26:11  feat: add caching layer
 2023-06-06T16:38:46  test: improve test coverage
+2023-06-06T17:58:04  refactor: clean up utility functions
