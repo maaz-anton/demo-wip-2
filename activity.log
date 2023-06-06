@@ -1222,3 +1222,4 @@
 2023-06-06T11:48:50  docs: update README
 2023-06-06T12:12:03  feat: add metrics tracking
 2023-06-06T12:17:33  style: format code
+2023-06-06T13:03:41  feat: add retry logic
