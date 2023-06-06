@@ -1218,3 +1218,4 @@
 2023-06-05T14:29:39  docs: update inline comments
 2023-06-05T20:39:25  feat: improve error handling
 2023-06-06T10:31:08  chore: remove dead code
+2023-06-06T11:42:52  fix: resolve memory leak
