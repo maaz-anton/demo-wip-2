@@ -1278,3 +1278,4 @@
 2023-06-12T14:10:23  feat: add caching layer
 2023-06-12T14:49:45  docs: update README
 2023-06-12T15:38:06  feat: add metrics tracking
+2023-06-12T20:22:25  fix: correct API response parsing
