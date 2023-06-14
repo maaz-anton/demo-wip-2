@@ -1299,3 +1299,4 @@
 2023-06-14T12:47:59  feat: add caching layer
 2023-06-14T12:56:27  feat: add logging
 2023-06-14T13:02:03  refactor: simplify conditional logic
+2023-06-14T13:35:42  refactor: clean up utility functions
