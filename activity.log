@@ -1311,3 +1311,4 @@
 2023-06-14T19:47:30  fix: correct type mismatch
 2023-06-14T21:21:01  fix: resolve broken import
 2023-06-15T09:40:10  fix: correct type mismatch
+2023-06-15T12:08:53  fix: handle null values correctly
