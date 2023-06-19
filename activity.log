@@ -1342,3 +1342,4 @@
 2023-06-19T16:06:34  fix: correct off-by-one error
 2023-06-19T18:21:45  test: add unit tests for core module
 2023-06-19T18:45:33  chore: update config
+2023-06-19T19:56:10  refactor: extract helper function
