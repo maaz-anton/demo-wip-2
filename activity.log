@@ -1347,3 +1347,4 @@
 2023-06-20T11:27:19  fix: correct type mismatch
 2023-06-20T13:03:04  refactor: simplify conditional logic
 2023-06-20T13:26:11  chore: bump version
+2023-06-20T14:18:08  fix: correct API response parsing
