@@ -1403,3 +1403,4 @@
 2023-06-26T14:15:16  feat: add retry logic
 2023-06-26T15:01:16  refactor: clean up utility functions
 2023-06-26T17:30:51  feat: add logging
+2023-06-26T19:04:11  fix: handle null values correctly
