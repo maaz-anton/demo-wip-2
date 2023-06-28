@@ -1415,3 +1415,4 @@
 2023-06-27T18:36:51  chore: update config
 2023-06-28T10:15:29  style: format code
 2023-06-28T10:47:14  docs: update README
+2023-06-28T10:59:17  fix: resolve memory leak
