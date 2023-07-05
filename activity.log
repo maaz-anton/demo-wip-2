@@ -1453,3 +1453,4 @@
 2023-07-04T15:52:05  fix: correct API response parsing
 2023-07-05T12:12:08  docs: update README
 2023-07-05T14:59:56  refactor: extract helper function
+2023-07-05T16:17:09  feat: add caching layer
