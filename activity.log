@@ -1502,3 +1502,4 @@
 2023-07-13T17:28:14  fix: correct off-by-one error
 2023-07-13T19:00:37  docs: update inline comments
 2023-07-13T20:52:18  docs: update inline comments
+2023-07-14T11:45:04  refactor: simplify conditional logic
