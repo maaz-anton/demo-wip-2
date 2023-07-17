@@ -1521,3 +1521,4 @@
 2023-07-17T14:02:36  fix: correct API response parsing
 2023-07-17T14:15:07  refactor: clean up utility functions
 2023-07-17T16:10:00  docs: update README
+2023-07-17T16:19:07  fix: correct off-by-one error
