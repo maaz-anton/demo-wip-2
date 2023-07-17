@@ -1515,3 +1515,4 @@
 2023-07-16T18:05:33  style: format code
 2023-07-17T08:10:50  chore: update config
 2023-07-17T10:24:43  feat: add validation logic
+2023-07-17T11:34:18  fix: handle null values correctly
