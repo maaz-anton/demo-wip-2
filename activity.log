@@ -1542,3 +1542,4 @@
 2023-07-19T12:15:32  style: format code
 2023-07-19T13:13:13  fix: handle null values correctly
 2023-07-19T13:35:33  feat: improve error handling
+2023-07-19T13:36:39  test: add unit tests for core module
