@@ -1549,3 +1549,4 @@
 2023-07-19T17:21:05  fix: correct API response parsing
 2023-07-19T17:28:04  chore: remove dead code
 2023-07-19T17:37:42  feat: add validation logic
+2023-07-20T08:34:38  fix: handle null values correctly
