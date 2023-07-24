@@ -1576,3 +1576,4 @@
 2023-07-24T10:20:57  docs: update README
 2023-07-24T11:18:01  feat: add caching layer
 2023-07-24T12:15:40  fix: resolve broken import
+2023-07-24T12:26:53  test: improve test coverage
