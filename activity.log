@@ -1588,3 +1588,4 @@
 2023-07-25T11:59:52  chore: bump version
 2023-07-25T12:55:51  feat: add logging
 2023-07-25T13:00:43  fix: handle null values correctly
+2023-07-25T13:24:55  fix: resolve race condition
