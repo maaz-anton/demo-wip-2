@@ -1586,3 +1586,4 @@
 2023-07-24T20:09:43  fix: correct API response parsing
 2023-07-25T09:25:39  fix: correct API response parsing
 2023-07-25T11:59:52  chore: bump version
+2023-07-25T12:55:51  feat: add logging
