@@ -1591,3 +1591,4 @@
 2023-07-25T13:24:55  fix: resolve race condition
 2023-07-25T13:31:45  fix: resolve broken import
 2023-07-25T15:07:07  test: add unit tests for core module
+2023-07-25T16:11:32  feat: add retry logic
