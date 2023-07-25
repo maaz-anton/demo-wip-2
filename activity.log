@@ -1593,3 +1593,4 @@
 2023-07-25T15:07:07  test: add unit tests for core module
 2023-07-25T16:11:32  feat: add retry logic
 2023-07-25T16:22:18  chore: bump version
+2023-07-25T17:16:26  feat: implement pagination
