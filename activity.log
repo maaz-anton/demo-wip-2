@@ -1596,3 +1596,4 @@
 2023-07-25T17:16:26  feat: implement pagination
 2023-07-25T17:19:39  docs: update README
 2023-07-25T20:33:38  feat: add retry logic
+2023-07-25T20:33:50  test: add unit tests for core module
