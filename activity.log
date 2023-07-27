@@ -1613,3 +1613,4 @@
 2023-07-26T16:09:14  chore: bump version
 2023-07-26T17:51:41  fix: resolve memory leak
 2023-07-26T18:29:10  feat: add logging
+2023-07-27T10:28:51  fix: correct API response parsing
