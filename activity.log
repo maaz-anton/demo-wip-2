@@ -1618,3 +1618,4 @@
 2023-07-27T11:28:54  feat: improve error handling
 2023-07-27T12:28:13  chore: update config
 2023-07-27T12:45:39  chore: bump version
+2023-07-27T13:39:12  fix: resolve memory leak
