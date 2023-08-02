@@ -1652,3 +1652,4 @@
 2023-08-02T12:24:32  fix: resolve race condition
 2023-08-02T12:57:11  chore: bump version
 2023-08-02T13:05:20  fix: resolve memory leak
+2023-08-02T15:18:58  fix: handle timeout gracefully
