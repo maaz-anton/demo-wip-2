@@ -1651,3 +1651,4 @@
 2023-08-01T20:50:18  style: format code
 2023-08-02T12:24:32  fix: resolve race condition
 2023-08-02T12:57:11  chore: bump version
+2023-08-02T13:05:20  fix: resolve memory leak
