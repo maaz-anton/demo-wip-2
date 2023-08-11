@@ -1720,3 +1720,4 @@
 2023-08-10T21:13:30  docs: update README
 2023-08-10T21:59:23  fix: correct API response parsing
 2023-08-11T08:03:01  chore: bump version
+2023-08-11T11:11:55  feat: improve error handling
