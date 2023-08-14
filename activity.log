@@ -1736,3 +1736,4 @@
 2023-08-14T12:00:18  feat: improve error handling
 2023-08-14T12:00:20  feat: add input sanitization
 2023-08-14T13:20:21  chore: bump version
+2023-08-14T13:29:53  feat: implement pagination
