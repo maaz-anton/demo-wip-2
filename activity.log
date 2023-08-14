@@ -1737,3 +1737,4 @@
 2023-08-14T12:00:20  feat: add input sanitization
 2023-08-14T13:20:21  chore: bump version
 2023-08-14T13:29:53  feat: implement pagination
+2023-08-14T15:17:24  fix: correct type mismatch
