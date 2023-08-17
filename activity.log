@@ -1782,3 +1782,4 @@
 2023-08-17T12:42:04  fix: resolve memory leak
 2023-08-17T13:51:54  feat: add input sanitization
 2023-08-17T15:39:41  chore: update dependencies
+2023-08-17T16:08:08  test: add unit tests for core module
