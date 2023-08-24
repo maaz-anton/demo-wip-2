@@ -1825,3 +1825,4 @@
 2023-08-23T17:55:32  docs: update inline comments
 2023-08-24T09:53:50  fix: resolve race condition
 2023-08-24T10:01:39  fix: correct API response parsing
+2023-08-24T13:30:29  fix: correct off-by-one error
