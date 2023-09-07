@@ -1904,3 +1904,4 @@
 2023-09-07T12:53:21  chore: update dependencies
 2023-09-07T13:08:11  fix: resolve broken import
 2023-09-07T13:17:54  fix: resolve race condition
+2023-09-07T13:22:11  feat: add validation logic
