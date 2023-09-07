@@ -1900,3 +1900,4 @@
 2023-09-06T18:21:17  feat: implement pagination
 2023-09-06T20:01:39  feat: add caching layer
 2023-09-07T09:58:50  fix: handle null values correctly
+2023-09-07T11:26:46  refactor: extract helper function
