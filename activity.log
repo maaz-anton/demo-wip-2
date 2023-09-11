@@ -1928,3 +1928,4 @@
 2023-09-11T12:39:11  chore: bump version
 2023-09-11T13:07:54  test: add unit tests for core module
 2023-09-11T14:00:58  chore: update config
+2023-09-11T14:15:34  fix: correct type mismatch
