@@ -1935,3 +1935,4 @@
 2023-09-12T09:39:11  chore: update config
 2023-09-12T11:06:30  chore: update config
 2023-09-12T11:47:00  chore: remove dead code
+2023-09-12T11:59:25  fix: handle null values correctly
