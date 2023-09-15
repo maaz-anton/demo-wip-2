@@ -1972,3 +1972,4 @@
 2023-09-14T20:00:47  feat: implement pagination
 2023-09-15T11:20:46  feat: add validation logic
 2023-09-15T13:19:15  chore: bump version
+2023-09-15T13:32:13  fix: correct type mismatch
