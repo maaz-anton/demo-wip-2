@@ -1986,3 +1986,4 @@
 2023-09-18T11:50:46  chore: update dependencies
 2023-09-18T12:22:04  test: improve test coverage
 2023-09-18T14:42:23  docs: update README
+2023-09-18T14:53:39  chore: remove dead code
