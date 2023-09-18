@@ -1988,3 +1988,4 @@
 2023-09-18T14:42:23  docs: update README
 2023-09-18T14:53:39  chore: remove dead code
 2023-09-18T15:52:10  refactor: consolidate duplicate logic
+2023-09-18T17:18:01  fix: correct API response parsing
