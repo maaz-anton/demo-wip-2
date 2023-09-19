@@ -1996,3 +1996,4 @@
 2023-09-19T09:41:48  docs: update README
 2023-09-19T10:16:29  docs: update README
 2023-09-19T11:23:46  feat: implement pagination
+2023-09-19T12:07:41  refactor: extract helper function
