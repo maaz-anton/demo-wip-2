@@ -2007,3 +2007,4 @@
 2023-09-19T17:09:38  feat: implement pagination
 2023-09-19T17:24:57  chore: remove dead code
 2023-09-20T10:29:14  test: add unit tests for core module
+2023-09-20T10:30:44  feat: add logging
