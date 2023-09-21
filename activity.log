@@ -2032,3 +2032,4 @@
 2023-09-21T11:00:09  docs: update inline comments
 2023-09-21T11:07:58  chore: update config
 2023-09-21T12:41:10  fix: correct API response parsing
+2023-09-21T13:26:28  fix: handle null values correctly
