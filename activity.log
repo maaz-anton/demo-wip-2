@@ -2027,3 +2027,4 @@
 2023-09-20T17:32:38  docs: update inline comments
 2023-09-20T17:58:58  feat: add validation logic
 2023-09-20T18:11:35  chore: bump version
+2023-09-21T10:03:49  refactor: clean up utility functions
