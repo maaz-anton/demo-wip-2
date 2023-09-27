@@ -2072,3 +2072,4 @@
 2023-09-26T18:23:14  fix: resolve broken import
 2023-09-27T12:29:35  feat: add metrics tracking
 2023-09-27T14:06:53  chore: remove dead code
+2023-09-27T14:12:05  refactor: clean up utility functions
