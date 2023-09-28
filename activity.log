@@ -2080,3 +2080,4 @@
 2023-09-28T11:38:42  feat: implement pagination
 2023-09-28T11:42:57  chore: bump version
 2023-09-28T12:00:40  feat: improve error handling
+2023-09-28T12:48:31  refactor: extract helper function
