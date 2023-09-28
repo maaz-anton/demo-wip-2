@@ -2084,3 +2084,4 @@
 2023-09-28T13:06:02  refactor: extract helper function
 2023-09-28T13:42:17  fix: handle null values correctly
 2023-09-28T14:05:18  test: add unit tests for core module
+2023-09-28T15:38:09  feat: add validation logic
