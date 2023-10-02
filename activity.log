@@ -2099,3 +2099,4 @@
 2023-10-02T09:00:06  refactor: extract helper function
 2023-10-02T11:10:01  fix: resolve broken import
 2023-10-02T11:24:47  chore: update config
+2023-10-02T12:41:42  refactor: clean up utility functions
