@@ -2107,3 +2107,4 @@
 2023-10-02T16:17:53  refactor: extract helper function
 2023-10-02T19:50:08  chore: bump version
 2023-10-03T08:26:19  feat: add caching layer
+2023-10-03T10:12:15  fix: handle timeout gracefully
