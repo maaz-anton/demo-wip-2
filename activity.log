@@ -2134,3 +2134,4 @@
 2023-10-04T19:25:09  chore: update dependencies
 2023-10-04T21:42:07  feat: add caching layer
 2023-10-05T08:50:55  feat: improve error handling
+2023-10-05T09:17:16  test: add unit tests for core module
