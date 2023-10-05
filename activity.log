@@ -2139,3 +2139,4 @@
 2023-10-05T11:12:03  fix: correct type mismatch
 2023-10-05T12:03:12  fix: correct API response parsing
 2023-10-05T12:03:18  feat: add retry logic
+2023-10-05T12:50:20  test: add unit tests for core module
