@@ -2155,3 +2155,4 @@
 2023-10-06T13:42:41  refactor: clean up utility functions
 2023-10-06T13:49:28  fix: correct API response parsing
 2023-10-06T15:06:34  fix: correct off-by-one error
+2023-10-06T15:11:52  feat: add caching layer
