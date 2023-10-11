@@ -2194,3 +2194,4 @@
 2023-10-10T20:52:52  fix: resolve race condition
 2023-10-11T10:27:31  chore: bump version
 2023-10-11T11:27:53  docs: update README
+2023-10-11T12:20:30  feat: add validation logic
