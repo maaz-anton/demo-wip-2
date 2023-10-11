@@ -2196,3 +2196,4 @@
 2023-10-11T11:27:53  docs: update README
 2023-10-11T12:20:30  feat: add validation logic
 2023-10-11T12:27:38  fix: correct API response parsing
+2023-10-11T12:29:22  feat: add caching layer
