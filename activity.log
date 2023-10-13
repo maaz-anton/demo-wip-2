@@ -2232,3 +2232,4 @@
 2023-10-13T14:39:39  docs: update inline comments
 2023-10-13T15:50:19  fix: handle null values correctly
 2023-10-13T17:31:26  refactor: extract helper function
+2023-10-13T17:43:52  refactor: simplify conditional logic
