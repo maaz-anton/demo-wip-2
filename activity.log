@@ -2245,3 +2245,4 @@
 2023-10-16T20:34:58  fix: correct type mismatch
 2023-10-16T20:52:30  refactor: consolidate duplicate logic
 2023-10-17T12:55:32  chore: bump version
+2023-10-17T13:18:53  refactor: extract helper function
