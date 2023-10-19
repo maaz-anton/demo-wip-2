@@ -2274,3 +2274,4 @@
 2023-10-19T15:14:23  fix: correct type mismatch
 2023-10-19T15:15:49  feat: add logging
 2023-10-19T16:11:22  docs: update inline comments
+2023-10-19T16:41:48  refactor: simplify conditional logic
