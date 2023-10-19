@@ -2272,3 +2272,4 @@
 2023-10-19T14:29:11  feat: add validation logic
 2023-10-19T14:54:29  docs: update README
 2023-10-19T15:14:23  fix: correct type mismatch
+2023-10-19T15:15:49  feat: add logging
