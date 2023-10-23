@@ -2297,3 +2297,4 @@
 2023-10-23T14:25:40  feat: add logging
 2023-10-23T15:03:01  fix: resolve broken import
 2023-10-23T16:17:18  chore: bump version
+2023-10-23T17:17:00  chore: remove dead code
