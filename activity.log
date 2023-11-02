@@ -2378,3 +2378,4 @@
 2023-11-01T20:14:06  refactor: clean up utility functions
 2023-11-01T21:42:20  feat: add logging
 2023-11-02T10:27:35  refactor: clean up utility functions
+2023-11-02T10:59:19  test: add unit tests for core module
