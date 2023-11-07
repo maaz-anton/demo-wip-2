@@ -2419,3 +2419,4 @@
 2023-11-07T14:40:42  chore: bump version
 2023-11-07T15:06:34  fix: handle null values correctly
 2023-11-07T15:21:38  fix: handle timeout gracefully
+2023-11-07T17:51:38  feat: add input sanitization
