@@ -2437,3 +2437,4 @@
 2023-11-08T18:15:12  refactor: simplify conditional logic
 2023-11-08T19:38:53  chore: bump version
 2023-11-09T08:11:26  refactor: extract helper function
+2023-11-09T10:55:50  feat: improve error handling
