@@ -2446,3 +2446,4 @@
 2023-11-09T14:22:28  test: add unit tests for core module
 2023-11-09T15:21:29  chore: remove dead code
 2023-11-09T15:26:20  chore: update dependencies
+2023-11-09T15:54:13  refactor: simplify conditional logic
