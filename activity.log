@@ -2436,3 +2436,4 @@
 2023-11-08T17:38:04  feat: add validation logic
 2023-11-08T18:15:12  refactor: simplify conditional logic
 2023-11-08T19:38:53  chore: bump version
+2023-11-09T08:11:26  refactor: extract helper function
