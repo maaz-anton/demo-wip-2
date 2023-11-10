@@ -2452,3 +2452,4 @@
 2023-11-09T20:12:26  chore: remove dead code
 2023-11-10T13:07:23  feat: add retry logic
 2023-11-10T14:37:56  feat: improve error handling
+2023-11-10T16:05:54  test: add unit tests for core module
