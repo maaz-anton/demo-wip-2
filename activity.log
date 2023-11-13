@@ -2462,3 +2462,4 @@
 2023-11-12T17:27:29  chore: remove dead code
 2023-11-13T11:28:43  fix: handle null values correctly
 2023-11-13T11:35:22  docs: update README
+2023-11-13T12:34:16  feat: add retry logic
