@@ -2478,3 +2478,4 @@
 2023-11-15T12:58:34  fix: resolve race condition
 2023-11-15T13:05:30  test: improve test coverage
 2023-11-15T13:33:54  feat: add logging
+2023-11-15T17:13:53  refactor: simplify conditional logic
