@@ -2490,3 +2490,4 @@
 2023-11-16T14:39:37  fix: handle timeout gracefully
 2023-11-16T14:48:46  test: add unit tests for core module
 2023-11-16T15:05:38  fix: handle timeout gracefully
+2023-11-16T15:52:12  fix: resolve race condition
