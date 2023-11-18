@@ -2504,3 +2504,4 @@
 2023-11-17T17:10:07  test: add unit tests for core module
 2023-11-17T18:39:12  feat: add input sanitization
 2023-11-17T19:15:16  feat: add caching layer
+2023-11-18T13:03:14  feat: implement pagination
