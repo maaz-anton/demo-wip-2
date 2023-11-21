@@ -2526,3 +2526,4 @@
 2023-11-21T15:59:57  refactor: extract helper function
 2023-11-21T16:28:14  chore: bump version
 2023-11-21T17:47:21  feat: add logging
+2023-11-21T18:53:57  fix: correct API response parsing
