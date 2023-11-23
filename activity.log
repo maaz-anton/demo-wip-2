@@ -2542,3 +2542,4 @@
 2023-11-23T15:09:30  refactor: clean up utility functions
 2023-11-23T15:50:30  refactor: clean up utility functions
 2023-11-23T15:54:23  fix: handle null values correctly
+2023-11-23T16:46:11  fix: resolve memory leak
