@@ -2541,3 +2541,4 @@
 2023-11-23T15:07:43  fix: correct off-by-one error
 2023-11-23T15:09:30  refactor: clean up utility functions
 2023-11-23T15:50:30  refactor: clean up utility functions
+2023-11-23T15:54:23  fix: handle null values correctly
