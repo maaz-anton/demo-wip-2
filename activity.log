@@ -2559,3 +2559,4 @@
 2023-11-27T12:13:47  refactor: consolidate duplicate logic
 2023-11-27T12:43:22  feat: add logging
 2023-11-27T13:20:04  chore: remove dead code
+2023-11-27T15:16:33  refactor: clean up utility functions
