@@ -2567,3 +2567,4 @@
 2023-11-28T13:12:02  feat: add metrics tracking
 2023-11-28T13:25:15  chore: bump version
 2023-11-28T17:18:54  refactor: clean up utility functions
+2023-11-28T17:49:23  refactor: consolidate duplicate logic
