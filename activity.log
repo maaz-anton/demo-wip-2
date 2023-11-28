@@ -2563,3 +2563,4 @@
 2023-11-27T18:05:24  chore: remove dead code
 2023-11-27T19:12:04  feat: implement pagination
 2023-11-28T11:49:06  test: add unit tests for core module
+2023-11-28T11:59:36  feat: add caching layer
