@@ -2568,3 +2568,4 @@
 2023-11-28T13:25:15  chore: bump version
 2023-11-28T17:18:54  refactor: clean up utility functions
 2023-11-28T17:49:23  refactor: consolidate duplicate logic
+2023-11-28T18:41:55  fix: handle timeout gracefully
