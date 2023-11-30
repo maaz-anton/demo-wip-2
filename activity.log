@@ -2586,3 +2586,4 @@
 2023-11-30T12:57:56  chore: remove dead code
 2023-11-30T13:22:05  fix: resolve race condition
 2023-11-30T13:41:35  chore: remove dead code
+2023-11-30T14:08:48  refactor: extract helper function
