@@ -2696,3 +2696,4 @@
 2023-12-12T14:01:02  feat: add retry logic
 2023-12-12T14:03:07  style: format code
 2023-12-12T14:35:14  test: add unit tests for core module
+2023-12-12T15:57:42  feat: improve error handling
