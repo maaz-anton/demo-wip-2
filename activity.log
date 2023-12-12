@@ -2699,3 +2699,4 @@
 2023-12-12T15:57:42  feat: improve error handling
 2023-12-12T16:25:50  refactor: simplify conditional logic
 2023-12-12T17:05:33  chore: update config
+2023-12-12T18:08:23  fix: handle null values correctly
