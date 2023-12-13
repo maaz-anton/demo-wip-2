@@ -2714,3 +2714,4 @@
 2023-12-13T13:45:08  docs: update README
 2023-12-13T14:37:39  fix: resolve broken import
 2023-12-13T15:23:04  refactor: simplify conditional logic
+2023-12-13T15:44:10  fix: correct API response parsing
