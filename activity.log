@@ -2733,3 +2733,4 @@
 2023-12-14T16:57:22  feat: add retry logic
 2023-12-14T17:43:40  chore: remove dead code
 2023-12-14T18:03:38  fix: resolve memory leak
+2023-12-14T20:46:50  fix: handle null values correctly
