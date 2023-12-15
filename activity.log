@@ -2742,3 +2742,4 @@
 2023-12-15T12:46:29  fix: resolve race condition
 2023-12-15T13:14:47  chore: bump version
 2023-12-15T14:00:07  docs: update README
+2023-12-15T14:36:13  fix: handle timeout gracefully
