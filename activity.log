@@ -2757,3 +2757,4 @@
 2023-12-18T13:17:42  fix: correct type mismatch
 2023-12-18T13:32:01  fix: correct off-by-one error
 2023-12-18T13:49:04  docs: update inline comments
+2023-12-18T14:09:32  fix: resolve race condition
