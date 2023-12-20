@@ -2781,3 +2781,4 @@
 2023-12-19T19:18:02  test: add unit tests for core module
 2023-12-19T19:58:19  feat: improve error handling
 2023-12-19T20:01:50  feat: add input sanitization
+2023-12-19T20:13:46  fix: handle timeout gracefully
