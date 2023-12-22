@@ -2804,3 +2804,4 @@
 2023-12-21T20:51:50  fix: handle null values correctly
 2023-12-22T09:39:07  feat: add input sanitization
 2023-12-22T09:58:23  feat: add input sanitization
+2023-12-22T13:12:06  refactor: simplify conditional logic
