@@ -2818,3 +2818,4 @@
 2023-12-25T16:54:50  feat: implement pagination
 2023-12-25T17:08:27  docs: update inline comments
 2023-12-25T18:10:19  fix: correct off-by-one error
+2023-12-26T11:53:44  refactor: consolidate duplicate logic
