@@ -2825,3 +2825,4 @@
 2023-12-26T13:04:38  feat: improve error handling
 2023-12-26T13:40:15  feat: add metrics tracking
 2023-12-26T14:29:21  fix: handle timeout gracefully
+2023-12-26T14:55:04  refactor: clean up utility functions
