@@ -2820,3 +2820,4 @@
 2023-12-25T18:10:19  fix: correct off-by-one error
 2023-12-26T11:53:44  refactor: consolidate duplicate logic
 2023-12-26T11:58:19  refactor: simplify conditional logic
+2023-12-26T12:37:36  docs: update inline comments
