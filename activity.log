@@ -2840,3 +2840,4 @@
 2023-12-27T16:12:26  test: improve test coverage
 2023-12-27T16:17:32  test: add unit tests for core module
 2023-12-27T16:24:03  feat: add caching layer
+2023-12-27T16:25:48  fix: handle null values correctly
