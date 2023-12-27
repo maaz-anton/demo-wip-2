@@ -2830,3 +2830,4 @@
 2023-12-26T16:21:25  test: add unit tests for core module
 2023-12-26T22:13:46  docs: update inline comments
 2023-12-27T10:11:47  fix: resolve memory leak
+2023-12-27T11:06:08  refactor: extract helper function
