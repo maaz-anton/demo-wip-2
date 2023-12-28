@@ -2850,3 +2850,4 @@
 2023-12-28T10:26:40  fix: correct API response parsing
 2023-12-28T11:32:34  feat: add validation logic
 2023-12-28T12:35:58  fix: handle null values correctly
+2023-12-28T12:43:43  feat: improve error handling
