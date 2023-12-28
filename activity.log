@@ -2847,3 +2847,4 @@
 2023-12-27T17:54:09  feat: add retry logic
 2023-12-27T18:27:18  chore: update config
 2023-12-28T10:21:44  docs: update README
+2023-12-28T10:26:40  fix: correct API response parsing
