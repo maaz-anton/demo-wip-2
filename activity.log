@@ -2848,3 +2848,4 @@
 2023-12-27T18:27:18  chore: update config
 2023-12-28T10:21:44  docs: update README
 2023-12-28T10:26:40  fix: correct API response parsing
+2023-12-28T11:32:34  feat: add validation logic
