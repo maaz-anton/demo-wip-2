@@ -12,3 +12,4 @@
 2024-01-04T13:37:10  feat: add validation logic
 2024-01-04T14:19:43  test: improve test coverage
 2024-01-04T15:06:54  feat: improve error handling
+2024-01-04T16:52:36  test: add unit tests for core module
