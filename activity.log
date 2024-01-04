@@ -2,3 +2,4 @@
 2024-01-01T14:26:13  chore: remove dead code
 2024-01-01T16:43:13  feat: add input sanitization
 2024-01-04T09:41:53  docs: update README
+2024-01-04T09:43:27  fix: handle null values correctly
