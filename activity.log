@@ -53,3 +53,4 @@
 2024-01-09T16:25:53  style: format code
 2024-01-09T17:26:06  feat: implement pagination
 2024-01-09T17:32:46  feat: add logging
+2024-01-09T21:17:44  feat: add validation logic
