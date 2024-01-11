@@ -80,3 +80,4 @@
 2024-01-11T11:12:17  feat: implement pagination
 2024-01-11T11:12:42  feat: add caching layer
 2024-01-11T11:41:56  refactor: clean up utility functions
+2024-01-11T11:43:11  docs: update README
