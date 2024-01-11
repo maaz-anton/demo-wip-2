@@ -78,3 +78,4 @@
 2024-01-10T19:37:35  fix: correct API response parsing
 2024-01-10T20:42:36  feat: improve error handling
 2024-01-11T11:12:17  feat: implement pagination
+2024-01-11T11:12:42  feat: add caching layer
