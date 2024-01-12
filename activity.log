@@ -100,3 +100,4 @@
 2024-01-12T10:32:39  fix: correct API response parsing
 2024-01-12T10:53:57  chore: remove dead code
 2024-01-12T10:55:45  chore: update config
+2024-01-12T11:29:04  fix: correct type mismatch
