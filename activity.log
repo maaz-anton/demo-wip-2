@@ -129,3 +129,4 @@
 2024-01-16T12:32:08  test: add unit tests for core module
 2024-01-16T12:59:00  fix: handle null values correctly
 2024-01-16T13:00:08  fix: resolve memory leak
+2024-01-16T13:02:08  feat: add retry logic
