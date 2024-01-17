@@ -156,3 +156,4 @@
 2024-01-17T16:49:28  feat: add caching layer
 2024-01-17T17:06:17  fix: resolve memory leak
 2024-01-17T18:26:22  chore: update config
+2024-01-17T18:30:55  feat: add logging
