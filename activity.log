@@ -169,3 +169,4 @@
 2024-01-18T15:07:01  fix: correct type mismatch
 2024-01-18T15:25:33  docs: update inline comments
 2024-01-18T15:27:33  fix: handle timeout gracefully
+2024-01-18T15:59:01  fix: correct off-by-one error
