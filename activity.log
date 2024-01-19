@@ -186,3 +186,4 @@
 2024-01-19T12:38:30  chore: remove dead code
 2024-01-19T13:06:38  feat: implement pagination
 2024-01-19T13:25:27  fix: handle null values correctly
+2024-01-19T13:46:48  fix: handle null values correctly
