@@ -179,3 +179,4 @@
 2024-01-18T20:11:49  chore: update dependencies
 2024-01-19T09:57:56  fix: correct API response parsing
 2024-01-19T10:00:33  chore: bump version
+2024-01-19T11:02:52  fix: resolve memory leak
