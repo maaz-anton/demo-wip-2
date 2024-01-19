@@ -185,3 +185,4 @@
 2024-01-19T12:23:46  refactor: simplify conditional logic
 2024-01-19T12:38:30  chore: remove dead code
 2024-01-19T13:06:38  feat: implement pagination
+2024-01-19T13:25:27  fix: handle null values correctly
