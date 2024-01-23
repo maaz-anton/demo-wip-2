@@ -213,3 +213,4 @@
 2024-01-23T11:29:31  chore: update config
 2024-01-23T11:34:24  feat: add retry logic
 2024-01-23T12:05:19  style: format code
+2024-01-23T12:27:37  refactor: extract helper function
