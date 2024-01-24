@@ -235,3 +235,4 @@
 2024-01-24T13:59:57  feat: add logging
 2024-01-24T14:13:51  feat: add metrics tracking
 2024-01-24T15:48:18  fix: handle null values correctly
+2024-01-24T16:33:29  fix: correct API response parsing
