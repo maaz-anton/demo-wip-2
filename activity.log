@@ -259,3 +259,4 @@
 2024-01-25T18:16:36  feat: add validation logic
 2024-01-25T18:20:49  fix: handle null values correctly
 2024-01-25T19:32:58  docs: update README
+2024-01-25T20:14:37  feat: implement pagination
