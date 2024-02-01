@@ -340,3 +340,4 @@
 2024-02-01T13:04:24  fix: handle timeout gracefully
 2024-02-01T14:05:46  fix: correct off-by-one error
 2024-02-01T14:35:08  chore: update dependencies
+2024-02-01T14:57:41  refactor: extract helper function
