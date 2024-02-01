@@ -343,3 +343,4 @@
 2024-02-01T14:57:41  refactor: extract helper function
 2024-02-01T15:21:22  docs: update README
 2024-02-01T16:18:45  refactor: simplify conditional logic
+2024-02-01T17:51:51  refactor: consolidate duplicate logic
