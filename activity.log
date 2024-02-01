@@ -335,3 +335,4 @@
 2024-02-01T12:08:28  fix: correct API response parsing
 2024-02-01T12:34:18  refactor: consolidate duplicate logic
 2024-02-01T12:45:06  chore: bump version
+2024-02-01T12:58:20  feat: add caching layer
