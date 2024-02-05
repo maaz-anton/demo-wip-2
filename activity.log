@@ -369,3 +369,4 @@
 2024-02-03T20:12:30  refactor: clean up utility functions
 2024-02-05T10:45:32  feat: improve error handling
 2024-02-05T10:51:07  test: improve test coverage
+2024-02-05T11:35:22  refactor: extract helper function
