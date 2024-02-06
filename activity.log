@@ -395,3 +395,4 @@
 2024-02-06T14:33:18  fix: correct API response parsing
 2024-02-06T14:39:05  feat: add logging
 2024-02-06T16:17:10  style: format code
+2024-02-06T17:26:28  feat: add retry logic
