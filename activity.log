@@ -396,3 +396,4 @@
 2024-02-06T14:39:05  feat: add logging
 2024-02-06T16:17:10  style: format code
 2024-02-06T17:26:28  feat: add retry logic
+2024-02-06T17:29:27  feat: add input sanitization
