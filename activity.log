@@ -381,3 +381,4 @@
 2024-02-05T15:33:26  docs: update inline comments
 2024-02-05T16:36:29  feat: add logging
 2024-02-05T16:42:03  fix: handle null values correctly
+2024-02-06T10:24:38  fix: resolve memory leak
