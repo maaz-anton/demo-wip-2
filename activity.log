@@ -408,3 +408,4 @@
 2024-02-07T14:21:16  fix: correct off-by-one error
 2024-02-07T14:29:12  feat: add logging
 2024-02-07T14:46:00  test: improve test coverage
+2024-02-07T15:12:43  fix: correct API response parsing
