@@ -433,3 +433,4 @@
 2024-02-08T15:24:43  refactor: simplify conditional logic
 2024-02-08T16:10:39  test: add unit tests for core module
 2024-02-08T16:49:15  fix: handle timeout gracefully
+2024-02-08T16:52:59  fix: resolve broken import
