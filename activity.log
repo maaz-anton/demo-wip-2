@@ -436,3 +436,4 @@
 2024-02-08T16:52:59  fix: resolve broken import
 2024-02-08T20:13:26  fix: resolve memory leak
 2024-02-09T11:34:53  feat: add caching layer
+2024-02-09T12:23:32  feat: improve error handling
