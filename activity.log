@@ -450,3 +450,4 @@
 2024-02-09T19:51:44  docs: update README
 2024-02-10T10:29:49  chore: update dependencies
 2024-02-10T13:53:50  refactor: clean up utility functions
+2024-02-12T10:24:42  fix: correct off-by-one error
