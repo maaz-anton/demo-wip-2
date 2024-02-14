@@ -484,3 +484,4 @@
 2024-02-14T12:27:21  fix: correct type mismatch
 2024-02-14T12:46:41  feat: add logging
 2024-02-14T13:15:08  chore: update config
+2024-02-14T13:17:58  feat: add caching layer
