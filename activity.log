@@ -498,3 +498,4 @@
 2024-02-15T13:21:05  feat: add input sanitization
 2024-02-15T14:26:58  fix: resolve race condition
 2024-02-15T14:29:27  test: add unit tests for core module
+2024-02-15T14:44:27  feat: add logging
