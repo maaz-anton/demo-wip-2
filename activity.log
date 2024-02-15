@@ -488,3 +488,4 @@
 2024-02-14T14:53:48  feat: add logging
 2024-02-14T17:38:55  refactor: clean up utility functions
 2024-02-14T17:56:03  chore: remove dead code
+2024-02-14T20:02:23  feat: improve error handling
