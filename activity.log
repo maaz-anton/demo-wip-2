@@ -516,3 +516,4 @@
 2024-02-16T15:58:21  chore: bump version
 2024-02-16T16:52:08  style: format code
 2024-02-19T12:07:43  fix: correct API response parsing
+2024-02-19T13:33:54  refactor: consolidate duplicate logic
