@@ -574,3 +574,4 @@
 2024-02-22T15:44:40  refactor: clean up utility functions
 2024-02-22T16:12:08  chore: bump version
 2024-02-22T17:29:44  feat: add logging
+2024-02-22T17:52:38  fix: resolve race condition
