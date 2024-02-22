@@ -559,3 +559,4 @@
 2024-02-21T18:20:36  fix: correct off-by-one error
 2024-02-22T09:57:10  docs: update inline comments
 2024-02-22T11:11:15  docs: update README
+2024-02-22T12:00:21  refactor: simplify conditional logic
