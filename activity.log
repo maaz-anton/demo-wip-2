@@ -615,3 +615,4 @@
 2024-02-27T11:43:12  fix: resolve memory leak
 2024-02-27T11:45:09  fix: resolve memory leak
 2024-02-27T11:47:54  fix: handle timeout gracefully
+2024-02-27T11:55:52  fix: correct off-by-one error
