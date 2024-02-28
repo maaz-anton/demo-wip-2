@@ -638,3 +638,4 @@
 2024-02-28T12:54:24  chore: update dependencies
 2024-02-28T13:36:55  feat: add caching layer
 2024-02-28T13:52:28  fix: handle timeout gracefully
+2024-02-28T14:02:26  refactor: extract helper function
