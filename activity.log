@@ -688,3 +688,4 @@
 2024-03-04T12:44:30  style: format code
 2024-03-04T12:59:42  refactor: consolidate duplicate logic
 2024-03-04T13:09:13  refactor: simplify conditional logic
+2024-03-04T15:53:28  fix: handle null values correctly
