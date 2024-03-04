@@ -687,3 +687,4 @@
 2024-03-04T11:57:25  feat: add validation logic
 2024-03-04T12:44:30  style: format code
 2024-03-04T12:59:42  refactor: consolidate duplicate logic
+2024-03-04T13:09:13  refactor: simplify conditional logic
