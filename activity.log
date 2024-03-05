@@ -700,3 +700,4 @@
 2024-03-05T14:32:18  refactor: extract helper function
 2024-03-05T14:50:05  feat: add logging
 2024-03-05T15:07:33  refactor: clean up utility functions
+2024-03-05T15:10:57  fix: handle null values correctly
