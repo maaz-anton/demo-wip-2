@@ -723,3 +723,4 @@
 2024-03-06T18:56:09  feat: add logging
 2024-03-06T19:49:55  feat: add logging
 2024-03-07T08:39:31  feat: add retry logic
+2024-03-07T09:14:51  fix: correct API response parsing
