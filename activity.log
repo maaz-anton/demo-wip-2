@@ -734,3 +734,4 @@
 2024-03-07T12:11:23  feat: implement pagination
 2024-03-07T12:12:33  fix: resolve broken import
 2024-03-07T13:09:20  test: improve test coverage
+2024-03-07T14:05:09  fix: handle null values correctly
