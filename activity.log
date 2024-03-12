@@ -787,3 +787,4 @@
 2024-03-12T14:39:06  fix: resolve memory leak
 2024-03-12T16:08:26  feat: add logging
 2024-03-12T16:38:46  test: improve test coverage
+2024-03-12T17:58:04  refactor: clean up utility functions
