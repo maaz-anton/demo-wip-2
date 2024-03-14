@@ -816,3 +816,4 @@
 2024-03-13T19:12:05  docs: update README
 2024-03-13T19:39:09  fix: resolve race condition
 2024-03-13T21:05:56  feat: implement pagination
+2024-03-13T21:12:18  refactor: extract helper function
