@@ -821,3 +821,4 @@
 2024-03-14T12:05:17  test: improve test coverage
 2024-03-14T12:15:38  chore: bump version
 2024-03-14T12:32:33  fix: resolve broken import
+2024-03-14T13:13:58  fix: correct off-by-one error
