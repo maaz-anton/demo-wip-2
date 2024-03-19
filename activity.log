@@ -867,3 +867,4 @@
 2024-03-19T15:41:02  docs: update inline comments
 2024-03-19T16:53:04  refactor: clean up utility functions
 2024-03-19T16:57:11  docs: update README
+2024-03-19T17:01:50  refactor: simplify conditional logic
