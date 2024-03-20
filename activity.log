@@ -873,3 +873,4 @@
 2024-03-19T21:55:52  fix: resolve memory leak
 2024-03-20T08:15:13  feat: implement pagination
 2024-03-20T09:40:10  fix: correct type mismatch
+2024-03-20T12:08:53  fix: handle null values correctly
