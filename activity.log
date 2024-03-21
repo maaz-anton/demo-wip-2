@@ -2,3 +2,4 @@
 2024-02-28T10:44:00  refactor: extract helper function
 2024-02-28T16:24:52  test: improve test coverage
 2024-03-12T10:59:17  fix: correct type mismatch
+2024-03-21T14:38:58  fix: resolve race condition
