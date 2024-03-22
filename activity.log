@@ -910,3 +910,4 @@
 2024-03-21T19:56:10  refactor: extract helper function
 2024-03-22T11:11:41  style: format code
 2024-03-22T11:27:19  fix: correct type mismatch
+2024-03-22T12:16:26  chore: remove dead code
