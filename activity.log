@@ -922,3 +922,4 @@
 2024-03-22T18:51:16  docs: update README
 2024-03-22T19:34:59  chore: update dependencies
 2024-03-22T21:31:04  test: improve test coverage
+2024-03-23T16:34:54  feat: add logging
