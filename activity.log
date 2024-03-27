@@ -970,3 +970,4 @@
 2024-03-27T13:55:26  docs: update inline comments
 2024-03-27T14:15:16  feat: add retry logic
 2024-03-27T15:01:16  refactor: clean up utility functions
+2024-03-27T16:25:16  refactor: consolidate duplicate logic
