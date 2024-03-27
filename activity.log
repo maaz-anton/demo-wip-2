@@ -976,3 +976,4 @@
 2024-03-27T18:01:43  test: improve test coverage
 2024-03-27T18:36:51  chore: update config
 2024-03-27T19:04:11  fix: handle null values correctly
+2024-03-27T19:27:30  fix: resolve memory leak
