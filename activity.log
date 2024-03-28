@@ -997,3 +997,4 @@
 2024-03-28T16:13:26  style: format code
 2024-03-28T16:26:16  style: format code
 2024-03-28T17:30:04  chore: bump version
+2024-03-28T18:45:25  refactor: extract helper function
