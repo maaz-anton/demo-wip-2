@@ -1002,3 +1002,4 @@
 2024-03-29T12:55:54  feat: improve error handling
 2024-03-29T13:27:47  test: improve test coverage
 2024-03-29T13:40:13  fix: resolve broken import
+2024-03-29T14:47:48  refactor: extract helper function
