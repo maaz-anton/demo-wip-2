@@ -1008,3 +1008,4 @@
 2024-03-29T15:31:40  test: improve test coverage
 2024-03-29T16:16:53  chore: remove dead code
 2024-03-29T16:33:03  refactor: consolidate duplicate logic
+2024-03-29T18:51:55  refactor: simplify conditional logic
