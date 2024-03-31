@@ -1016,3 +1016,4 @@
 2024-03-31T12:12:08  docs: update README
 2024-03-31T14:59:56  refactor: extract helper function
 2024-03-31T15:52:05  fix: correct API response parsing
+2024-03-31T16:17:09  feat: add caching layer
