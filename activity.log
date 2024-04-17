@@ -1207,3 +1207,4 @@
 2024-04-17T11:47:58  chore: remove dead code
 2024-04-17T12:04:51  refactor: extract helper function
 2024-04-17T17:24:28  fix: resolve broken import
+2024-04-17T19:18:20  fix: correct API response parsing
