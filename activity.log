@@ -1219,3 +1219,4 @@
 2024-04-18T18:33:36  chore: remove dead code
 2024-04-18T19:12:03  feat: improve error handling
 2024-04-18T19:28:54  feat: implement pagination
+2024-04-19T14:36:27  feat: add caching layer
