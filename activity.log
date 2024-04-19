@@ -1222,3 +1222,4 @@
 2024-04-19T14:36:27  feat: add caching layer
 2024-04-19T15:18:58  fix: handle timeout gracefully
 2024-04-19T15:46:24  feat: add logging
+2024-04-19T16:23:41  docs: update README
