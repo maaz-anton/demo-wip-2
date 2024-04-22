@@ -1240,3 +1240,4 @@
 2024-04-22T17:20:09  fix: correct off-by-one error
 2024-04-22T17:44:01  fix: handle null values correctly
 2024-04-22T18:55:29  test: improve test coverage
+2024-04-22T19:12:37  feat: add input sanitization
