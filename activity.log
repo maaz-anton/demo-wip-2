@@ -1281,3 +1281,4 @@
 2024-04-24T16:13:56  refactor: clean up utility functions
 2024-04-24T16:52:33  docs: update README
 2024-04-24T17:28:48  feat: add retry logic
+2024-04-24T17:56:48  feat: add metrics tracking
