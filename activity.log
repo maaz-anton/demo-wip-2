@@ -1283,3 +1283,4 @@
 2024-04-24T17:28:48  feat: add retry logic
 2024-04-24T17:56:48  feat: add metrics tracking
 2024-04-24T18:00:03  chore: bump version
+2024-04-24T20:31:49  feat: improve error handling
