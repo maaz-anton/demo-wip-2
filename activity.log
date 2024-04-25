@@ -1288,3 +1288,4 @@
 2024-04-24T21:13:30  docs: update README
 2024-04-24T21:59:23  fix: correct API response parsing
 2024-04-25T09:52:42  chore: update config
+2024-04-25T10:18:44  fix: resolve race condition
