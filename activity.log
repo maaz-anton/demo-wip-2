@@ -1312,3 +1312,4 @@
 2024-04-26T15:06:32  test: improve test coverage
 2024-04-26T15:11:10  fix: correct API response parsing
 2024-04-26T15:23:49  test: add unit tests for core module
+2024-04-26T15:31:38  refactor: consolidate duplicate logic
