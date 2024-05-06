@@ -1389,3 +1389,4 @@
 2024-05-06T11:06:31  fix: correct API response parsing
 2024-05-06T13:30:29  fix: correct off-by-one error
 2024-05-06T13:47:43  feat: implement pagination
+2024-05-06T14:03:21  test: add unit tests for core module
