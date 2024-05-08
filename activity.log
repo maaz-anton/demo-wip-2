@@ -1421,3 +1421,4 @@
 2024-05-08T10:20:38  test: add unit tests for core module
 2024-05-08T11:22:27  feat: add caching layer
 2024-05-08T11:42:23  feat: add caching layer
+2024-05-08T11:57:41  refactor: clean up utility functions
