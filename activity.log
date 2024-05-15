@@ -1496,3 +1496,4 @@
 2024-05-15T09:39:11  chore: update config
 2024-05-15T11:06:30  chore: update config
 2024-05-15T11:47:00  chore: remove dead code
+2024-05-15T11:59:25  fix: handle null values correctly
