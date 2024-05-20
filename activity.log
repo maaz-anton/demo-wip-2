@@ -1548,3 +1548,4 @@
 2024-05-20T13:33:24  chore: remove dead code
 2024-05-20T14:42:23  docs: update README
 2024-05-20T14:53:39  chore: remove dead code
+2024-05-20T15:19:35  fix: resolve memory leak
