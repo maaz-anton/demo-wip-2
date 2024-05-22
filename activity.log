@@ -1589,3 +1589,4 @@
 2024-05-22T14:57:07  test: improve test coverage
 2024-05-22T15:00:56  fix: correct API response parsing
 2024-05-22T15:01:37  fix: handle null values correctly
+2024-05-22T15:03:49  docs: update README
