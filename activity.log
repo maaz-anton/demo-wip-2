@@ -1600,3 +1600,4 @@
 2024-05-23T11:07:58  chore: update config
 2024-05-23T11:31:15  feat: add input sanitization
 2024-05-23T13:26:28  fix: handle null values correctly
+2024-05-23T14:33:55  docs: update README
