@@ -1602,3 +1602,4 @@
 2024-05-23T13:26:28  fix: handle null values correctly
 2024-05-23T14:33:55  docs: update README
 2024-05-23T14:38:35  refactor: clean up utility functions
+2024-05-23T15:44:28  test: add unit tests for core module
