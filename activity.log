@@ -1641,3 +1641,4 @@
 2024-05-29T14:06:53  chore: remove dead code
 2024-05-29T14:12:05  refactor: clean up utility functions
 2024-05-29T15:38:09  feat: add validation logic
+2024-05-29T16:01:48  fix: correct off-by-one error
