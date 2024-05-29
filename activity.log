@@ -1639,3 +1639,4 @@
 2024-05-29T12:51:55  refactor: consolidate duplicate logic
 2024-05-29T13:42:17  fix: handle null values correctly
 2024-05-29T14:06:53  chore: remove dead code
+2024-05-29T14:12:05  refactor: clean up utility functions
