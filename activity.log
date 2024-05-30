@@ -1652,3 +1652,4 @@
 2024-05-30T11:10:01  fix: resolve broken import
 2024-05-30T12:00:40  feat: improve error handling
 2024-05-30T12:20:46  feat: add input sanitization
+2024-05-30T13:06:02  refactor: extract helper function
