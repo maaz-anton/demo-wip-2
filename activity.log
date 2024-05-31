@@ -1662,3 +1662,4 @@
 2024-05-30T19:04:52  test: add unit tests for core module
 2024-05-30T19:41:08  fix: resolve memory leak
 2024-05-30T19:50:08  chore: bump version
+2024-05-30T20:26:48  fix: correct type mismatch
