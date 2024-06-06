@@ -1724,3 +1724,4 @@
 2024-06-06T13:37:49  refactor: extract helper function
 2024-06-06T13:40:45  chore: update config
 2024-06-06T13:41:02  feat: add retry logic
+2024-06-06T13:49:28  fix: correct API response parsing
