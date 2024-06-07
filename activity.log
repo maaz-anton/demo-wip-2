@@ -1736,3 +1736,4 @@
 2024-06-06T18:12:07  test: add unit tests for core module
 2024-06-06T18:24:31  docs: update README
 2024-06-06T18:26:04  chore: update config
+2024-06-07T09:46:18  fix: correct off-by-one error
