@@ -1747,3 +1747,4 @@
 2024-06-07T13:58:27  test: improve test coverage
 2024-06-07T14:10:41  chore: bump version
 2024-06-07T15:09:11  fix: handle null values correctly
+2024-06-07T15:09:26  fix: correct type mismatch
