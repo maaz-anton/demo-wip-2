@@ -1812,3 +1812,4 @@
 2024-06-13T11:26:04  chore: update dependencies
 2024-06-13T12:43:51  refactor: clean up utility functions
 2024-06-13T12:55:32  chore: bump version
+2024-06-13T13:18:53  refactor: extract helper function
