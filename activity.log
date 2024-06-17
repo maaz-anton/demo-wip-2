@@ -1841,3 +1841,4 @@
 2024-06-14T17:32:04  fix: resolve memory leak
 2024-06-16T17:25:32  feat: improve error handling
 2024-06-17T11:20:20  docs: update README
+2024-06-17T13:11:34  fix: resolve memory leak
