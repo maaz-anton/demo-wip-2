@@ -1862,3 +1862,4 @@
 2024-06-18T13:30:07  feat: implement pagination
 2024-06-18T13:31:51  fix: handle null values correctly
 2024-06-18T13:54:09  refactor: simplify conditional logic
+2024-06-18T14:21:01  fix: handle null values correctly
