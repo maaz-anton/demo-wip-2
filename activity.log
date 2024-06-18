@@ -1869,3 +1869,4 @@
 2024-06-18T15:40:35  refactor: extract helper function
 2024-06-18T16:37:52  chore: bump version
 2024-06-18T17:17:00  chore: remove dead code
+2024-06-18T18:26:31  feat: add input sanitization
