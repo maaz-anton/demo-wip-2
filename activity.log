@@ -1889,3 +1889,4 @@
 2024-06-19T19:12:29  feat: add validation logic
 2024-06-19T22:40:09  test: improve test coverage
 2024-06-20T08:23:19  refactor: clean up utility functions
+2024-06-20T10:00:38  refactor: consolidate duplicate logic
