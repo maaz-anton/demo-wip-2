@@ -1962,3 +1962,4 @@
 2024-06-26T12:12:10  docs: update README
 2024-06-26T12:45:59  fix: handle null values correctly
 2024-06-26T12:49:13  fix: resolve broken import
+2024-06-26T14:20:13  feat: add caching layer
