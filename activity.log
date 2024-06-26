@@ -1954,3 +1954,4 @@
 2024-06-25T21:35:46  refactor: clean up utility functions
 2024-06-26T08:38:02  refactor: clean up utility functions
 2024-06-26T09:52:11  style: format code
+2024-06-26T10:24:52  fix: correct off-by-one error
