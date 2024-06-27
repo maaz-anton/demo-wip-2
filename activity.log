@@ -1980,3 +1980,4 @@
 2024-06-27T12:48:01  chore: update config
 2024-06-27T13:20:02  docs: update inline comments
 2024-06-27T14:40:42  chore: bump version
+2024-06-27T15:06:34  fix: handle null values correctly
