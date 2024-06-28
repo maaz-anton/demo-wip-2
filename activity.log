@@ -1992,3 +1992,4 @@
 2024-06-28T13:09:26  style: format code
 2024-06-28T14:34:48  fix: correct API response parsing
 2024-06-28T14:43:26  feat: add logging
+2024-06-28T15:01:16  refactor: consolidate duplicate logic
