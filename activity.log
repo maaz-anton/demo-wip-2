@@ -1999,3 +1999,4 @@
 2024-06-28T18:15:12  refactor: simplify conditional logic
 2024-06-28T19:38:53  chore: bump version
 2024-06-29T15:36:46  style: format code
+2024-06-30T11:46:49  refactor: extract helper function
