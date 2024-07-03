@@ -2026,3 +2026,4 @@
 2024-07-03T11:28:43  fix: handle null values correctly
 2024-07-03T11:35:22  docs: update README
 2024-07-03T12:00:13  fix: correct off-by-one error
+2024-07-03T12:28:01  feat: add retry logic
