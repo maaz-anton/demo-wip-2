@@ -2020,3 +2020,4 @@
 2024-07-02T16:00:13  chore: update config
 2024-07-02T17:27:29  chore: remove dead code
 2024-07-02T18:38:32  fix: correct API response parsing
+2024-07-02T20:13:34  feat: add caching layer
