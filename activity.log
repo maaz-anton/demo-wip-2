@@ -2062,3 +2062,4 @@
 2024-07-09T11:04:03  chore: update dependencies
 2024-07-09T11:11:26  feat: add metrics tracking
 2024-07-09T11:40:09  fix: handle timeout gracefully
+2024-07-09T12:44:13  fix: handle null values correctly
