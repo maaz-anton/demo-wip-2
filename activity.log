@@ -2087,3 +2087,4 @@
 2024-07-10T15:59:35  feat: add logging
 2024-07-10T15:59:57  refactor: extract helper function
 2024-07-10T16:28:14  chore: bump version
+2024-07-10T17:08:04  refactor: consolidate duplicate logic
