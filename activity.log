@@ -2083,3 +2083,4 @@
 2024-07-10T12:05:15  feat: add input sanitization
 2024-07-10T12:39:29  feat: add logging
 2024-07-10T13:22:39  docs: update inline comments
+2024-07-10T14:05:53  fix: correct off-by-one error
