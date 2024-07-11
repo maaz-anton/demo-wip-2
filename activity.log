@@ -2099,3 +2099,4 @@
 2024-07-11T15:09:30  refactor: clean up utility functions
 2024-07-11T15:50:30  refactor: clean up utility functions
 2024-07-11T16:30:29  style: format code
+2024-07-11T16:46:11  fix: resolve memory leak
