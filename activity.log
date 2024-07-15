@@ -2127,3 +2127,4 @@
 2024-07-15T13:12:02  feat: add metrics tracking
 2024-07-15T13:20:04  chore: remove dead code
 2024-07-15T13:25:15  chore: bump version
+2024-07-15T15:16:33  refactor: clean up utility functions
