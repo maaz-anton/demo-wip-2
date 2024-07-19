@@ -2192,3 +2192,4 @@
 2024-07-19T15:45:21  fix: resolve broken import
 2024-07-19T15:46:21  feat: implement pagination
 2024-07-19T16:08:51  feat: implement pagination
+2024-07-19T16:29:25  refactor: extract helper function
