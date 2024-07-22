@@ -2206,3 +2206,4 @@
 2024-07-22T12:28:35  fix: resolve race condition
 2024-07-22T13:12:31  fix: handle timeout gracefully
 2024-07-22T13:15:14  chore: bump version
+2024-07-22T13:21:15  fix: correct off-by-one error
