@@ -12,3 +12,4 @@
 2024-06-11T20:32:49  fix: resolve memory leak
 2024-06-20T15:02:41  chore: update config
 2024-07-18T14:01:09  fix: handle null values correctly
+2024-07-22T14:05:58  chore: bump version
