@@ -2216,3 +2216,4 @@
 2024-07-22T17:29:02  test: add unit tests for core module
 2024-07-23T09:55:44  chore: remove dead code
 2024-07-23T10:00:09  fix: resolve broken import
+2024-07-23T10:49:30  fix: resolve memory leak
