@@ -2245,3 +2245,4 @@
 2024-07-24T13:40:43  fix: correct type mismatch
 2024-07-24T13:53:14  feat: improve error handling
 2024-07-24T14:03:07  style: format code
+2024-07-24T14:21:34  refactor: clean up utility functions
