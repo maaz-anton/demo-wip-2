@@ -2264,3 +2264,4 @@
 2024-07-25T15:57:42  feat: improve error handling
 2024-07-25T16:25:50  refactor: simplify conditional logic
 2024-07-25T17:05:33  chore: update config
+2024-07-25T18:08:23  fix: handle null values correctly
