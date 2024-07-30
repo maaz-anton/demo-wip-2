@@ -2299,3 +2299,4 @@
 2024-07-30T11:16:00  chore: bump version
 2024-07-30T11:58:41  refactor: clean up utility functions
 2024-07-30T12:46:29  fix: resolve race condition
+2024-07-30T13:24:54  fix: correct off-by-one error
