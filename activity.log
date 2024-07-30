@@ -2302,3 +2302,4 @@
 2024-07-30T13:24:54  fix: correct off-by-one error
 2024-07-30T14:00:07  docs: update README
 2024-07-30T14:36:13  fix: handle timeout gracefully
+2024-07-30T16:06:02  feat: add input sanitization
