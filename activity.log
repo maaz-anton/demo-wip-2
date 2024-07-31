@@ -2311,3 +2311,4 @@
 2024-07-31T12:23:04  feat: add logging
 2024-07-31T12:56:10  fix: resolve broken import
 2024-07-31T13:14:47  chore: bump version
+2024-07-31T13:17:42  fix: correct type mismatch
