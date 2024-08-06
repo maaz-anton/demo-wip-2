@@ -2378,3 +2378,4 @@
 2024-08-06T14:52:19  fix: handle null values correctly
 2024-08-06T15:31:41  style: format code
 2024-08-06T15:39:09  feat: add caching layer
+2024-08-06T15:50:10  chore: bump version
