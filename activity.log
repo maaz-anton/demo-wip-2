@@ -2395,3 +2395,4 @@
 2024-08-07T13:49:23  style: format code
 2024-08-07T14:29:21  fix: handle timeout gracefully
 2024-08-07T14:37:26  refactor: simplify conditional logic
+2024-08-07T14:55:04  refactor: clean up utility functions
