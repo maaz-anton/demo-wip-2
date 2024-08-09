@@ -2420,3 +2420,4 @@
 2024-08-09T12:35:58  fix: handle null values correctly
 2024-08-09T12:43:43  feat: improve error handling
 2024-08-09T13:11:50  fix: resolve broken import
+2024-08-09T13:42:18  refactor: consolidate duplicate logic
