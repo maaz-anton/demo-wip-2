@@ -2417,3 +2417,4 @@
 2024-08-09T11:49:19  fix: handle timeout gracefully
 2024-08-09T12:02:45  docs: update inline comments
 2024-08-09T12:12:46  feat: add logging
+2024-08-09T12:35:58  fix: handle null values correctly
