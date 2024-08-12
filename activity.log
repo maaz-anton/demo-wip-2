@@ -2432,3 +2432,4 @@
 2024-08-12T12:13:36  chore: bump version
 2024-08-12T12:24:23  feat: add validation logic
 2024-08-12T12:46:32  feat: add logging
+2024-08-12T13:16:29  test: add unit tests for core module
