@@ -2454,3 +2454,4 @@
 2024-08-13T16:41:46  docs: update README
 2024-08-13T17:06:53  docs: update README
 2024-08-13T18:12:20  feat: improve error handling
+2024-08-13T19:25:25  feat: add retry logic
