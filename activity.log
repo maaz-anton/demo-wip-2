@@ -2455,3 +2455,4 @@
 2024-08-13T17:06:53  docs: update README
 2024-08-13T18:12:20  feat: improve error handling
 2024-08-13T19:25:25  feat: add retry logic
+2024-08-13T21:57:47  refactor: extract helper function
