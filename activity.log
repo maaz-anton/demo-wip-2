@@ -2473,3 +2473,4 @@
 2024-08-14T16:09:12  chore: remove dead code
 2024-08-14T16:56:57  docs: update README
 2024-08-14T19:33:20  feat: add metrics tracking
+2024-08-15T08:48:58  feat: add validation logic
