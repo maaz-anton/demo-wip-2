@@ -2483,3 +2483,4 @@
 2024-08-15T11:59:26  fix: correct off-by-one error
 2024-08-15T12:00:02  fix: correct off-by-one error
 2024-08-15T12:19:18  feat: add caching layer
+2024-08-15T13:10:40  test: add unit tests for core module
