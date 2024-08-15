@@ -2486,3 +2486,4 @@
 2024-08-15T13:10:40  test: add unit tests for core module
 2024-08-15T13:48:59  docs: update inline comments
 2024-08-15T13:52:41  fix: correct API response parsing
+2024-08-15T14:07:52  fix: handle null values correctly
