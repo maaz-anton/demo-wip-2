@@ -2517,3 +2517,4 @@
 2024-08-17T11:57:44  feat: add metrics tracking
 2024-08-17T12:39:47  chore: bump version
 2024-08-17T19:17:23  fix: resolve race condition
+2024-08-19T10:38:29  refactor: extract helper function
