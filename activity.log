@@ -2545,3 +2545,4 @@
 2024-08-21T14:39:02  fix: resolve memory leak
 2024-08-21T15:43:03  chore: remove dead code
 2024-08-21T17:11:16  chore: update config
+2024-08-21T19:22:54  refactor: extract helper function
