@@ -2610,3 +2610,4 @@
 2024-08-29T12:59:11  feat: add input sanitization
 2024-08-29T13:16:28  feat: add input sanitization
 2024-08-29T14:21:00  feat: add logging
+2024-08-29T14:37:51  refactor: clean up utility functions
