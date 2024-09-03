@@ -2641,3 +2641,4 @@
 2024-09-03T14:01:23  docs: update inline comments
 2024-09-03T14:09:43  chore: remove dead code
 2024-09-03T15:24:39  refactor: consolidate duplicate logic
+2024-09-03T16:33:29  test: add unit tests for core module
