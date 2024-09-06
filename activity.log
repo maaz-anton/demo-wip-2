@@ -2683,3 +2683,4 @@
 2024-09-06T12:49:52  fix: correct off-by-one error
 2024-09-06T13:17:27  chore: bump version
 2024-09-06T13:28:42  refactor: clean up utility functions
+2024-09-06T13:30:36  fix: resolve memory leak
