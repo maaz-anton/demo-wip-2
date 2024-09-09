@@ -2700,3 +2700,4 @@
 2024-09-09T10:14:01  feat: add logging
 2024-09-09T11:08:57  chore: bump version
 2024-09-09T13:14:24  test: improve test coverage
+2024-09-09T13:58:50  chore: remove dead code
