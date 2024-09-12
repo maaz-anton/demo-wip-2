@@ -2743,3 +2743,4 @@
 2024-09-11T18:30:43  chore: bump version
 2024-09-11T21:20:09  feat: add logging
 2024-09-11T21:41:33  fix: handle null values correctly
+2024-09-12T11:19:05  refactor: clean up utility functions
