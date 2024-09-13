@@ -2772,3 +2772,4 @@
 2024-09-13T13:57:25  docs: update README
 2024-09-13T14:51:34  chore: bump version
 2024-09-13T14:53:45  chore: update config
+2024-09-13T15:07:35  test: add unit tests for core module
