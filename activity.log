@@ -2776,3 +2776,4 @@
 2024-09-13T16:29:53  fix: correct API response parsing
 2024-09-13T17:11:21  docs: update inline comments
 2024-09-13T17:13:58  fix: resolve memory leak
+2024-09-13T18:22:38  fix: correct off-by-one error
