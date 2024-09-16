@@ -2782,3 +2782,4 @@
 2024-09-16T11:57:18  fix: handle null values correctly
 2024-09-16T12:28:54  chore: bump version
 2024-09-16T12:35:09  chore: update config
+2024-09-16T13:36:22  style: format code
