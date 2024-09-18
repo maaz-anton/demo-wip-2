@@ -2816,3 +2816,4 @@
 2024-09-18T12:44:23  fix: handle timeout gracefully
 2024-09-18T12:58:59  docs: update README
 2024-09-18T13:16:58  chore: update dependencies
+2024-09-18T13:42:26  fix: correct off-by-one error
