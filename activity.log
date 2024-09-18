@@ -2829,3 +2829,4 @@
 2024-09-18T17:06:35  refactor: extract helper function
 2024-09-18T17:49:10  docs: update inline comments
 2024-09-18T17:56:33  feat: add validation logic
+2024-09-18T18:16:56  refactor: clean up utility functions
