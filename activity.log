@@ -2831,3 +2831,4 @@
 2024-09-18T17:56:33  feat: add validation logic
 2024-09-18T18:16:56  refactor: clean up utility functions
 2024-09-18T18:51:55  fix: resolve memory leak
+2024-09-18T19:59:23  refactor: extract helper function
