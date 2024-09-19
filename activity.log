@@ -2849,3 +2849,4 @@
 2024-09-19T16:05:22  fix: resolve broken import
 2024-09-19T16:11:45  refactor: extract helper function
 2024-09-19T16:54:25  fix: handle null values correctly
+2024-09-19T16:55:18  fix: correct off-by-one error
