@@ -2867,3 +2867,4 @@
 2024-09-20T14:24:37  chore: remove dead code
 2024-09-20T14:42:32  feat: add input sanitization
 2024-09-20T15:06:08  refactor: extract helper function
+2024-09-20T15:47:28  refactor: clean up utility functions
