@@ -2938,3 +2938,4 @@
 2024-09-27T16:50:41  chore: bump version
 2024-09-27T18:00:31  fix: handle timeout gracefully
 2024-09-28T16:33:02  test: improve test coverage
+2024-09-28T19:24:11  fix: handle null values correctly
