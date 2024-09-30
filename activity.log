@@ -2950,3 +2950,4 @@
 2024-09-30T14:24:14  refactor: clean up utility functions
 2024-09-30T15:24:25  chore: bump version
 2024-09-30T16:00:14  docs: update README
+2024-09-30T16:22:59  feat: add logging
