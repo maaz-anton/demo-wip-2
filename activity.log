@@ -2947,3 +2947,4 @@
 2024-09-30T13:12:42  test: improve test coverage
 2024-09-30T13:41:50  chore: update config
 2024-09-30T13:43:32  feat: add metrics tracking
+2024-09-30T14:24:14  refactor: clean up utility functions
