@@ -2960,3 +2960,4 @@
 2024-10-01T12:32:04  feat: add logging
 2024-10-01T12:32:22  feat: improve error handling
 2024-10-01T12:59:53  fix: resolve edge case in data processing
+2024-10-01T13:03:11  fix: correct off-by-one error
