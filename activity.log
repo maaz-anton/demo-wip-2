@@ -2965,3 +2965,4 @@
 2024-10-01T13:45:25  refactor: simplify conditional logic
 2024-10-01T14:09:10  docs: update inline comments
 2024-10-01T14:27:25  chore: bump version
+2024-10-01T14:38:44  test: add unit tests for core module
