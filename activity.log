@@ -2989,3 +2989,4 @@
 2024-10-02T13:52:20  test: improve test coverage
 2024-10-02T13:53:56  refactor: extract helper function
 2024-10-02T14:08:23  refactor: consolidate duplicate logic
+2024-10-02T14:41:49  refactor: simplify conditional logic
