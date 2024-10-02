@@ -2985,3 +2985,4 @@
 2024-10-02T12:27:11  feat: add input sanitization
 2024-10-02T13:07:07  docs: update README
 2024-10-02T13:31:46  fix: handle null values correctly
+2024-10-02T13:49:16  docs: update inline comments
