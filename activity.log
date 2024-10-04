@@ -3018,3 +3018,4 @@
 2024-10-04T14:24:23  fix: resolve broken import
 2024-10-04T15:11:22  feat: add metrics tracking
 2024-10-04T16:02:25  chore: update config
+2024-10-04T16:40:19  fix: handle null values correctly
