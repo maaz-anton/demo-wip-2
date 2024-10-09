@@ -3068,3 +3068,4 @@
 2024-10-09T13:08:07  refactor: simplify conditional logic
 2024-10-09T13:10:32  chore: update dependencies
 2024-10-09T13:10:47  refactor: consolidate duplicate logic
+2024-10-09T13:26:44  refactor: extract helper function
