@@ -3079,3 +3079,4 @@
 2024-10-09T17:57:00  feat: add validation logic
 2024-10-09T18:09:27  docs: update inline comments
 2024-10-09T18:33:08  feat: add logging
+2024-10-09T18:33:59  test: add unit tests for core module
