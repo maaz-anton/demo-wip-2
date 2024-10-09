@@ -3070,3 +3070,4 @@
 2024-10-09T13:10:47  refactor: consolidate duplicate logic
 2024-10-09T13:26:44  refactor: extract helper function
 2024-10-09T13:29:37  style: format code
+2024-10-09T15:12:24  fix: resolve broken import
