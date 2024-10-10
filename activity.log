@@ -3089,3 +3089,4 @@
 2024-10-10T11:15:04  fix: resolve race condition
 2024-10-10T12:12:59  fix: correct API response parsing
 2024-10-10T12:13:29  feat: add logging
+2024-10-10T13:04:50  refactor: clean up utility functions
