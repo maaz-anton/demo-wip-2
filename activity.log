@@ -3112,3 +3112,4 @@
 2024-10-11T16:38:25  test: improve test coverage
 2024-10-11T16:48:36  refactor: extract helper function
 2024-10-11T17:06:13  feat: improve error handling
+2024-10-11T19:24:10  fix: handle timeout gracefully
