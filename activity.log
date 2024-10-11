@@ -3110,3 +3110,4 @@
 2024-10-11T14:08:51  fix: resolve race condition
 2024-10-11T16:25:42  fix: handle null values correctly
 2024-10-11T16:38:25  test: improve test coverage
+2024-10-11T16:48:36  refactor: extract helper function
