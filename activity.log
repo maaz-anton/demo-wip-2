@@ -3126,3 +3126,4 @@
 2024-10-14T16:06:08  feat: add validation logic
 2024-10-14T16:07:36  feat: add validation logic
 2024-10-14T16:19:44  feat: add logging
+2024-10-14T16:32:06  refactor: extract helper function
