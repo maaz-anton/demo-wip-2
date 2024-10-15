@@ -3129,3 +3129,4 @@
 2024-10-14T16:32:06  refactor: extract helper function
 2024-10-14T16:33:13  style: format code
 2024-10-15T08:01:50  fix: resolve race condition
+2024-10-15T09:33:16  refactor: consolidate duplicate logic
