@@ -3148,3 +3148,4 @@
 2024-10-16T11:37:17  fix: resolve broken import
 2024-10-16T12:38:35  chore: remove dead code
 2024-10-16T13:01:39  feat: add retry logic
+2024-10-16T13:10:48  feat: improve error handling
