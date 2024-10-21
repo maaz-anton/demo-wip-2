@@ -3197,3 +3197,4 @@
 2024-10-20T13:23:00  feat: add input sanitization
 2024-10-21T11:23:52  test: improve test coverage
 2024-10-21T12:00:35  fix: handle null values correctly
+2024-10-21T12:21:24  refactor: extract helper function
