@@ -3217,3 +3217,4 @@
 2024-10-22T15:28:07  fix: resolve race condition
 2024-10-22T15:33:08  test: improve test coverage
 2024-10-22T15:39:54  feat: add input sanitization
+2024-10-22T16:50:39  fix: correct off-by-one error
