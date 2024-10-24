@@ -3239,3 +3239,4 @@
 2024-10-23T17:24:01  chore: bump version
 2024-10-23T18:04:42  refactor: extract helper function
 2024-10-23T21:20:42  chore: bump version
+2024-10-24T09:08:27  feat: add input sanitization
