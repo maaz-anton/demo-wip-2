@@ -3248,3 +3248,4 @@
 2024-10-24T17:39:14  fix: handle null values correctly
 2024-10-25T11:05:01  test: improve test coverage
 2024-10-25T11:46:41  docs: update README
+2024-10-25T15:27:47  feat: add input sanitization
