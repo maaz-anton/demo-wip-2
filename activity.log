@@ -3269,3 +3269,4 @@
 2024-10-28T19:22:32  fix: resolve memory leak
 2024-10-28T20:36:43  docs: update README
 2024-10-28T22:53:14  feat: implement pagination
+2024-10-29T09:56:56  fix: correct off-by-one error
