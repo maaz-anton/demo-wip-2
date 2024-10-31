@@ -3314,3 +3314,4 @@
 2024-10-31T11:52:24  fix: handle timeout gracefully
 2024-10-31T12:52:13  docs: update README
 2024-10-31T12:59:33  refactor: extract helper function
+2024-10-31T13:13:02  fix: correct off-by-one error
