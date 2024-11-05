@@ -3359,3 +3359,4 @@
 2024-11-04T21:52:43  refactor: extract helper function
 2024-11-05T09:06:26  fix: handle null values correctly
 2024-11-05T10:04:21  docs: update README
+2024-11-05T11:13:10  chore: bump version
