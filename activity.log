@@ -3357,3 +3357,4 @@
 2024-11-04T20:02:01  feat: add input sanitization
 2024-11-04T21:02:12  feat: add caching layer
 2024-11-04T21:52:43  refactor: extract helper function
+2024-11-05T09:06:26  fix: handle null values correctly
