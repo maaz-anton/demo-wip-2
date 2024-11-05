@@ -3360,3 +3360,4 @@
 2024-11-05T09:06:26  fix: handle null values correctly
 2024-11-05T10:04:21  docs: update README
 2024-11-05T11:13:10  chore: bump version
+2024-11-05T11:22:33  feat: add validation logic
