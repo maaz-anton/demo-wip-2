@@ -3377,3 +3377,4 @@
 2024-11-06T10:30:53  feat: improve error handling
 2024-11-06T10:44:53  feat: add caching layer
 2024-11-06T11:30:19  docs: update inline comments
+2024-11-06T12:02:32  fix: handle null values correctly
