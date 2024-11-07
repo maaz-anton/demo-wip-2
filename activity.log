@@ -3402,3 +3402,4 @@
 2024-11-07T12:14:19  test: add unit tests for core module
 2024-11-07T12:51:59  chore: update config
 2024-11-07T13:04:10  feat: add logging
+2024-11-07T13:49:51  fix: resolve memory leak
