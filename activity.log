@@ -3434,3 +3434,4 @@
 2024-11-11T13:18:01  refactor: clean up utility functions
 2024-11-11T13:25:01  refactor: clean up utility functions
 2024-11-11T14:52:40  docs: update inline comments
+2024-11-11T15:51:16  fix: handle null values correctly
