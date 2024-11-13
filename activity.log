@@ -3461,3 +3461,4 @@
 2024-11-13T12:51:02  fix: resolve memory leak
 2024-11-13T13:47:10  chore: bump version
 2024-11-13T13:50:59  chore: remove dead code
+2024-11-13T14:20:17  feat: add input sanitization
