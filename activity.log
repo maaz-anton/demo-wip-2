@@ -3498,3 +3498,4 @@
 2024-11-17T17:56:34  test: improve test coverage
 2024-11-18T10:46:50  feat: improve error handling
 2024-11-18T12:01:31  chore: remove dead code
+2024-11-18T13:28:42  fix: resolve broken import
