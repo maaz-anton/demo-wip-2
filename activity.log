@@ -3540,3 +3540,4 @@
 2024-11-20T18:30:55  chore: update dependencies
 2024-11-20T19:09:01  refactor: extract helper function
 2024-11-20T20:13:36  test: add unit tests for core module
+2024-11-21T09:22:02  fix: handle timeout gracefully
