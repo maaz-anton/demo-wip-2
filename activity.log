@@ -3590,3 +3590,4 @@
 2024-11-26T17:31:06  fix: correct API response parsing
 2024-11-26T17:46:34  refactor: clean up utility functions
 2024-11-26T19:29:34  fix: handle timeout gracefully
+2024-11-27T11:12:28  test: add unit tests for core module
