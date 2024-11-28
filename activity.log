@@ -3614,3 +3614,4 @@
 2024-11-28T15:16:33  test: add unit tests for core module
 2024-11-28T15:35:18  feat: implement pagination
 2024-11-28T16:01:37  docs: update README
+2024-11-28T16:05:21  feat: add input sanitization
