@@ -3618,3 +3618,4 @@
 2024-11-28T18:09:53  docs: update README
 2024-11-28T19:01:27  refactor: clean up utility functions
 2024-11-28T19:24:20  fix: handle timeout gracefully
+2024-11-28T19:27:01  refactor: consolidate duplicate logic
