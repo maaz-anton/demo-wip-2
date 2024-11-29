@@ -3616,3 +3616,4 @@
 2024-11-28T16:01:37  docs: update README
 2024-11-28T16:05:21  feat: add input sanitization
 2024-11-28T18:09:53  docs: update README
+2024-11-28T19:01:27  refactor: clean up utility functions
