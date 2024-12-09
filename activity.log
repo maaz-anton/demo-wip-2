@@ -3737,3 +3737,4 @@
 2024-12-09T14:13:52  fix: resolve memory leak
 2024-12-09T14:38:11  fix: handle null values correctly
 2024-12-09T14:54:08  refactor: simplify conditional logic
+2024-12-09T14:55:52  docs: update README
