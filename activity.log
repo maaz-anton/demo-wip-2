@@ -3736,3 +3736,4 @@
 2024-12-09T13:54:27  test: add unit tests for core module
 2024-12-09T14:13:52  fix: resolve memory leak
 2024-12-09T14:38:11  fix: handle null values correctly
+2024-12-09T14:54:08  refactor: simplify conditional logic
