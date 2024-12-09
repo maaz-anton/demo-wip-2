@@ -3734,3 +3734,4 @@
 2024-12-09T10:10:52  docs: update README
 2024-12-09T10:17:15  refactor: consolidate duplicate logic
 2024-12-09T13:54:27  test: add unit tests for core module
+2024-12-09T14:13:52  fix: resolve memory leak
