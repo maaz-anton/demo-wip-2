@@ -3731,3 +3731,4 @@
 2024-12-06T19:52:24  fix: handle null values correctly
 2024-12-06T20:29:06  chore: update dependencies
 2024-12-07T14:49:03  fix: resolve memory leak
+2024-12-09T10:10:52  docs: update README
