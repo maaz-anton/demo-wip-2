@@ -3760,3 +3760,4 @@
 2024-12-10T14:51:07  feat: add logging
 2024-12-10T15:14:19  docs: update inline comments
 2024-12-10T15:54:53  refactor: extract helper function
+2024-12-10T15:58:16  feat: add validation logic
