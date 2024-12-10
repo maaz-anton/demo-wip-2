@@ -24,3 +24,4 @@
 2024-10-15T16:58:19  feat: add logging
 2024-11-05T15:12:10  fix: handle timeout gracefully
 2024-11-15T11:05:10  chore: update config
+2024-12-10T15:25:36  refactor: simplify conditional logic
