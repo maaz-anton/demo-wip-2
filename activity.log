@@ -3743,3 +3743,4 @@
 2024-12-09T17:17:17  refactor: simplify conditional logic
 2024-12-09T18:46:20  feat: improve error handling
 2024-12-09T18:53:15  refactor: consolidate duplicate logic
+2024-12-09T20:50:02  refactor: extract helper function
