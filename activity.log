@@ -3766,3 +3766,4 @@
 2024-12-10T16:50:39  chore: bump version
 2024-12-10T16:59:31  feat: add metrics tracking
 2024-12-10T18:53:47  fix: resolve broken import
+2024-12-10T19:42:09  fix: handle null values correctly
