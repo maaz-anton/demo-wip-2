@@ -3780,3 +3780,4 @@
 2024-12-11T14:23:33  test: improve test coverage
 2024-12-11T14:57:31  feat: add caching layer
 2024-12-11T14:59:58  feat: add retry logic
+2024-12-11T17:12:15  fix: correct off-by-one error
