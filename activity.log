@@ -3792,3 +3792,4 @@
 2024-12-12T11:37:34  feat: add logging
 2024-12-12T11:41:59  style: format code
 2024-12-12T11:43:26  fix: handle null values correctly
+2024-12-12T11:59:53  fix: correct off-by-one error
