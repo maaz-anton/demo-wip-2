@@ -3805,3 +3805,4 @@
 2024-12-12T15:15:44  refactor: clean up utility functions
 2024-12-12T16:25:46  fix: correct type mismatch
 2024-12-12T16:36:59  chore: update config
+2024-12-12T17:46:44  fix: correct API response parsing
