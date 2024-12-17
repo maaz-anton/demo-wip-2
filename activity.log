@@ -3846,3 +3846,4 @@
 2024-12-16T21:47:58  test: improve test coverage
 2024-12-17T09:40:45  style: format code
 2024-12-17T10:40:08  fix: correct off-by-one error
+2024-12-17T11:21:26  refactor: simplify conditional logic
