@@ -3877,3 +3877,4 @@
 2024-12-18T13:33:04  test: add unit tests for core module
 2024-12-18T13:45:28  docs: update inline comments
 2024-12-18T13:47:10  feat: add retry logic
+2024-12-18T13:57:20  fix: handle timeout gracefully
