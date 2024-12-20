@@ -3904,3 +3904,4 @@
 2024-12-19T16:20:51  fix: correct API response parsing
 2024-12-19T17:26:58  chore: update dependencies
 2024-12-19T17:27:40  feat: add caching layer
+2024-12-19T19:16:06  chore: bump version
