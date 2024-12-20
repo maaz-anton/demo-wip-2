@@ -3911,3 +3911,4 @@
 2024-12-20T13:00:08  chore: bump version
 2024-12-20T13:39:14  docs: update README
 2024-12-20T14:27:04  chore: update config
+2024-12-20T14:45:17  refactor: extract helper function
