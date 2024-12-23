@@ -3922,3 +3922,4 @@
 2024-12-23T13:17:24  chore: bump version
 2024-12-23T13:57:51  feat: add retry logic
 2024-12-23T14:51:37  feat: add caching layer
+2024-12-23T16:46:12  fix: handle null values correctly
