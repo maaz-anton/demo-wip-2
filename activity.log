@@ -3950,3 +3950,4 @@
 2024-12-25T14:04:53  chore: update config
 2024-12-25T14:28:46  fix: handle timeout gracefully
 2024-12-25T14:29:31  fix: correct API response parsing
+2024-12-25T14:57:00  test: add unit tests for core module
