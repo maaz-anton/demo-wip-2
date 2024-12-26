@@ -3965,3 +3965,4 @@
 2024-12-26T12:39:25  fix: correct off-by-one error
 2024-12-26T12:39:25  chore: update dependencies
 2024-12-26T13:36:41  fix: handle null values correctly
+2024-12-26T14:05:14  refactor: clean up utility functions
