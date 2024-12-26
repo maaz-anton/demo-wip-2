@@ -3967,3 +3967,4 @@
 2024-12-26T13:36:41  fix: handle null values correctly
 2024-12-26T14:05:14  refactor: clean up utility functions
 2024-12-26T14:11:10  chore: bump version
+2024-12-26T14:27:52  refactor: extract helper function
