@@ -3975,3 +3975,4 @@
 2024-12-26T18:01:01  chore: bump version
 2024-12-26T18:53:41  fix: correct off-by-one error
 2024-12-26T21:53:54  feat: implement pagination
+2024-12-27T09:04:18  refactor: consolidate duplicate logic
