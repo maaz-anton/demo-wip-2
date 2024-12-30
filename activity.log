@@ -3992,3 +3992,4 @@
 2024-12-30T13:24:57  refactor: extract helper function
 2024-12-30T13:25:24  fix: correct type mismatch
 2024-12-30T13:43:17  test: improve test coverage
+2024-12-30T15:20:44  refactor: extract helper function
