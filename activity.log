@@ -4,3 +4,4 @@
 2025-01-03T12:44:37  docs: update README
 2025-01-03T19:39:14  chore: bump version
 2025-01-04T09:26:26  refactor: extract helper function
+2025-01-05T09:43:17  feat: add logging
