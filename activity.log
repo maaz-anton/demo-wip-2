@@ -9,3 +9,4 @@
 2025-01-06T11:09:11  fix: handle null values correctly
 2025-01-06T12:07:54  fix: correct off-by-one error
 2025-01-06T12:09:53  test: improve test coverage
+2025-01-06T12:20:29  feat: add logging
