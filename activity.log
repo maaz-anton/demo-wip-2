@@ -234,3 +234,4 @@
 2025-01-08T13:02:36  feat: improve error handling
 2025-01-08T13:22:38  test: add unit tests for core module
 2025-01-08T13:27:52  feat: add caching layer
+2025-01-08T13:44:12  chore: remove dead code
