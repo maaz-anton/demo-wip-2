@@ -57,3 +57,4 @@
 2025-01-09T15:28:13  refactor: simplify conditional logic
 2025-01-09T15:47:25  docs: update README
 2025-01-09T16:24:16  chore: update config
+2025-01-09T20:09:48  feat: add input sanitization
