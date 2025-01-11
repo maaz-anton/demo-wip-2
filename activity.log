@@ -272,3 +272,4 @@
 2025-01-10T15:47:15  feat: add logging
 2025-01-10T17:10:25  feat: add retry logic
 2025-01-10T17:19:31  chore: update config
+2025-01-10T20:31:49  feat: add metrics tracking
