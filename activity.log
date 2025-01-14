@@ -295,3 +295,4 @@
 2025-01-14T10:00:47  fix: handle null values correctly
 2025-01-14T10:09:07  fix: resolve broken import
 2025-01-14T10:54:19  chore: remove dead code
+2025-01-14T11:15:15  refactor: clean up utility functions
