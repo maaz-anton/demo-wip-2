@@ -303,3 +303,4 @@
 2025-01-14T13:06:03  fix: correct type mismatch
 2025-01-14T13:32:34  refactor: clean up utility functions
 2025-01-14T16:04:56  fix: handle timeout gracefully
+2025-01-14T16:22:48  refactor: simplify conditional logic
