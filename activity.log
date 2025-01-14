@@ -98,3 +98,4 @@
 2025-01-14T11:15:15  refactor: clean up utility functions
 2025-01-14T11:56:51  feat: add retry logic
 2025-01-14T12:31:56  fix: handle timeout gracefully
+2025-01-14T12:44:22  feat: add caching layer
