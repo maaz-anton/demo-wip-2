@@ -91,3 +91,4 @@
 2025-01-13T17:03:40  fix: correct type mismatch
 2025-01-13T17:39:15  feat: add input sanitization
 2025-01-13T18:51:40  fix: correct API response parsing
+2025-01-14T09:20:54  refactor: clean up utility functions
