@@ -116,3 +116,4 @@
 2025-01-15T09:23:31  fix: correct type mismatch
 2025-01-15T09:38:22  refactor: extract helper function
 2025-01-15T11:22:00  fix: handle null values correctly
+2025-01-15T12:12:30  fix: correct off-by-one error
