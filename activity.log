@@ -320,3 +320,4 @@
 2025-01-15T12:12:41  chore: update config
 2025-01-15T12:38:59  chore: update dependencies
 2025-01-15T13:13:09  feat: improve error handling
+2025-01-15T13:20:04  test: add unit tests for core module
