@@ -114,3 +114,4 @@
 2025-01-14T21:28:19  fix: handle null values correctly
 2025-01-14T21:37:56  fix: handle null values correctly
 2025-01-15T09:23:31  fix: correct type mismatch
+2025-01-15T09:38:22  refactor: extract helper function
