@@ -312,3 +312,4 @@
 2025-01-14T17:46:13  chore: remove dead code
 2025-01-14T18:53:22  style: format code
 2025-01-14T21:28:19  fix: handle null values correctly
+2025-01-14T21:37:56  fix: handle null values correctly
