@@ -377,3 +377,4 @@
 2025-01-20T17:05:47  fix: correct API response parsing
 2025-01-20T19:02:40  feat: add caching layer
 2025-01-21T11:02:43  fix: correct off-by-one error
+2025-01-21T11:43:18  test: improve test coverage
