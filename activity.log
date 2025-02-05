@@ -19,3 +19,4 @@
 2025-02-04T14:38:15  docs: update README
 2025-02-04T16:20:00  refactor: simplify conditional logic
 2025-02-04T18:29:37  feat: add retry logic
+2025-02-04T20:01:49  feat: add input sanitization
