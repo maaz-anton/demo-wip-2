@@ -30,3 +30,4 @@
 2025-02-05T15:26:06  chore: bump version
 2025-02-05T15:59:03  style: format code
 2025-02-05T16:08:38  chore: bump version
+2025-02-05T16:41:14  test: add unit tests for core module
