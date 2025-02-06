@@ -41,3 +41,4 @@
 2025-02-06T13:29:49  chore: bump version
 2025-02-06T13:36:01  fix: handle null values correctly
 2025-02-06T13:57:38  refactor: simplify conditional logic
+2025-02-06T14:30:11  refactor: simplify conditional logic
