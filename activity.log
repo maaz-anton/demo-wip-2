@@ -40,3 +40,4 @@
 2025-02-06T11:12:10  refactor: consolidate duplicate logic
 2025-02-06T13:29:49  chore: bump version
 2025-02-06T13:36:01  fix: handle null values correctly
+2025-02-06T13:57:38  refactor: simplify conditional logic
