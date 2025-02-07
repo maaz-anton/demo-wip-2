@@ -60,3 +60,4 @@
 2025-02-07T16:39:44  docs: update inline comments
 2025-02-07T16:49:08  fix: resolve broken import
 2025-02-07T17:29:59  fix: correct off-by-one error
+2025-02-07T17:50:53  refactor: extract helper function
