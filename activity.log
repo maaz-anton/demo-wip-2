@@ -97,3 +97,4 @@
 2025-02-11T14:29:10  refactor: clean up utility functions
 2025-02-11T14:58:09  docs: update inline comments
 2025-02-11T15:20:38  chore: remove dead code
+2025-02-11T16:08:50  test: add unit tests for core module
