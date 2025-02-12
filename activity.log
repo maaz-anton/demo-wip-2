@@ -115,3 +115,4 @@
 2025-02-12T12:49:46  fix: resolve memory leak
 2025-02-12T13:10:32  chore: remove dead code
 2025-02-12T13:20:40  docs: update inline comments
+2025-02-12T13:51:11  test: add unit tests for core module
