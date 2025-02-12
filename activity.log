@@ -102,3 +102,4 @@
 2025-02-11T17:07:55  test: add unit tests for core module
 2025-02-11T18:20:44  refactor: simplify conditional logic
 2025-02-11T18:32:55  chore: update dependencies
+2025-02-11T19:23:10  fix: handle null values correctly
