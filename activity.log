@@ -126,3 +126,4 @@
 2025-02-12T19:44:28  chore: update config
 2025-02-12T20:03:59  chore: bump version
 2025-02-13T11:56:56  fix: handle null values correctly
+2025-02-13T12:03:54  chore: remove dead code
