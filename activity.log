@@ -166,3 +166,4 @@
 2025-02-17T13:15:00  fix: handle null values correctly
 2025-02-17T13:33:58  docs: update README
 2025-02-17T13:34:43  fix: resolve broken import
+2025-02-17T16:25:03  chore: remove dead code
