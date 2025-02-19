@@ -182,3 +182,4 @@
 2025-02-18T20:52:05  docs: update inline comments
 2025-02-19T09:47:12  style: format code
 2025-02-19T11:00:18  refactor: clean up utility functions
+2025-02-19T11:13:46  fix: correct off-by-one error
