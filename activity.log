@@ -193,3 +193,4 @@
 2025-02-19T15:33:07  refactor: simplify conditional logic
 2025-02-19T15:46:29  fix: handle null values correctly
 2025-02-19T15:54:45  style: format code
+2025-02-19T15:55:05  refactor: extract helper function
