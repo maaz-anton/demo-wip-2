@@ -233,3 +233,4 @@
 2025-02-21T19:14:28  chore: remove dead code
 2025-02-21T20:04:33  fix: correct type mismatch
 2025-02-22T21:36:10  docs: update README
+2025-02-23T11:50:14  refactor: clean up utility functions
