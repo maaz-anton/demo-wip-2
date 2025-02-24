@@ -235,3 +235,4 @@
 2025-02-22T21:36:10  docs: update README
 2025-02-23T11:50:14  refactor: clean up utility functions
 2025-02-24T11:37:14  refactor: consolidate duplicate logic
+2025-02-24T12:06:38  fix: handle timeout gracefully
