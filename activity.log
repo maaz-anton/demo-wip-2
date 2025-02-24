@@ -241,3 +241,4 @@
 2025-02-24T13:20:03  test: add unit tests for core module
 2025-02-24T13:27:24  fix: correct off-by-one error
 2025-02-24T14:04:56  chore: remove dead code
+2025-02-24T14:41:48  fix: correct API response parsing
