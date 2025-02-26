@@ -281,3 +281,4 @@
 2025-02-26T14:55:25  fix: resolve race condition
 2025-02-26T15:02:56  test: improve test coverage
 2025-02-26T15:25:18  chore: update dependencies
+2025-02-26T15:30:05  refactor: extract helper function
