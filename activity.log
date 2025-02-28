@@ -311,3 +311,4 @@
 2025-02-28T11:56:51  feat: add retry logic
 2025-02-28T13:20:04  test: add unit tests for core module
 2025-02-28T13:38:20  fix: correct type mismatch
+2025-02-28T15:12:59  chore: remove dead code
