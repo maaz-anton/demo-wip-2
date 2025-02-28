@@ -307,3 +307,4 @@
 2025-02-27T21:37:56  fix: handle null values correctly
 2025-02-28T09:23:31  fix: correct type mismatch
 2025-02-28T09:38:22  refactor: extract helper function
+2025-02-28T10:54:19  chore: remove dead code
