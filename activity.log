@@ -312,3 +312,4 @@
 2025-02-28T13:20:04  test: add unit tests for core module
 2025-02-28T13:38:20  fix: correct type mismatch
 2025-02-28T15:12:59  chore: remove dead code
+2025-02-28T21:28:19  fix: handle null values correctly
