@@ -324,3 +324,4 @@
 2025-03-03T13:13:09  feat: improve error handling
 2025-03-03T14:16:53  fix: resolve broken import
 2025-03-03T14:45:46  fix: handle timeout gracefully
+2025-03-03T16:10:18  docs: update README
