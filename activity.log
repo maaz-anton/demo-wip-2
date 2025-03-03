@@ -321,3 +321,4 @@
 2025-03-03T12:12:30  fix: correct off-by-one error
 2025-03-03T12:12:41  chore: update config
 2025-03-03T12:24:50  feat: implement pagination
+2025-03-03T13:13:09  feat: improve error handling
