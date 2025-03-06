@@ -368,3 +368,4 @@
 2025-03-06T12:25:46  feat: add input sanitization
 2025-03-06T12:59:22  chore: remove dead code
 2025-03-06T13:08:46  feat: add retry logic
+2025-03-06T15:06:53  refactor: clean up utility functions
