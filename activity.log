@@ -372,3 +372,4 @@
 2025-03-06T15:08:34  docs: update inline comments
 2025-03-06T15:19:11  style: format code
 2025-03-06T16:40:37  feat: improve error handling
+2025-03-06T17:04:08  refactor: consolidate duplicate logic
