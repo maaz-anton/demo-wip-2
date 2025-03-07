@@ -379,3 +379,4 @@
 2025-03-07T10:50:47  fix: handle timeout gracefully
 2025-03-07T10:59:36  fix: correct API response parsing
 2025-03-07T11:41:13  fix: correct API response parsing
+2025-03-07T14:10:20  feat: add input sanitization
