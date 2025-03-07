@@ -376,3 +376,4 @@
 2025-03-06T17:05:47  fix: correct API response parsing
 2025-03-06T19:02:40  feat: add caching layer
 2025-03-07T10:41:43  fix: resolve broken import
+2025-03-07T10:50:47  fix: handle timeout gracefully
