@@ -385,3 +385,4 @@
 2025-03-07T17:15:48  feat: improve error handling
 2025-03-07T18:40:28  feat: add input sanitization
 2025-03-07T19:24:40  chore: bump version
+2025-03-07T22:12:06  fix: correct API response parsing
