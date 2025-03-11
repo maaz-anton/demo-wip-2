@@ -399,3 +399,4 @@
 2025-03-10T14:31:40  feat: add input sanitization
 2025-03-10T16:52:35  feat: add metrics tracking
 2025-03-10T18:31:01  feat: add input sanitization
+2025-03-10T20:40:31  refactor: extract helper function
