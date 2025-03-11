@@ -402,3 +402,4 @@
 2025-03-10T20:40:31  refactor: extract helper function
 2025-03-11T09:27:50  refactor: consolidate duplicate logic
 2025-03-11T10:49:53  docs: update inline comments
+2025-03-11T12:10:06  fix: resolve race condition
