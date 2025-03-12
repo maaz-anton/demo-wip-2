@@ -416,3 +416,4 @@
 2025-03-11T16:39:06  refactor: simplify conditional logic
 2025-03-11T17:11:45  fix: resolve broken import
 2025-03-11T18:43:39  test: add unit tests for core module
+2025-03-11T20:52:41  refactor: consolidate duplicate logic
