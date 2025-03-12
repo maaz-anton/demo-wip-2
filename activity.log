@@ -419,3 +419,4 @@
 2025-03-11T20:52:41  refactor: consolidate duplicate logic
 2025-03-12T11:27:06  docs: update inline comments
 2025-03-12T11:47:18  feat: add logging
+2025-03-12T12:23:05  fix: handle timeout gracefully
