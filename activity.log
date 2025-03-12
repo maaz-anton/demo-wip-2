@@ -425,3 +425,4 @@
 2025-03-12T13:37:03  feat: add validation logic
 2025-03-12T13:46:28  chore: bump version
 2025-03-12T13:48:27  refactor: clean up utility functions
+2025-03-12T15:12:02  fix: correct type mismatch
