@@ -456,3 +456,4 @@
 2025-03-14T19:20:13  fix: correct off-by-one error
 2025-03-14T19:38:01  test: improve test coverage
 2025-03-14T22:23:31  fix: correct off-by-one error
+2025-03-15T15:52:35  feat: add caching layer
