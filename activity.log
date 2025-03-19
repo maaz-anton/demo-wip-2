@@ -508,3 +508,4 @@
 2025-03-19T13:48:56  feat: improve error handling
 2025-03-19T14:40:20  fix: resolve race condition
 2025-03-19T15:03:52  chore: bump version
+2025-03-19T15:15:49  feat: add logging
