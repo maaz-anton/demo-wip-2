@@ -525,3 +525,4 @@
 2025-03-20T12:16:34  refactor: consolidate duplicate logic
 2025-03-20T12:49:31  fix: handle timeout gracefully
 2025-03-20T14:18:11  chore: bump version
+2025-03-20T16:50:18  fix: resolve race condition
