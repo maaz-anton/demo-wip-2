@@ -532,3 +532,4 @@
 2025-03-21T09:11:46  chore: update config
 2025-03-21T09:46:41  docs: update README
 2025-03-21T11:10:54  fix: resolve edge case in data processing
+2025-03-21T11:32:43  fix: correct off-by-one error
