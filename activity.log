@@ -527,3 +527,4 @@
 2025-03-20T14:18:11  chore: bump version
 2025-03-20T16:50:18  fix: resolve race condition
 2025-03-20T18:11:57  refactor: clean up utility functions
+2025-03-20T20:18:58  test: add unit tests for core module
