@@ -549,3 +549,4 @@
 2025-03-24T13:03:56  docs: update inline comments
 2025-03-24T13:12:26  feat: add retry logic
 2025-03-24T14:27:14  refactor: clean up utility functions
+2025-03-24T19:58:32  feat: add caching layer
