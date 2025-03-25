@@ -561,3 +561,4 @@
 2025-03-25T13:38:17  refactor: consolidate duplicate logic
 2025-03-25T13:56:39  refactor: extract helper function
 2025-03-25T14:02:22  fix: correct API response parsing
+2025-03-25T14:24:07  docs: update inline comments
