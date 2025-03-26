@@ -581,3 +581,4 @@
 2025-03-26T13:24:36  feat: add retry logic
 2025-03-26T13:41:48  test: add unit tests for core module
 2025-03-26T14:06:32  test: improve test coverage
+2025-03-26T14:13:42  refactor: extract helper function
