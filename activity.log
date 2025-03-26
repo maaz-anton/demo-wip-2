@@ -574,3 +574,4 @@
 2025-03-26T08:30:18  refactor: clean up utility functions
 2025-03-26T09:41:53  docs: update README
 2025-03-26T10:17:43  fix: correct off-by-one error
+2025-03-26T11:49:16  fix: resolve memory leak
