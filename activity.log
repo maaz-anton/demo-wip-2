@@ -591,3 +591,4 @@
 2025-03-26T16:14:52  docs: update README
 2025-03-26T16:43:13  feat: add input sanitization
 2025-03-26T17:10:54  feat: implement pagination
+2025-03-26T17:15:37  feat: add caching layer
