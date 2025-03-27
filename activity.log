@@ -599,3 +599,4 @@
 2025-03-27T09:36:08  refactor: clean up utility functions
 2025-03-27T09:43:27  fix: handle null values correctly
 2025-03-27T11:33:36  chore: update dependencies
+2025-03-27T12:00:26  feat: add caching layer
