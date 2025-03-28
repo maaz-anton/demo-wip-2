@@ -614,3 +614,4 @@
 2025-03-27T20:46:11  refactor: clean up utility functions
 2025-03-27T21:14:47  docs: update inline comments
 2025-03-28T10:15:33  chore: bump version
+2025-03-28T11:18:22  fix: correct off-by-one error
