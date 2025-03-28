@@ -618,3 +618,4 @@
 2025-03-28T11:46:10  feat: add retry logic
 2025-03-28T11:50:47  refactor: simplify conditional logic
 2025-03-28T12:11:37  test: add unit tests for core module
+2025-03-28T12:22:33  feat: add caching layer
