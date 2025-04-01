@@ -654,3 +654,4 @@
 2025-04-01T17:13:48  feat: add logging
 2025-04-01T17:26:06  feat: implement pagination
 2025-04-01T17:32:46  feat: add logging
+2025-04-01T17:35:16  refactor: clean up utility functions
