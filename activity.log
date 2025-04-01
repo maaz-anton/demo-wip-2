@@ -637,3 +637,4 @@
 2025-03-31T16:25:53  style: format code
 2025-03-31T18:55:16  docs: update README
 2025-03-31T21:17:44  feat: add validation logic
+2025-04-01T11:58:30  feat: improve error handling
