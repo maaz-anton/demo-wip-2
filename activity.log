@@ -648,3 +648,4 @@
 2025-04-01T15:43:58  style: format code
 2025-04-01T15:59:35  fix: correct off-by-one error
 2025-04-01T16:08:51  feat: add validation logic
+2025-04-01T16:21:35  fix: handle null values correctly
