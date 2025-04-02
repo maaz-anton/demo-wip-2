@@ -671,3 +671,4 @@
 2025-04-02T13:16:51  feat: add logging
 2025-04-02T13:45:50  docs: update inline comments
 2025-04-02T13:53:18  fix: correct type mismatch
+2025-04-02T13:59:28  fix: handle timeout gracefully
