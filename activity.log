@@ -673,3 +673,4 @@
 2025-04-02T13:53:18  fix: correct type mismatch
 2025-04-02T13:59:28  fix: handle timeout gracefully
 2025-04-02T14:41:46  chore: remove dead code
+2025-04-02T15:30:09  test: add unit tests for core module
