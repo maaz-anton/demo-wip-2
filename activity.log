@@ -659,3 +659,4 @@
 2025-04-01T19:37:35  fix: correct API response parsing
 2025-04-01T20:42:36  feat: improve error handling
 2025-04-01T21:37:29  chore: remove dead code
+2025-04-01T22:12:32  fix: handle null values correctly
