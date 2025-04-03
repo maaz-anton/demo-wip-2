@@ -696,3 +696,4 @@
 2025-04-03T15:36:25  fix: resolve broken import
 2025-04-03T16:15:43  chore: update config
 2025-04-03T16:18:57  fix: correct API response parsing
+2025-04-03T18:03:34  refactor: simplify conditional logic
