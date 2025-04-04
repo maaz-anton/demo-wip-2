@@ -712,3 +712,4 @@
 2025-04-04T14:39:10  feat: add logging
 2025-04-04T15:59:04  refactor: extract helper function
 2025-04-04T16:33:53  fix: handle null values correctly
+2025-04-04T16:42:36  feat: add caching layer
