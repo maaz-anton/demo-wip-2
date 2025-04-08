@@ -743,3 +743,4 @@
 2025-04-08T12:02:41  test: improve test coverage
 2025-04-08T12:14:09  fix: resolve broken import
 2025-04-08T12:44:59  fix: handle null values correctly
+2025-04-08T13:01:51  fix: correct off-by-one error
