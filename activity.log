@@ -750,3 +750,4 @@
 2025-04-08T18:26:22  chore: update config
 2025-04-08T19:06:55  feat: add retry logic
 2025-04-08T20:37:06  refactor: clean up utility functions
+2025-04-08T21:15:21  fix: handle null values correctly
