@@ -751,3 +751,4 @@
 2025-04-08T19:06:55  feat: add retry logic
 2025-04-08T20:37:06  refactor: clean up utility functions
 2025-04-08T21:15:21  fix: handle null values correctly
+2025-04-09T11:37:17  fix: handle timeout gracefully
