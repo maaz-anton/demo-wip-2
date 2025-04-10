@@ -769,3 +769,4 @@
 2025-04-10T13:06:38  feat: implement pagination
 2025-04-10T13:25:27  fix: handle null values correctly
 2025-04-10T13:33:11  docs: update inline comments
+2025-04-10T15:59:01  fix: correct off-by-one error
