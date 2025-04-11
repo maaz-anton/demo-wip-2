@@ -773,3 +773,4 @@
 2025-04-10T16:07:47  test: add unit tests for core module
 2025-04-10T17:42:05  fix: correct type mismatch
 2025-04-11T10:00:33  chore: bump version
+2025-04-11T11:02:52  fix: resolve memory leak
