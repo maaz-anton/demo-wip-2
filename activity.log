@@ -791,3 +791,4 @@
 2025-04-13T18:42:49  feat: add retry logic
 2025-04-13T19:39:57  refactor: extract helper function
 2025-04-14T10:23:21  fix: correct type mismatch
+2025-04-14T10:23:50  feat: add caching layer
