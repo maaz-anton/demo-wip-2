@@ -803,3 +803,4 @@
 2025-04-15T10:39:05  docs: update README
 2025-04-15T12:05:19  style: format code
 2025-04-15T12:27:37  refactor: extract helper function
+2025-04-15T13:23:12  fix: resolve edge case in data processing
