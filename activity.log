@@ -825,3 +825,4 @@
 2025-04-18T14:13:51  feat: add metrics tracking
 2025-04-18T16:33:29  fix: correct API response parsing
 2025-04-18T18:13:40  chore: bump version
+2025-04-18T22:35:45  feat: add caching layer
