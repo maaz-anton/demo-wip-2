@@ -835,3 +835,4 @@
 2025-04-21T11:35:41  chore: bump version
 2025-04-21T12:19:11  fix: correct off-by-one error
 2025-04-21T12:30:36  chore: update dependencies
+2025-04-21T12:34:52  fix: resolve race condition
