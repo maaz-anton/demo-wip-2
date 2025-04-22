@@ -855,3 +855,4 @@
 2025-04-22T15:00:38  fix: correct type mismatch
 2025-04-22T17:08:06  style: format code
 2025-04-22T17:26:48  fix: correct type mismatch
+2025-04-22T17:46:21  fix: correct off-by-one error
