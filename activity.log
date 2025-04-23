@@ -857,3 +857,4 @@
 2025-04-22T17:26:48  fix: correct type mismatch
 2025-04-22T17:46:21  fix: correct off-by-one error
 2025-04-22T19:32:58  docs: update README
+2025-04-22T20:14:37  feat: implement pagination
