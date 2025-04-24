@@ -880,3 +880,4 @@
 2025-04-24T13:33:26  refactor: extract helper function
 2025-04-24T14:10:52  fix: handle null values correctly
 2025-04-24T14:33:47  chore: remove dead code
+2025-04-24T15:13:21  fix: handle timeout gracefully
