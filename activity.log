@@ -873,3 +873,4 @@
 2025-04-23T19:18:40  feat: implement pagination
 2025-04-23T22:18:57  chore: bump version
 2025-04-24T11:22:25  fix: resolve memory leak
+2025-04-24T11:35:04  fix: correct API response parsing
