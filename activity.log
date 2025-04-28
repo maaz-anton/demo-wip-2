@@ -905,3 +905,4 @@
 2025-04-28T10:47:56  refactor: simplify conditional logic
 2025-04-28T12:22:29  fix: resolve memory leak
 2025-04-28T12:23:05  fix: correct off-by-one error
+2025-04-28T12:33:12  fix: resolve broken import
