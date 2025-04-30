@@ -936,3 +936,4 @@
 2025-04-30T14:35:08  chore: update dependencies
 2025-04-30T15:21:22  docs: update README
 2025-04-30T16:18:45  refactor: simplify conditional logic
+2025-04-30T17:26:42  fix: resolve memory leak
