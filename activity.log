@@ -931,3 +931,4 @@
 2025-04-30T12:45:06  chore: bump version
 2025-04-30T12:58:20  feat: add caching layer
 2025-04-30T13:01:24  feat: add validation logic
+2025-04-30T13:04:24  fix: handle timeout gracefully
