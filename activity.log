@@ -949,3 +949,4 @@
 2025-05-01T13:57:05  style: format code
 2025-05-01T14:50:32  feat: add metrics tracking
 2025-05-01T15:12:12  feat: add metrics tracking
+2025-05-01T15:26:03  refactor: consolidate duplicate logic
