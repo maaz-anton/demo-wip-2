@@ -967,3 +967,4 @@
 2025-05-02T17:23:08  chore: bump version
 2025-05-02T20:12:30  refactor: clean up utility functions
 2025-05-04T12:48:04  fix: resolve race condition
+2025-05-04T14:20:30  docs: update README
