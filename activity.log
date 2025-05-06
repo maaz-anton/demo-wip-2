@@ -984,3 +984,4 @@
 2025-05-05T17:29:27  feat: add input sanitization
 2025-05-05T19:21:15  docs: update inline comments
 2025-05-05T21:46:39  chore: bump version
+2025-05-06T10:24:38  fix: resolve memory leak
