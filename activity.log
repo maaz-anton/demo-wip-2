@@ -1000,3 +1000,4 @@
 2025-05-06T15:59:56  feat: add input sanitization
 2025-05-06T17:10:21  chore: remove dead code
 2025-05-06T19:56:56  fix: resolve memory leak
+2025-05-06T20:32:05  test: add unit tests for core module
