@@ -1025,3 +1025,4 @@
 2025-05-08T13:36:38  refactor: clean up utility functions
 2025-05-08T15:03:55  chore: remove dead code
 2025-05-08T15:07:00  test: improve test coverage
+2025-05-08T15:24:43  refactor: simplify conditional logic
