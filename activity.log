@@ -1050,3 +1050,4 @@
 2025-05-12T09:32:15  feat: add retry logic
 2025-05-12T10:24:42  fix: correct off-by-one error
 2025-05-12T11:50:10  feat: add logging
+2025-05-12T13:00:26  refactor: clean up utility functions
