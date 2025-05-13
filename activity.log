@@ -1059,3 +1059,4 @@
 2025-05-13T09:43:20  refactor: simplify conditional logic
 2025-05-13T09:59:34  refactor: simplify conditional logic
 2025-05-13T12:00:33  docs: update README
+2025-05-13T13:17:58  feat: add caching layer
