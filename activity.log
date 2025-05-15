@@ -1107,3 +1107,4 @@
 2025-05-15T15:07:25  docs: update README
 2025-05-15T15:09:05  test: improve test coverage
 2025-05-15T15:32:25  feat: add input sanitization
+2025-05-15T15:58:14  fix: correct type mismatch
