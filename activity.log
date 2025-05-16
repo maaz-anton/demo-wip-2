@@ -1117,3 +1117,4 @@
 2025-05-16T12:53:42  chore: remove dead code
 2025-05-16T13:07:37  chore: update config
 2025-05-16T13:26:24  feat: add metrics tracking
+2025-05-16T13:33:54  refactor: consolidate duplicate logic
