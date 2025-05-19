@@ -1124,3 +1124,4 @@
 2025-05-16T18:20:56  fix: resolve race condition
 2025-05-17T11:34:27  fix: resolve memory leak
 2025-05-18T16:33:15  fix: resolve race condition
+2025-05-19T09:32:30  fix: handle null values correctly
