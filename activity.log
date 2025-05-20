@@ -1150,3 +1150,4 @@
 2025-05-20T17:52:38  fix: resolve race condition
 2025-05-20T18:18:07  chore: bump version
 2025-05-20T18:20:36  fix: correct off-by-one error
+2025-05-20T18:56:13  test: improve test coverage
