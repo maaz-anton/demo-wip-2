@@ -1154,3 +1154,4 @@
 2025-05-20T19:00:03  feat: add metrics tracking
 2025-05-21T10:49:58  fix: correct API response parsing
 2025-05-21T11:11:15  docs: update README
+2025-05-21T12:00:21  refactor: simplify conditional logic
