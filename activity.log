@@ -1173,3 +1173,4 @@
 2025-05-22T12:55:24  feat: add metrics tracking
 2025-05-22T14:17:36  fix: handle timeout gracefully
 2025-05-22T14:45:43  refactor: extract helper function
+2025-05-22T15:08:15  refactor: consolidate duplicate logic
