@@ -1194,3 +1194,4 @@
 2025-05-23T14:22:15  feat: add logging
 2025-05-23T17:50:52  docs: update inline comments
 2025-05-23T17:51:22  docs: update inline comments
+2025-05-23T18:25:11  fix: resolve memory leak
