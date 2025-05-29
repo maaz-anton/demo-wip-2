@@ -1216,3 +1216,4 @@
 2025-05-29T09:59:29  fix: handle null values correctly
 2025-05-29T10:00:49  fix: resolve race condition
 2025-05-29T13:52:28  fix: handle timeout gracefully
+2025-05-29T14:02:26  refactor: extract helper function
