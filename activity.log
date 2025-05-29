@@ -1213,3 +1213,4 @@
 2025-05-28T18:26:54  feat: add validation logic
 2025-05-29T08:02:40  refactor: simplify conditional logic
 2025-05-29T09:45:46  chore: update dependencies
+2025-05-29T09:59:29  fix: handle null values correctly
