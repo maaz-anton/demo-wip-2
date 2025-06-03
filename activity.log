@@ -1248,3 +1248,4 @@
 2025-06-02T16:20:59  style: format code
 2025-06-02T16:42:55  feat: add logging
 2025-06-03T09:31:28  chore: update config
+2025-06-03T09:56:50  test: add unit tests for core module
