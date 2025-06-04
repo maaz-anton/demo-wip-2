@@ -1263,3 +1263,4 @@
 2025-06-04T13:45:11  fix: resolve broken import
 2025-06-04T14:18:11  fix: handle null values correctly
 2025-06-04T14:37:03  refactor: extract helper function
+2025-06-04T14:49:14  refactor: consolidate duplicate logic
