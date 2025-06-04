@@ -1265,3 +1265,4 @@
 2025-06-04T14:37:03  refactor: extract helper function
 2025-06-04T14:49:14  refactor: consolidate duplicate logic
 2025-06-04T15:00:08  feat: add metrics tracking
+2025-06-04T15:24:23  fix: resolve broken import
