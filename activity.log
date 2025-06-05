@@ -1281,3 +1281,4 @@
 2025-06-05T13:24:15  feat: add retry logic
 2025-06-05T14:32:18  refactor: extract helper function
 2025-06-05T14:50:05  feat: add logging
+2025-06-05T15:53:28  fix: handle null values correctly
