@@ -1271,3 +1271,4 @@
 2025-06-04T18:26:30  fix: resolve memory leak
 2025-06-04T18:34:35  chore: remove dead code
 2025-06-05T10:30:47  chore: bump version
+2025-06-05T11:02:34  fix: correct API response parsing
