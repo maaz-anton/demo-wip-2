@@ -1294,3 +1294,4 @@
 2025-06-06T19:26:29  fix: resolve race condition
 2025-06-07T11:36:24  docs: update README
 2025-06-07T11:49:58  fix: handle null values correctly
+2025-06-07T15:07:33  refactor: clean up utility functions
