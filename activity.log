@@ -1292,3 +1292,4 @@
 2025-06-06T17:25:07  chore: remove dead code
 2025-06-06T17:35:22  fix: resolve broken import
 2025-06-06T19:26:29  fix: resolve race condition
+2025-06-07T11:36:24  docs: update README
