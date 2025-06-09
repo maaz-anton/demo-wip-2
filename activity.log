@@ -1303,3 +1303,4 @@
 2025-06-09T13:57:51  docs: update README
 2025-06-09T14:27:56  docs: update README
 2025-06-09T15:10:57  fix: handle null values correctly
+2025-06-09T15:31:09  fix: correct type mismatch
