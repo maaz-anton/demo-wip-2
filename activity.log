@@ -1306,3 +1306,4 @@
 2025-06-09T15:31:09  fix: correct type mismatch
 2025-06-09T15:37:27  fix: correct type mismatch
 2025-06-09T16:06:50  chore: remove dead code
+2025-06-09T16:56:47  refactor: clean up utility functions
