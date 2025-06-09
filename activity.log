@@ -1305,3 +1305,4 @@
 2025-06-09T15:10:57  fix: handle null values correctly
 2025-06-09T15:31:09  fix: correct type mismatch
 2025-06-09T15:37:27  fix: correct type mismatch
+2025-06-09T16:06:50  chore: remove dead code
