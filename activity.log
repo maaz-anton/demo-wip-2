@@ -1314,3 +1314,4 @@
 2025-06-10T09:05:25  chore: update config
 2025-06-10T09:14:51  fix: correct API response parsing
 2025-06-10T09:40:07  test: add unit tests for core module
+2025-06-10T10:10:33  fix: handle null values correctly
