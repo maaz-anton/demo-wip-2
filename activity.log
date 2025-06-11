@@ -1342,3 +1342,4 @@
 2025-06-11T15:43:23  refactor: consolidate duplicate logic
 2025-06-11T15:51:20  refactor: extract helper function
 2025-06-11T17:10:28  docs: update inline comments
+2025-06-11T17:10:49  feat: add retry logic
