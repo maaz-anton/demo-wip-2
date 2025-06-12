@@ -1355,3 +1355,4 @@
 2025-06-12T13:40:38  chore: bump version
 2025-06-12T13:53:09  fix: correct type mismatch
 2025-06-12T14:02:11  feat: add metrics tracking
+2025-06-12T14:10:19  fix: correct off-by-one error
