@@ -1347,3 +1347,4 @@
 2025-06-11T18:14:53  docs: update inline comments
 2025-06-12T10:17:50  fix: correct type mismatch
 2025-06-12T10:31:41  test: improve test coverage
+2025-06-12T13:07:42  feat: add retry logic
