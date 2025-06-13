@@ -1365,3 +1365,4 @@
 2025-06-12T20:00:25  fix: resolve broken import
 2025-06-12T21:57:40  fix: handle null values correctly
 2025-06-13T10:31:08  chore: remove dead code
+2025-06-13T10:49:43  style: format code
