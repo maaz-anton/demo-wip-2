@@ -1392,3 +1392,4 @@
 2025-06-16T14:32:00  chore: update dependencies
 2025-06-16T14:44:55  chore: update config
 2025-06-16T16:22:57  fix: correct off-by-one error
+2025-06-16T16:26:11  feat: add caching layer
