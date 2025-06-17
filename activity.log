@@ -1406,3 +1406,4 @@
 2025-06-17T14:55:05  test: add unit tests for core module
 2025-06-17T15:03:04  refactor: clean up utility functions
 2025-06-17T15:16:12  chore: update config
+2025-06-17T16:03:03  feat: improve error handling
