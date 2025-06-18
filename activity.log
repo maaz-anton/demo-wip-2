@@ -1417,3 +1417,4 @@
 2025-06-18T11:58:59  feat: add input sanitization
 2025-06-18T12:05:17  test: improve test coverage
 2025-06-18T12:15:38  chore: bump version
+2025-06-18T12:32:33  fix: resolve broken import
