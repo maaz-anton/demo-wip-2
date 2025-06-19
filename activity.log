@@ -1427,3 +1427,4 @@
 2025-06-19T09:37:42  feat: add retry logic
 2025-06-19T10:47:48  style: format code
 2025-06-19T10:58:04  fix: resolve race condition
+2025-06-19T12:49:21  docs: update README
