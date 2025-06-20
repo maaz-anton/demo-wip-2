@@ -1445,3 +1445,4 @@
 2025-06-20T15:15:44  style: format code
 2025-06-20T15:18:59  chore: remove dead code
 2025-06-20T16:49:09  fix: resolve race condition
+2025-06-20T16:53:04  refactor: clean up utility functions
