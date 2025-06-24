@@ -1458,3 +1458,4 @@
 2025-06-23T21:21:01  fix: resolve broken import
 2025-06-24T08:15:13  feat: implement pagination
 2025-06-24T09:40:10  fix: correct type mismatch
+2025-06-24T12:08:53  fix: handle null values correctly
