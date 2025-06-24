@@ -1473,3 +1473,4 @@
 2025-06-24T15:34:29  feat: add metrics tracking
 2025-06-24T16:29:17  refactor: clean up utility functions
 2025-06-24T16:35:59  feat: add retry logic
+2025-06-24T18:46:34  refactor: extract helper function
