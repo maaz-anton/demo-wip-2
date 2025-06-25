@@ -1476,3 +1476,4 @@
 2025-06-24T18:46:34  refactor: extract helper function
 2025-06-24T20:15:37  feat: add caching layer
 2025-06-25T12:04:09  fix: correct off-by-one error
+2025-06-25T12:33:04  refactor: consolidate duplicate logic
