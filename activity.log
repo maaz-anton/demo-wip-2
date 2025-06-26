@@ -1488,3 +1488,4 @@
 2025-06-25T17:58:46  feat: add validation logic
 2025-06-25T18:21:45  test: add unit tests for core module
 2025-06-25T18:45:33  chore: update config
+2025-06-26T09:32:55  fix: handle timeout gracefully
