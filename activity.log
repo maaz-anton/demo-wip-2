@@ -1500,3 +1500,4 @@
 2025-06-26T14:26:58  chore: remove dead code
 2025-06-26T16:06:34  fix: correct off-by-one error
 2025-06-26T18:32:52  fix: resolve race condition
+2025-06-26T18:51:16  docs: update README
