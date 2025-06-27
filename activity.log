@@ -1502,3 +1502,4 @@
 2025-06-26T18:32:52  fix: resolve race condition
 2025-06-26T18:51:16  docs: update README
 2025-06-26T19:56:10  refactor: extract helper function
+2025-06-26T21:31:04  test: improve test coverage
