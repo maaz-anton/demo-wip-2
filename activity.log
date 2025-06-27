@@ -1504,3 +1504,4 @@
 2025-06-26T19:56:10  refactor: extract helper function
 2025-06-26T21:31:04  test: improve test coverage
 2025-06-27T12:16:26  chore: remove dead code
+2025-06-27T13:26:11  chore: bump version
