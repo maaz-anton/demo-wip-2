@@ -1524,3 +1524,4 @@
 2025-06-30T13:58:16  chore: remove dead code
 2025-06-30T13:58:45  fix: handle timeout gracefully
 2025-06-30T14:35:33  fix: handle null values correctly
+2025-06-30T14:43:16  fix: correct API response parsing
