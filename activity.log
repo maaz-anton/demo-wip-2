@@ -1522,3 +1522,4 @@
 2025-06-30T13:09:22  fix: resolve broken import
 2025-06-30T13:09:57  chore: bump version
 2025-06-30T13:58:16  chore: remove dead code
+2025-06-30T13:58:45  fix: handle timeout gracefully
