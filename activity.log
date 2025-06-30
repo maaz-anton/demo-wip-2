@@ -1523,3 +1523,4 @@
 2025-06-30T13:09:57  chore: bump version
 2025-06-30T13:58:16  chore: remove dead code
 2025-06-30T13:58:45  fix: handle timeout gracefully
+2025-06-30T14:35:33  fix: handle null values correctly
