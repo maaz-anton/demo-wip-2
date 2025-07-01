@@ -1547,3 +1547,4 @@
 2025-07-01T12:24:26  fix: correct off-by-one error
 2025-07-01T13:16:48  feat: add logging
 2025-07-01T13:55:26  docs: update inline comments
+2025-07-01T14:01:49  refactor: extract helper function
