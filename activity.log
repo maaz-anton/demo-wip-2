@@ -1557,3 +1557,4 @@
 2025-07-01T16:42:40  feat: implement pagination
 2025-07-01T17:30:51  feat: add logging
 2025-07-01T18:17:33  refactor: simplify conditional logic
+2025-07-01T18:24:11  refactor: extract helper function
