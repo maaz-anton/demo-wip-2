@@ -1562,3 +1562,4 @@
 2025-07-01T19:04:11  fix: handle null values correctly
 2025-07-01T19:27:30  fix: resolve memory leak
 2025-07-01T19:41:02  style: format code
+2025-07-01T21:29:33  docs: update inline comments
