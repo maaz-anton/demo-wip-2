@@ -1579,3 +1579,4 @@
 2025-07-02T13:47:20  refactor: extract helper function
 2025-07-02T14:13:36  fix: resolve edge case in data processing
 2025-07-02T14:37:23  refactor: extract helper function
+2025-07-02T16:04:57  feat: improve error handling
