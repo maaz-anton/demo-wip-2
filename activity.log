@@ -1598,3 +1598,4 @@
 2025-07-03T16:16:53  chore: remove dead code
 2025-07-03T16:33:03  refactor: consolidate duplicate logic
 2025-07-03T17:32:56  feat: add input sanitization
+2025-07-03T18:51:55  refactor: simplify conditional logic
