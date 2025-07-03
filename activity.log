@@ -1590,3 +1590,4 @@
 2025-07-03T12:55:54  feat: improve error handling
 2025-07-03T13:27:47  test: improve test coverage
 2025-07-03T13:40:13  fix: resolve broken import
+2025-07-03T14:43:59  fix: correct API response parsing
