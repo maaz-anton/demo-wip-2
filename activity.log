@@ -1589,3 +1589,4 @@
 2025-07-03T12:24:14  fix: correct type mismatch
 2025-07-03T12:55:54  feat: improve error handling
 2025-07-03T13:27:47  test: improve test coverage
+2025-07-03T13:40:13  fix: resolve broken import
