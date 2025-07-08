@@ -1615,3 +1615,4 @@
 2025-07-08T15:57:37  feat: add caching layer
 2025-07-08T16:17:09  feat: add caching layer
 2025-07-08T16:25:04  fix: handle timeout gracefully
+2025-07-08T18:00:41  fix: correct API response parsing
