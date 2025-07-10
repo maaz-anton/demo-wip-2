@@ -1651,3 +1651,4 @@
 2025-07-10T16:18:16  chore: update config
 2025-07-10T16:45:05  feat: add logging
 2025-07-10T16:48:05  feat: implement pagination
+2025-07-10T17:28:14  fix: correct off-by-one error
