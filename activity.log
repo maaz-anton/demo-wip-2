@@ -1655,3 +1655,4 @@
 2025-07-10T19:00:37  docs: update inline comments
 2025-07-10T20:52:18  docs: update inline comments
 2025-07-11T11:45:04  refactor: simplify conditional logic
+2025-07-11T12:06:46  fix: correct off-by-one error
