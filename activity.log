@@ -1681,3 +1681,4 @@
 2025-07-14T16:10:00  docs: update README
 2025-07-14T16:15:52  feat: add caching layer
 2025-07-14T16:40:02  docs: update README
+2025-07-14T19:14:18  fix: correct type mismatch
