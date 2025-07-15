@@ -1685,3 +1685,4 @@
 2025-07-15T11:40:38  fix: resolve race condition
 2025-07-15T12:04:03  chore: update dependencies
 2025-07-15T12:15:32  style: format code
+2025-07-15T13:13:13  fix: handle null values correctly
