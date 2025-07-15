@@ -1695,3 +1695,4 @@
 2025-07-15T15:51:45  fix: resolve race condition
 2025-07-15T16:00:39  test: improve test coverage
 2025-07-15T16:09:12  refactor: simplify conditional logic
+2025-07-15T16:49:03  refactor: clean up utility functions
