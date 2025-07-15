@@ -1690,3 +1690,4 @@
 2025-07-15T13:35:33  feat: improve error handling
 2025-07-15T13:36:39  test: add unit tests for core module
 2025-07-15T14:14:18  test: add unit tests for core module
+2025-07-15T14:22:26  refactor: simplify conditional logic
