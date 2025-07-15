@@ -1687,3 +1687,4 @@
 2025-07-15T12:15:32  style: format code
 2025-07-15T13:13:13  fix: handle null values correctly
 2025-07-15T13:33:18  refactor: clean up utility functions
+2025-07-15T13:35:33  feat: improve error handling
