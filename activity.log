@@ -1702,3 +1702,4 @@
 2025-07-15T17:37:42  feat: add validation logic
 2025-07-15T20:14:17  refactor: consolidate duplicate logic
 2025-07-16T08:34:38  fix: handle null values correctly
+2025-07-16T12:27:00  fix: correct off-by-one error
