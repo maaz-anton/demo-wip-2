@@ -1713,3 +1713,4 @@
 2025-07-16T15:32:20  test: improve test coverage
 2025-07-16T16:15:37  test: add unit tests for core module
 2025-07-16T16:15:55  fix: resolve memory leak
+2025-07-16T16:16:36  refactor: consolidate duplicate logic
