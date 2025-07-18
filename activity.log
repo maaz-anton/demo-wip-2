@@ -1738,3 +1738,4 @@
 2025-07-18T11:59:52  chore: bump version
 2025-07-18T13:00:43  fix: handle null values correctly
 2025-07-18T13:24:55  fix: resolve race condition
+2025-07-18T13:31:45  fix: resolve broken import
