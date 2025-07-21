@@ -1757,3 +1757,4 @@
 2025-07-21T11:12:59  fix: resolve broken import
 2025-07-21T11:47:34  fix: handle timeout gracefully
 2025-07-21T12:20:11  test: add unit tests for core module
+2025-07-21T12:28:13  chore: update config
