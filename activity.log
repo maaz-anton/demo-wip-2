@@ -1770,3 +1770,4 @@
 2025-07-21T15:55:16  fix: resolve race condition
 2025-07-21T16:09:14  chore: bump version
 2025-07-21T16:20:00  feat: add logging
+2025-07-21T16:52:19  feat: add caching layer
