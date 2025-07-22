@@ -1779,3 +1779,4 @@
 2025-07-22T10:38:13  chore: update config
 2025-07-22T11:04:35  refactor: simplify conditional logic
 2025-07-22T11:28:54  feat: improve error handling
+2025-07-22T11:30:13  refactor: consolidate duplicate logic
