@@ -1803,3 +1803,4 @@
 2025-07-23T12:57:11  chore: bump version
 2025-07-23T13:05:20  fix: resolve memory leak
 2025-07-23T15:18:58  fix: handle timeout gracefully
+2025-07-23T15:46:24  feat: add logging
