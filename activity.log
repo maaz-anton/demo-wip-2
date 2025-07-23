@@ -1800,3 +1800,4 @@
 2025-07-22T20:50:18  style: format code
 2025-07-23T12:24:32  fix: resolve race condition
 2025-07-23T12:30:22  refactor: extract helper function
+2025-07-23T12:57:11  chore: bump version
