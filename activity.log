@@ -1831,3 +1831,4 @@
 2025-07-25T14:40:20  test: improve test coverage
 2025-07-25T14:44:53  docs: update inline comments
 2025-07-25T15:23:22  feat: add logging
+2025-07-25T17:20:09  fix: correct off-by-one error
