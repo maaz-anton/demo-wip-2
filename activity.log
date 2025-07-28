@@ -1842,3 +1842,4 @@
 2025-07-28T12:51:35  fix: resolve broken import
 2025-07-28T13:02:32  chore: bump version
 2025-07-28T13:17:15  feat: add validation logic
+2025-07-28T14:44:03  refactor: clean up utility functions
