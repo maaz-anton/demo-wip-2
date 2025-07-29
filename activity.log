@@ -1865,3 +1865,4 @@
 2025-07-29T15:24:53  refactor: clean up utility functions
 2025-07-29T16:13:56  refactor: clean up utility functions
 2025-07-29T16:52:33  docs: update README
+2025-07-29T17:28:48  feat: add retry logic
