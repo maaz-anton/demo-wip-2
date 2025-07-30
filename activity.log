@@ -1870,3 +1870,4 @@
 2025-07-29T18:00:03  chore: bump version
 2025-07-29T18:59:48  fix: resolve broken import
 2025-07-29T21:13:30  docs: update README
+2025-07-29T21:59:23  fix: correct API response parsing
