@@ -1878,3 +1878,4 @@
 2025-07-30T11:11:55  feat: improve error handling
 2025-07-30T11:12:56  fix: handle timeout gracefully
 2025-07-30T11:13:43  refactor: simplify conditional logic
+2025-07-30T12:04:31  docs: update README
