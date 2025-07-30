@@ -1874,3 +1874,4 @@
 2025-07-30T08:03:01  chore: bump version
 2025-07-30T09:52:42  chore: update config
 2025-07-30T10:18:44  fix: resolve race condition
+2025-07-30T11:02:57  fix: handle timeout gracefully
