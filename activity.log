@@ -1890,3 +1890,4 @@
 2025-07-30T20:31:49  feat: improve error handling
 2025-07-30T20:45:08  fix: handle null values correctly
 2025-07-30T21:27:31  test: improve test coverage
+2025-07-31T12:00:18  feat: improve error handling
