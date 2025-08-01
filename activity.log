@@ -1920,3 +1920,4 @@
 2025-08-01T13:51:54  feat: add input sanitization
 2025-08-01T14:19:08  refactor: consolidate duplicate logic
 2025-08-01T14:23:56  docs: update inline comments
+2025-08-01T15:01:52  fix: correct off-by-one error
