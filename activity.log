@@ -1951,3 +1951,4 @@
 2025-08-04T20:37:14  style: format code
 2025-08-05T09:08:45  chore: remove dead code
 2025-08-05T11:38:28  chore: update dependencies
+2025-08-05T11:51:21  fix: handle null values correctly
