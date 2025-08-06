@@ -1968,3 +1968,4 @@
 2025-08-06T11:28:08  fix: resolve race condition
 2025-08-06T11:56:06  docs: update inline comments
 2025-08-06T12:22:15  chore: update dependencies
+2025-08-06T12:54:23  feat: improve error handling
