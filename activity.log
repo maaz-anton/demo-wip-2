@@ -1964,3 +1964,4 @@
 2025-08-05T16:35:26  refactor: consolidate duplicate logic
 2025-08-05T18:28:51  chore: update config
 2025-08-06T09:11:25  fix: resolve race condition
+2025-08-06T10:30:00  refactor: clean up utility functions
