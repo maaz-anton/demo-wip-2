@@ -1971,3 +1971,4 @@
 2025-08-06T12:54:23  feat: improve error handling
 2025-08-06T13:28:27  fix: resolve broken import
 2025-08-06T14:17:06  feat: add retry logic
+2025-08-06T14:18:19  feat: add caching layer
