@@ -1987,3 +1987,4 @@
 2025-08-07T15:13:42  fix: handle timeout gracefully
 2025-08-07T15:36:31  refactor: simplify conditional logic
 2025-08-07T16:32:10  fix: resolve memory leak
+2025-08-07T18:02:17  refactor: clean up utility functions
