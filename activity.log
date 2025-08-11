@@ -2009,3 +2009,4 @@
 2025-08-09T17:37:50  fix: handle null values correctly
 2025-08-10T11:57:41  refactor: clean up utility functions
 2025-08-11T09:23:10  fix: correct off-by-one error
+2025-08-11T10:15:13  docs: update README
