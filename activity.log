@@ -2012,3 +2012,4 @@
 2025-08-11T10:15:13  docs: update README
 2025-08-11T11:22:27  feat: add caching layer
 2025-08-11T11:59:58  fix: resolve broken import
+2025-08-11T12:21:04  style: format code
