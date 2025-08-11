@@ -2011,3 +2011,4 @@
 2025-08-11T09:23:10  fix: correct off-by-one error
 2025-08-11T10:15:13  docs: update README
 2025-08-11T11:22:27  feat: add caching layer
+2025-08-11T11:59:58  fix: resolve broken import
