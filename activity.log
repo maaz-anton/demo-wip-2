@@ -2018,3 +2018,4 @@
 2025-08-11T16:26:58  refactor: clean up utility functions
 2025-08-11T16:50:29  chore: update config
 2025-08-11T17:50:52  fix: handle timeout gracefully
+2025-08-11T18:53:13  feat: add input sanitization
