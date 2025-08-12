@@ -2033,3 +2033,4 @@
 2025-08-12T18:26:38  refactor: simplify conditional logic
 2025-08-12T18:27:47  docs: update inline comments
 2025-08-12T18:29:16  fix: correct type mismatch
+2025-08-12T18:40:41  fix: correct off-by-one error
