@@ -2039,3 +2039,4 @@
 2025-08-13T10:40:48  feat: add logging
 2025-08-13T10:49:36  fix: resolve broken import
 2025-08-13T12:29:05  fix: resolve memory leak
+2025-08-13T13:36:23  feat: add caching layer
