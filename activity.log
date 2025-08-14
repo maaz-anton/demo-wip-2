@@ -2055,3 +2055,4 @@
 2025-08-14T12:37:18  fix: resolve memory leak
 2025-08-14T12:50:54  feat: add logging
 2025-08-14T12:53:21  chore: update dependencies
+2025-08-14T13:08:11  fix: resolve broken import
