@@ -2051,3 +2051,4 @@
 2025-08-13T21:11:58  chore: bump version
 2025-08-14T09:58:50  fix: handle null values correctly
 2025-08-14T10:24:52  refactor: consolidate duplicate logic
+2025-08-14T11:26:46  refactor: extract helper function
