@@ -2061,3 +2061,4 @@
 2025-08-14T13:28:54  test: add unit tests for core module
 2025-08-14T14:27:45  chore: bump version
 2025-08-14T15:23:13  fix: resolve broken import
+2025-08-14T15:40:06  feat: add retry logic
