@@ -2066,3 +2066,4 @@
 2025-08-14T16:48:10  feat: implement pagination
 2025-08-14T17:46:11  feat: add retry logic
 2025-08-14T19:40:31  fix: correct type mismatch
+2025-08-14T20:01:39  feat: add caching layer
