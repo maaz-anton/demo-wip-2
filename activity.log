@@ -2067,3 +2067,4 @@
 2025-08-14T17:46:11  feat: add retry logic
 2025-08-14T19:40:31  fix: correct type mismatch
 2025-08-14T20:01:39  feat: add caching layer
+2025-08-15T09:39:21  test: add unit tests for core module
