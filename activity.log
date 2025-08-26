@@ -2147,3 +2147,4 @@
 2025-08-26T14:55:37  feat: add input sanitization
 2025-08-26T17:09:38  feat: implement pagination
 2025-08-26T17:24:57  chore: remove dead code
+2025-08-26T17:32:54  feat: add caching layer
