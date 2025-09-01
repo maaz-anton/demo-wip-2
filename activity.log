@@ -2171,3 +2171,4 @@
 2025-08-31T14:28:16  feat: implement pagination
 2025-08-31T16:10:24  refactor: simplify conditional logic
 2025-08-31T17:22:45  fix: correct off-by-one error
+2025-09-01T15:00:56  fix: correct API response parsing
