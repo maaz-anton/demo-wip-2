@@ -2190,3 +2190,4 @@
 2025-09-03T15:44:28  test: add unit tests for core module
 2025-09-03T17:15:58  feat: add validation logic
 2025-09-03T17:22:14  feat: add validation logic
+2025-09-03T17:37:17  fix: resolve broken import
