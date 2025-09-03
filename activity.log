@@ -2179,3 +2179,4 @@
 2025-09-02T14:57:07  test: improve test coverage
 2025-09-02T15:03:49  docs: update README
 2025-09-02T18:11:35  chore: bump version
+2025-09-03T10:03:49  refactor: clean up utility functions
