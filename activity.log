@@ -2186,3 +2186,4 @@
 2025-09-03T12:41:10  fix: correct API response parsing
 2025-09-03T13:47:02  refactor: consolidate duplicate logic
 2025-09-03T14:33:55  docs: update README
+2025-09-03T15:01:37  fix: handle null values correctly
