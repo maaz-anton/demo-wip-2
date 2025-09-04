@@ -2207,3 +2207,4 @@
 2025-09-04T14:08:39  chore: remove dead code
 2025-09-04T14:22:12  docs: update inline comments
 2025-09-04T14:25:03  fix: resolve broken import
+2025-09-04T14:38:35  refactor: clean up utility functions
