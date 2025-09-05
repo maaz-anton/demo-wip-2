@@ -2214,3 +2214,4 @@
 2025-09-04T18:08:45  chore: update config
 2025-09-04T19:59:38  chore: remove dead code
 2025-09-05T12:56:11  chore: update dependencies
+2025-09-05T14:17:28  refactor: consolidate duplicate logic
