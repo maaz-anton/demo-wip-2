@@ -2221,3 +2221,4 @@
 2025-09-05T17:51:33  refactor: simplify conditional logic
 2025-09-06T12:29:35  feat: add metrics tracking
 2025-09-06T12:51:55  refactor: consolidate duplicate logic
+2025-09-06T14:06:53  chore: remove dead code
