@@ -2240,3 +2240,4 @@
 2025-09-09T13:06:02  refactor: extract helper function
 2025-09-09T13:07:37  refactor: extract helper function
 2025-09-09T14:05:18  test: add unit tests for core module
+2025-09-09T15:38:09  feat: add validation logic
