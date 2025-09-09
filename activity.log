@@ -2237,3 +2237,4 @@
 2025-09-09T10:54:41  feat: add input sanitization
 2025-09-09T12:00:40  feat: improve error handling
 2025-09-09T12:20:46  feat: add input sanitization
+2025-09-09T13:06:02  refactor: extract helper function
