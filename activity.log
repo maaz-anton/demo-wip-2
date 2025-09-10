@@ -2246,3 +2246,4 @@
 2025-09-09T20:26:48  fix: correct type mismatch
 2025-09-10T09:00:06  refactor: extract helper function
 2025-09-10T10:39:21  chore: update config
+2025-09-10T11:10:01  fix: resolve broken import
