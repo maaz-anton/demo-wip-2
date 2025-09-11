@@ -2268,3 +2268,4 @@
 2025-09-11T13:59:27  refactor: extract helper function
 2025-09-11T14:06:37  chore: update dependencies
 2025-09-11T14:19:59  feat: add input sanitization
+2025-09-11T14:36:02  feat: add caching layer
