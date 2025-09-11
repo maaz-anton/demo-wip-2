@@ -2265,3 +2265,4 @@
 2025-09-11T13:00:58  feat: add input sanitization
 2025-09-11T13:35:16  feat: add logging
 2025-09-11T13:35:30  refactor: clean up utility functions
+2025-09-11T13:59:27  refactor: extract helper function
