@@ -2258,3 +2258,4 @@
 2025-09-10T19:41:08  fix: resolve memory leak
 2025-09-10T19:50:08  chore: bump version
 2025-09-11T08:26:19  feat: add caching layer
+2025-09-11T10:12:15  fix: handle timeout gracefully
