@@ -2290,3 +2290,4 @@
 2025-09-12T16:52:50  fix: correct type mismatch
 2025-09-12T16:55:03  fix: resolve broken import
 2025-09-12T19:25:09  chore: update dependencies
+2025-09-13T12:03:12  fix: correct API response parsing
