@@ -2298,3 +2298,4 @@
 2025-09-15T11:12:03  fix: correct type mismatch
 2025-09-15T12:50:20  test: add unit tests for core module
 2025-09-15T13:32:34  refactor: simplify conditional logic
+2025-09-15T13:37:49  refactor: extract helper function
