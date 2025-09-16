@@ -2328,3 +2328,4 @@
 2025-09-16T15:09:26  fix: correct type mismatch
 2025-09-16T15:37:44  chore: update config
 2025-09-16T15:53:09  fix: correct off-by-one error
+2025-09-16T16:01:39  test: add unit tests for core module
