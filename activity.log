@@ -2351,3 +2351,4 @@
 2025-09-17T15:09:11  fix: handle null values correctly
 2025-09-17T16:16:10  chore: update dependencies
 2025-09-17T16:22:17  chore: update config
+2025-09-17T16:26:55  test: improve test coverage
