@@ -2343,3 +2343,4 @@
 2025-09-17T13:07:07  feat: implement pagination
 2025-09-17T13:07:43  refactor: extract helper function
 2025-09-17T13:12:58  fix: correct type mismatch
+2025-09-17T13:52:06  feat: add retry logic
