@@ -2353,3 +2353,4 @@
 2025-09-17T16:22:17  chore: update config
 2025-09-17T16:26:55  test: improve test coverage
 2025-09-17T16:35:43  feat: add input sanitization
+2025-09-17T17:26:24  fix: correct off-by-one error
