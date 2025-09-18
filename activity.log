@@ -2360,3 +2360,4 @@
 2025-09-18T10:43:29  feat: add metrics tracking
 2025-09-18T12:08:30  style: format code
 2025-09-18T12:27:38  fix: correct API response parsing
+2025-09-18T12:29:22  feat: add caching layer
