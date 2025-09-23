@@ -2417,3 +2417,4 @@
 2025-09-23T11:26:04  chore: update dependencies
 2025-09-23T12:13:11  fix: resolve broken import
 2025-09-23T12:24:41  feat: improve error handling
+2025-09-23T12:31:48  fix: handle timeout gracefully
