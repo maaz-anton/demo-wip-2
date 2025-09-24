@@ -2439,3 +2439,4 @@
 2025-09-24T10:33:27  docs: update README
 2025-09-24T11:59:28  feat: add metrics tracking
 2025-09-24T12:19:06  feat: add logging
+2025-09-24T13:11:34  fix: resolve memory leak
