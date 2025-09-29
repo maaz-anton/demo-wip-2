@@ -2485,3 +2485,4 @@
 2025-09-29T17:26:03  chore: bump version
 2025-09-29T17:27:52  feat: add input sanitization
 2025-09-29T17:43:35  fix: resolve broken import
+2025-09-29T18:52:17  test: add unit tests for core module
