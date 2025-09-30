@@ -2486,3 +2486,4 @@
 2025-09-29T17:27:52  feat: add input sanitization
 2025-09-29T17:43:35  fix: resolve broken import
 2025-09-29T18:52:17  test: add unit tests for core module
+2025-09-30T09:20:23  docs: update README
